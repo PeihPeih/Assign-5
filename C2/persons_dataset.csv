@@ -1,0 +1,2001 @@
+Height_m,Weight_kg,Job
+1.73,79.88,psychologist
+1.55,61.81,accountant
+1.74,92.79,mechanic
+1.59,57.09,psychologist
+1.52,80.83,dentist
+2.0,99.25,accountant
+1.58,53.12,police officer
+1.7,91.31,scientist
+1.6,50.53,pharmacist
+1.54,63.74,pharmacist
+1.7,72.86,physicist
+1.68,65.89,dentist
+1.84,79.15,police officer
+2.0,68.4,mechanic
+1.86,92.75,architect
+1.75,55.9,teacher
+1.94,95.42,mechanic
+1.77,93.57,pharmacist
+1.64,53.61,police officer
+1.85,88.75,lawyer
+1.84,52.82,psychologist
+1.83,85.71,teacher
+1.51,98.27,firefighter
+1.89,58.16,firefighter
+1.97,83.5,pilot
+1.77,97.01,lawyer
+1.74,57.89,marketing manager
+1.67,57.76,data analyst
+1.71,81.42,software developer
+1.76,89.53,journalist
+1.59,62.52,marketing manager
+1.54,88.16,nurse
+1.95,60.06,economist
+1.8,90.91,graphic designer
+1.85,67.9,nurse
+1.6,85.63,chef
+1.82,51.62,journalist
+1.52,97.55,accountant
+1.64,89.58,engineer
+1.78,66.97,pilot
+1.59,85.09,data analyst
+1.57,80.85,dentist
+1.99,97.46,marketing manager
+1.82,94.43,chemist
+1.94,95.35,architect
+1.66,93.88,scientist
+1.79,61.03,lawyer
+1.99,78.82,police officer
+1.57,97.52,biologist
+1.58,66.36,salesperson
+1.74,57.31,mechanic
+1.87,75.27,psychologist
+1.75,71.5,graphic designer
+1.83,55.47,economist
+1.75,79.44,police officer
+1.56,85.49,police officer
+1.63,68.39,pilot
+1.63,66.29,dentist
+1.77,65.28,graphic designer
+1.72,72.83,chemist
+1.55,69.73,plumber
+1.94,64.24,graphic designer
+1.87,67.85,artist
+1.86,56.09,teacher
+1.83,69.64,economist
+1.63,93.65,chef
+1.95,93.6,graphic designer
+1.61,74.23,firefighter
+1.82,52.92,psychologist
+1.59,65.58,dentist
+1.97,91.51,chemist
+1.81,60.2,pharmacist
+1.98,50.07,doctor
+1.55,82.5,architect
+1.6,50.24,accountant
+1.63,67.57,teacher
+1.92,69.95,lawyer
+1.85,51.82,doctor
+1.7,60.84,artist
+1.68,77.97,police officer
+1.69,94.29,musician
+1.83,71.11,pharmacist
+1.75,74.92,lawyer
+1.65,82.63,salesperson
+1.76,92.96,biologist
+1.88,91.91,psychologist
+1.74,71.38,data analyst
+1.71,55.76,nurse
+1.93,71.14,data analyst
+1.5,63.08,architect
+1.88,65.85,pilot
+1.83,54.89,software developer
+1.93,95.18,salesperson
+1.67,95.66,journalist
+1.82,91.24,salesperson
+1.93,90.2,psychologist
+1.52,80.23,psychologist
+1.84,52.63,electrician
+1.84,52.17,police officer
+1.51,91.06,lawyer
+1.68,85.57,police officer
+1.51,81.21,software developer
+1.87,50.49,mechanic
+1.59,94.73,firefighter
+1.51,98.65,graphic designer
+1.55,93.06,architect
+1.94,98.32,teacher
+1.64,88.89,physicist
+1.78,54.64,architect
+1.93,78.62,nurse
+1.56,60.42,pharmacist
+1.84,60.2,software developer
+1.92,99.53,electrician
+1.71,93.09,electrician
+1.81,81.37,biologist
+1.92,57.36,economist
+1.66,62.72,journalist
+1.57,67.09,pharmacist
+1.6,56.02,pilot
+1.87,73.08,marketing manager
+1.78,54.83,biologist
+1.55,63.63,dentist
+1.99,63.94,chemist
+1.8,82.25,salesperson
+1.8,81.16,data analyst
+1.56,66.95,chef
+1.82,76.35,graphic designer
+1.95,61.08,journalist
+1.74,90.18,journalist
+1.99,98.27,engineer
+1.95,87.46,electrician
+1.65,84.75,salesperson
+1.55,99.95,marketing manager
+1.63,85.53,physicist
+1.84,72.85,data analyst
+1.76,66.21,marketing manager
+1.89,76.41,architect
+1.9,94.13,pilot
+1.64,85.34,graphic designer
+1.75,92.4,teacher
+1.87,77.2,musician
+1.75,87.48,physicist
+1.91,63.19,teacher
+1.69,98.17,nurse
+1.73,61.06,artist
+1.72,56.71,scientist
+1.8,74.09,data analyst
+1.6,88.61,pharmacist
+1.57,65.8,salesperson
+1.53,54.37,physicist
+1.53,67.49,mechanic
+1.72,91.22,psychologist
+1.86,79.24,artist
+1.83,68.41,electrician
+1.56,71.03,scientist
+1.54,78.9,doctor
+1.97,50.65,chemist
+1.74,73.79,physicist
+1.84,53.85,pharmacist
+1.7,61.17,teacher
+1.93,93.12,data analyst
+1.51,65.93,psychologist
+1.64,90.9,nurse
+1.9,97.4,psychologist
+1.98,62.67,mechanic
+1.88,66.46,nurse
+1.75,56.23,salesperson
+1.92,51.54,accountant
+1.67,63.97,teacher
+1.5,75.15,plumber
+1.58,86.27,nurse
+1.6,84.47,plumber
+1.51,87.31,police officer
+1.77,71.5,pharmacist
+1.93,54.32,graphic designer
+2.0,91.75,chef
+1.68,60.35,electrician
+1.67,59.81,salesperson
+1.54,85.81,software developer
+1.71,50.48,police officer
+1.73,76.0,graphic designer
+1.85,50.46,marketing manager
+1.52,63.54,musician
+1.75,71.97,chef
+1.63,93.12,accountant
+1.72,96.5,psychologist
+1.52,67.45,biologist
+1.61,87.33,pharmacist
+1.75,98.95,chef
+1.78,58.45,physicist
+1.83,77.21,accountant
+1.97,92.94,engineer
+1.76,77.26,teacher
+1.54,61.83,artist
+1.76,89.84,marketing manager
+1.8,57.41,journalist
+1.98,75.85,journalist
+1.51,82.41,teacher
+1.97,89.95,pilot
+1.66,61.22,pilot
+1.6,81.56,marketing manager
+1.65,77.75,plumber
+1.93,94.08,marketing manager
+1.83,56.3,journalist
+1.87,92.94,marketing manager
+1.97,62.56,plumber
+1.62,84.87,accountant
+1.54,54.32,chef
+1.95,88.8,accountant
+1.63,73.46,biologist
+1.71,59.16,accountant
+1.79,92.73,lawyer
+1.94,87.87,nurse
+1.77,84.82,data analyst
+1.75,89.68,marketing manager
+1.63,56.15,musician
+1.68,74.2,musician
+1.74,78.5,data analyst
+1.89,58.38,lawyer
+1.58,61.99,dentist
+1.51,86.42,lawyer
+1.85,64.49,marketing manager
+1.76,75.95,artist
+1.65,89.62,nurse
+1.73,61.99,plumber
+1.82,58.23,data analyst
+1.59,93.78,chef
+1.88,89.14,physicist
+2.0,59.41,mechanic
+1.54,98.17,engineer
+1.97,68.9,psychologist
+1.98,92.66,chemist
+1.59,64.17,firefighter
+1.71,75.77,firefighter
+1.55,66.62,musician
+1.66,79.62,economist
+1.61,98.03,chemist
+1.89,68.85,economist
+1.98,80.71,accountant
+1.65,86.63,musician
+1.86,71.61,scientist
+1.88,94.81,dentist
+1.52,62.01,pilot
+1.71,61.52,architect
+1.64,53.19,teacher
+1.75,88.71,teacher
+1.9,89.11,data analyst
+1.79,58.95,scientist
+1.51,58.74,doctor
+1.6,73.08,electrician
+1.93,88.37,pharmacist
+1.8,87.89,engineer
+1.62,83.32,architect
+1.53,54.2,pilot
+1.58,77.87,plumber
+1.65,51.51,architect
+1.83,56.1,graphic designer
+1.67,59.26,pilot
+1.86,58.87,physicist
+1.68,68.49,marketing manager
+1.77,65.78,software developer
+1.53,56.44,engineer
+1.56,51.84,accountant
+1.88,83.42,engineer
+1.97,69.15,mechanic
+1.88,64.01,data analyst
+1.61,89.02,dentist
+1.62,86.97,software developer
+1.59,51.63,scientist
+1.95,79.15,firefighter
+1.58,55.69,musician
+1.68,63.86,musician
+1.76,61.19,architect
+1.66,95.54,marketing manager
+1.57,95.17,engineer
+1.65,70.01,musician
+1.88,53.85,salesperson
+1.67,76.46,firefighter
+1.88,78.54,engineer
+1.88,79.24,teacher
+1.77,65.6,physicist
+1.78,51.61,chemist
+1.77,58.7,engineer
+1.62,63.37,chemist
+1.56,99.17,architect
+1.77,93.75,dentist
+1.91,56.82,chef
+1.91,59.29,economist
+1.62,96.77,artist
+1.79,53.98,chef
+1.67,84.97,biologist
+1.76,53.58,pilot
+1.84,88.01,electrician
+1.84,60.12,physicist
+1.99,83.56,pilot
+1.96,84.29,architect
+1.57,55.44,software developer
+1.89,99.41,nurse
+1.77,51.13,software developer
+1.87,60.07,software developer
+1.78,71.24,architect
+1.6,94.49,engineer
+1.61,72.11,marketing manager
+1.51,62.27,salesperson
+1.63,95.22,dentist
+1.77,68.25,accountant
+1.64,87.87,electrician
+1.96,59.01,salesperson
+1.63,71.43,artist
+1.77,70.64,mechanic
+1.74,93.65,plumber
+1.97,51.41,artist
+1.57,58.66,firefighter
+1.73,90.18,electrician
+1.88,71.15,accountant
+1.75,96.57,physicist
+1.66,87.25,salesperson
+1.62,50.4,mechanic
+1.83,61.23,scientist
+2.0,53.74,pilot
+1.67,86.28,teacher
+1.69,81.28,graphic designer
+1.92,75.5,physicist
+1.96,72.74,doctor
+1.62,50.81,dentist
+1.95,60.26,engineer
+1.63,75.98,journalist
+1.8,55.08,pharmacist
+1.96,97.47,data analyst
+1.52,96.93,lawyer
+1.77,90.81,journalist
+1.98,75.19,doctor
+1.92,79.66,dentist
+1.75,72.55,biologist
+1.56,85.97,data analyst
+1.86,53.5,data analyst
+1.61,76.27,engineer
+1.72,79.81,architect
+1.57,89.3,plumber
+1.75,64.82,chef
+1.86,80.31,psychologist
+1.94,89.33,chef
+1.55,64.36,engineer
+1.66,57.38,scientist
+1.79,68.22,nurse
+1.55,91.79,pharmacist
+1.63,63.54,pilot
+1.83,90.98,firefighter
+1.94,77.93,artist
+1.8,77.13,electrician
+1.58,91.54,salesperson
+1.64,94.06,musician
+1.88,83.55,teacher
+1.69,84.65,marketing manager
+1.56,54.5,graphic designer
+1.61,79.41,chef
+1.87,68.99,chef
+1.78,63.42,software developer
+1.92,62.61,dentist
+1.8,91.87,psychologist
+1.67,90.34,chef
+1.62,55.98,firefighter
+1.83,82.66,lawyer
+1.61,80.42,journalist
+1.66,82.59,chemist
+1.8,63.79,artist
+1.78,68.31,scientist
+1.91,70.61,pharmacist
+1.77,62.97,teacher
+1.68,77.35,police officer
+1.54,93.44,software developer
+1.94,51.44,salesperson
+1.86,78.36,firefighter
+1.53,92.42,architect
+1.61,75.4,doctor
+1.92,73.52,chemist
+1.97,77.67,scientist
+1.54,95.84,accountant
+1.72,86.73,mechanic
+1.92,69.18,engineer
+1.95,51.97,physicist
+1.71,91.32,psychologist
+1.8,97.15,marketing manager
+1.61,74.43,software developer
+1.96,97.86,biologist
+1.62,60.69,firefighter
+1.75,77.76,salesperson
+1.76,94.79,police officer
+1.61,88.43,scientist
+1.71,95.99,pharmacist
+1.99,65.09,doctor
+1.98,73.78,firefighter
+1.73,65.48,economist
+1.87,74.46,graphic designer
+1.66,50.39,electrician
+1.53,88.95,salesperson
+1.69,87.45,marketing manager
+1.99,95.59,biologist
+1.87,97.28,graphic designer
+1.64,77.22,electrician
+1.86,50.53,chef
+1.51,80.65,biologist
+1.97,81.22,pilot
+1.67,69.82,doctor
+1.61,88.9,scientist
+1.66,96.0,biologist
+1.67,73.51,plumber
+1.51,60.55,journalist
+1.76,99.73,lawyer
+1.6,71.99,pilot
+1.71,74.49,software developer
+1.77,56.8,plumber
+1.9,83.27,marketing manager
+1.75,78.42,mechanic
+1.6,88.93,pharmacist
+1.62,87.32,pilot
+1.67,82.91,electrician
+1.87,73.73,graphic designer
+1.84,94.16,doctor
+1.99,79.68,firefighter
+1.56,69.73,data analyst
+1.92,85.97,chemist
+1.8,82.58,firefighter
+1.7,83.81,biologist
+1.79,77.92,mechanic
+1.68,53.54,accountant
+1.55,84.58,nurse
+1.8,50.4,nurse
+1.64,84.3,chef
+1.99,88.27,chef
+1.53,67.17,firefighter
+1.82,75.22,software developer
+1.99,97.02,physicist
+1.68,62.02,nurse
+1.73,96.28,marketing manager
+1.72,93.58,salesperson
+1.66,61.13,salesperson
+1.75,99.88,musician
+1.77,82.69,economist
+1.93,73.21,teacher
+1.63,66.32,physicist
+1.82,80.76,musician
+1.68,93.83,psychologist
+1.72,99.14,journalist
+1.97,85.51,firefighter
+1.62,94.21,accountant
+1.95,83.2,data analyst
+1.87,76.56,scientist
+1.51,82.96,teacher
+1.93,91.34,pilot
+1.65,93.46,chemist
+1.89,92.28,mechanic
+1.93,97.3,pharmacist
+1.93,55.85,plumber
+1.85,75.84,musician
+1.64,66.05,chemist
+1.7,90.31,chef
+1.9,85.68,engineer
+1.72,68.01,police officer
+1.93,84.8,journalist
+1.51,85.47,software developer
+1.74,98.42,psychologist
+1.77,73.79,mechanic
+1.59,53.23,psychologist
+1.86,55.04,architect
+1.67,81.79,lawyer
+1.65,67.06,electrician
+1.5,66.55,lawyer
+1.56,66.74,accountant
+1.53,84.09,plumber
+1.52,72.36,dentist
+1.9,84.53,data analyst
+1.82,67.93,artist
+1.91,70.25,artist
+1.63,62.09,electrician
+1.67,52.49,marketing manager
+1.89,68.63,salesperson
+1.92,59.74,nurse
+1.54,99.04,economist
+1.61,91.9,dentist
+1.85,89.11,software developer
+2.0,68.88,journalist
+1.7,73.27,pilot
+1.65,71.19,accountant
+1.84,92.89,psychologist
+1.88,97.77,dentist
+1.86,52.88,engineer
+1.64,77.47,chef
+1.57,62.67,doctor
+1.84,70.16,artist
+1.98,89.83,chemist
+1.84,97.14,musician
+1.84,63.2,electrician
+1.54,77.5,firefighter
+1.86,55.87,biologist
+1.71,89.65,chemist
+1.78,84.07,software developer
+1.67,69.21,teacher
+1.99,56.45,biologist
+1.71,65.6,nurse
+1.53,73.6,chemist
+1.68,71.46,firefighter
+1.8,62.75,physicist
+1.61,84.12,architect
+1.69,87.62,psychologist
+1.91,86.54,graphic designer
+1.53,65.01,journalist
+1.53,85.32,biologist
+1.67,56.07,artist
+1.56,72.38,chemist
+1.63,90.37,police officer
+1.92,64.39,physicist
+1.96,84.25,engineer
+1.84,61.45,physicist
+1.81,74.47,police officer
+1.79,69.88,firefighter
+1.67,91.04,salesperson
+1.82,64.28,architect
+1.6,55.03,marketing manager
+1.76,91.24,marketing manager
+1.53,53.77,electrician
+1.8,64.89,journalist
+1.81,82.21,software developer
+1.53,75.3,chemist
+1.82,86.6,scientist
+1.75,92.62,scientist
+1.93,59.59,psychologist
+1.53,67.16,musician
+1.7,80.25,biologist
+1.75,94.55,police officer
+1.87,88.18,psychologist
+1.61,70.43,mechanic
+1.65,80.79,police officer
+1.89,67.22,biologist
+1.79,55.76,engineer
+1.59,51.72,economist
+2.0,94.75,psychologist
+1.51,68.35,journalist
+1.56,97.76,pharmacist
+1.69,85.59,lawyer
+1.99,94.31,plumber
+1.57,73.26,data analyst
+1.51,90.21,mechanic
+1.69,61.35,data analyst
+1.53,95.75,lawyer
+1.87,92.06,lawyer
+1.68,54.05,scientist
+1.69,50.52,plumber
+1.5,76.16,journalist
+1.57,95.61,plumber
+1.54,78.29,scientist
+1.69,58.2,accountant
+1.84,97.42,dentist
+1.9,58.18,graphic designer
+1.62,77.74,graphic designer
+1.61,95.53,marketing manager
+1.94,50.81,marketing manager
+1.88,52.49,economist
+1.72,62.19,engineer
+1.91,67.35,musician
+1.54,87.13,accountant
+1.62,51.57,architect
+1.83,96.05,pilot
+1.96,85.26,firefighter
+1.54,96.13,economist
+1.5,56.24,journalist
+1.69,96.89,journalist
+1.63,90.55,electrician
+1.82,63.99,journalist
+1.78,57.26,software developer
+1.59,80.97,software developer
+1.72,72.45,doctor
+1.6,75.89,doctor
+1.59,84.98,salesperson
+1.98,51.94,chef
+1.8,87.42,data analyst
+1.88,59.66,pilot
+1.76,56.03,engineer
+1.91,77.7,plumber
+1.91,83.24,journalist
+1.8,98.94,journalist
+1.87,83.62,accountant
+1.96,65.9,dentist
+1.88,97.1,salesperson
+1.81,52.34,police officer
+1.81,66.3,scientist
+1.77,69.78,graphic designer
+1.68,70.16,firefighter
+1.64,54.52,marketing manager
+1.72,93.9,police officer
+1.76,56.78,pilot
+1.53,55.63,engineer
+1.72,66.54,software developer
+1.67,58.75,marketing manager
+1.64,82.57,psychologist
+1.83,99.51,chef
+1.77,51.62,chemist
+2.0,56.31,biologist
+1.79,68.31,teacher
+1.61,78.68,data analyst
+1.63,50.87,teacher
+1.52,62.9,firefighter
+1.97,59.32,nurse
+1.77,75.23,firefighter
+1.71,97.08,mechanic
+1.74,52.62,dentist
+1.89,55.82,psychologist
+1.93,83.66,lawyer
+1.81,65.29,engineer
+1.86,80.29,chef
+1.95,72.72,architect
+1.57,58.03,accountant
+1.95,88.07,biologist
+1.74,99.47,chef
+1.71,50.01,artist
+1.96,70.01,software developer
+1.87,95.44,nurse
+1.54,91.4,biologist
+1.61,73.73,nurse
+1.97,67.03,pilot
+1.74,59.3,teacher
+1.78,61.87,electrician
+1.98,88.26,pharmacist
+1.81,66.72,marketing manager
+1.53,94.35,salesperson
+1.81,81.51,chef
+1.78,73.13,pilot
+1.94,84.27,software developer
+1.87,96.95,doctor
+1.96,77.81,graphic designer
+1.97,79.21,marketing manager
+1.73,58.79,data analyst
+1.68,98.95,graphic designer
+1.53,63.31,doctor
+1.68,97.88,dentist
+1.85,87.29,police officer
+1.79,71.87,salesperson
+1.79,85.88,marketing manager
+1.56,69.52,graphic designer
+1.7,68.38,architect
+1.72,62.61,musician
+1.68,84.53,plumber
+1.96,95.32,architect
+1.85,77.17,accountant
+1.97,78.34,psychologist
+1.58,88.83,plumber
+1.76,67.73,software developer
+1.78,86.91,plumber
+1.94,93.35,chemist
+1.6,74.96,graphic designer
+1.97,61.45,teacher
+1.98,80.86,engineer
+1.57,69.43,electrician
+1.78,89.45,biologist
+1.52,58.43,graphic designer
+1.98,60.97,doctor
+1.53,77.66,chef
+1.78,55.18,mechanic
+1.87,78.52,software developer
+1.99,55.89,pharmacist
+1.77,90.25,data analyst
+1.73,67.85,architect
+1.64,65.97,salesperson
+1.58,62.63,chemist
+1.8,92.96,physicist
+1.92,89.57,psychologist
+1.98,89.95,psychologist
+1.63,86.12,pilot
+1.58,91.15,police officer
+1.98,55.91,chemist
+1.8,99.96,artist
+1.68,68.22,scientist
+1.63,95.08,salesperson
+1.76,99.83,marketing manager
+1.57,69.52,musician
+1.95,90.08,doctor
+1.76,50.58,nurse
+1.65,93.96,nurse
+1.69,67.64,chemist
+1.9,94.04,mechanic
+1.86,57.72,chemist
+1.77,64.38,accountant
+1.58,78.42,chef
+1.6,56.06,journalist
+1.98,91.56,doctor
+1.65,70.5,software developer
+1.68,51.17,police officer
+1.55,53.6,engineer
+1.6,96.13,nurse
+1.59,63.95,mechanic
+1.79,61.49,nurse
+1.58,58.65,data analyst
+1.66,61.84,chef
+1.72,79.33,economist
+1.56,53.61,plumber
+1.78,53.51,marketing manager
+1.75,51.55,firefighter
+1.66,91.32,plumber
+1.61,87.11,architect
+1.63,81.78,salesperson
+1.9,93.38,police officer
+1.77,58.21,accountant
+1.71,59.07,dentist
+1.86,81.38,architect
+1.52,86.71,lawyer
+1.94,90.06,mechanic
+1.51,95.95,mechanic
+1.94,52.63,pilot
+1.81,59.25,scientist
+1.89,78.01,artist
+1.78,74.38,graphic designer
+1.86,53.36,biologist
+1.58,73.41,software developer
+1.6,99.46,police officer
+1.79,99.02,musician
+1.7,85.61,pharmacist
+1.61,76.58,teacher
+1.61,88.69,scientist
+1.87,69.37,accountant
+1.53,73.96,mechanic
+1.53,91.74,scientist
+1.94,69.79,electrician
+1.98,54.84,firefighter
+1.78,52.29,doctor
+1.79,77.27,dentist
+1.97,90.96,software developer
+1.91,73.56,plumber
+1.92,50.27,electrician
+1.95,71.9,scientist
+1.59,72.93,teacher
+1.51,89.52,software developer
+1.64,52.98,chef
+1.75,50.25,musician
+1.66,58.98,physicist
+1.66,79.19,doctor
+1.59,73.34,accountant
+1.57,92.67,engineer
+1.63,96.79,police officer
+1.73,74.36,pilot
+1.7,75.93,pilot
+1.7,62.72,pharmacist
+1.81,94.78,mechanic
+1.84,99.81,data analyst
+1.76,87.08,architect
+1.89,90.73,psychologist
+1.91,51.73,electrician
+1.62,57.27,doctor
+1.99,75.18,pilot
+1.93,68.39,salesperson
+1.62,81.66,doctor
+1.73,81.14,graphic designer
+1.73,76.55,salesperson
+1.93,64.06,software developer
+1.91,95.95,data analyst
+1.83,87.21,psychologist
+1.5,70.79,scientist
+1.54,86.69,teacher
+1.58,95.74,musician
+1.66,56.41,scientist
+1.6,78.5,nurse
+1.96,59.8,journalist
+1.9,57.41,musician
+1.84,71.41,engineer
+1.64,74.16,plumber
+1.74,55.01,salesperson
+1.77,50.86,chef
+1.61,85.6,chemist
+1.84,96.26,software developer
+1.93,97.34,scientist
+1.59,52.53,psychologist
+1.53,68.64,plumber
+1.52,75.65,psychologist
+1.62,56.06,dentist
+1.68,74.18,firefighter
+1.78,88.05,data analyst
+1.65,63.81,graphic designer
+1.78,64.19,salesperson
+1.79,95.54,biologist
+1.87,58.05,teacher
+1.56,87.07,psychologist
+1.54,52.42,plumber
+1.61,52.15,engineer
+1.81,95.22,dentist
+1.63,86.66,salesperson
+1.57,97.83,police officer
+1.62,62.85,architect
+1.89,82.54,dentist
+1.64,90.91,architect
+1.62,58.85,engineer
+1.58,69.43,marketing manager
+1.82,54.45,lawyer
+1.95,83.22,data analyst
+1.74,52.62,data analyst
+1.77,50.13,economist
+1.69,86.27,journalist
+1.99,73.88,plumber
+1.63,98.18,firefighter
+1.56,78.12,pilot
+1.67,82.64,mechanic
+1.92,65.6,accountant
+1.87,87.71,nurse
+1.88,53.77,lawyer
+1.58,63.42,electrician
+1.9,64.19,architect
+1.69,63.64,accountant
+1.52,96.05,plumber
+1.65,63.47,psychologist
+1.86,85.03,salesperson
+1.75,61.73,artist
+1.5,78.12,musician
+1.67,92.41,artist
+1.53,75.68,pilot
+1.56,54.24,artist
+1.59,60.08,scientist
+1.54,66.73,firefighter
+1.59,53.42,psychologist
+1.89,63.0,pilot
+1.96,71.29,firefighter
+1.85,85.82,musician
+1.76,84.15,architect
+1.54,87.38,architect
+1.94,51.89,pilot
+1.97,84.54,lawyer
+1.85,93.62,physicist
+1.74,56.5,teacher
+1.75,68.43,teacher
+1.61,54.46,doctor
+1.67,76.84,plumber
+1.97,66.43,lawyer
+1.77,60.72,electrician
+1.88,94.51,economist
+1.82,90.9,chemist
+1.71,92.7,chemist
+1.68,71.06,mechanic
+1.66,92.23,engineer
+1.75,83.14,marketing manager
+1.93,89.97,software developer
+1.92,56.97,salesperson
+1.52,58.29,nurse
+1.7,52.45,musician
+1.85,81.9,chef
+1.93,58.86,dentist
+1.68,94.26,mechanic
+1.79,72.86,chemist
+1.85,80.48,firefighter
+1.53,92.0,artist
+1.89,90.98,plumber
+1.9,98.14,police officer
+1.61,91.5,mechanic
+1.83,52.72,accountant
+1.66,84.12,salesperson
+1.57,85.48,chemist
+1.62,75.25,teacher
+1.51,81.46,police officer
+1.94,55.94,plumber
+1.95,80.73,musician
+1.65,80.48,doctor
+1.95,76.98,engineer
+1.69,96.7,architect
+1.59,72.18,nurse
+1.76,94.69,physicist
+1.93,51.13,mechanic
+1.93,60.38,lawyer
+1.95,54.9,chemist
+1.6,82.41,chef
+1.68,52.63,marketing manager
+1.84,95.99,pharmacist
+1.8,85.92,accountant
+1.71,91.31,plumber
+1.96,97.2,graphic designer
+1.91,77.87,plumber
+1.54,96.28,physicist
+1.91,74.44,plumber
+1.88,82.75,architect
+1.55,90.14,marketing manager
+1.6,92.74,salesperson
+1.62,84.72,biologist
+1.65,73.93,plumber
+1.7,56.81,electrician
+1.57,78.08,data analyst
+1.62,58.14,journalist
+1.53,76.18,teacher
+1.98,83.6,marketing manager
+1.76,71.34,artist
+1.67,51.25,journalist
+1.77,52.86,musician
+1.73,65.99,accountant
+1.88,71.4,biologist
+1.88,92.46,engineer
+1.81,64.4,architect
+1.82,85.67,accountant
+1.73,71.61,accountant
+1.56,73.2,biologist
+1.87,84.44,economist
+1.59,84.18,data analyst
+1.62,81.14,biologist
+1.85,91.36,engineer
+1.86,60.52,nurse
+1.72,59.56,chemist
+1.84,86.63,chef
+1.97,52.93,teacher
+1.8,89.07,economist
+1.81,87.61,pilot
+1.85,92.03,salesperson
+1.59,65.08,artist
+1.62,74.0,graphic designer
+1.59,63.92,doctor
+1.87,77.49,musician
+1.54,81.32,economist
+1.5,73.47,chef
+1.5,94.91,doctor
+1.64,67.84,data analyst
+1.99,57.66,mechanic
+2.0,74.28,police officer
+1.98,60.76,lawyer
+1.53,83.0,chemist
+1.6,88.2,salesperson
+1.7,74.08,musician
+1.8,86.24,chemist
+1.89,88.09,data analyst
+1.86,50.09,economist
+1.73,95.55,architect
+1.86,78.45,software developer
+1.56,78.82,pharmacist
+1.5,93.6,architect
+1.51,61.99,chemist
+1.72,74.6,data analyst
+1.91,59.23,data analyst
+1.62,51.25,dentist
+1.54,63.83,economist
+1.81,77.36,musician
+1.79,97.22,engineer
+1.96,70.29,software developer
+1.7,94.76,accountant
+1.52,99.61,electrician
+1.71,95.33,teacher
+1.62,53.88,journalist
+1.79,63.07,engineer
+1.77,63.31,police officer
+1.97,63.36,doctor
+1.96,74.2,biologist
+1.55,85.51,firefighter
+1.83,95.44,dentist
+1.8,69.78,scientist
+1.78,90.28,journalist
+1.85,65.43,marketing manager
+1.66,54.37,police officer
+1.77,68.1,salesperson
+1.54,80.14,software developer
+1.86,62.06,engineer
+1.71,67.58,dentist
+1.74,65.35,electrician
+1.5,77.67,dentist
+1.67,64.43,chef
+1.85,67.44,plumber
+1.85,58.91,musician
+1.78,74.65,firefighter
+1.66,94.52,engineer
+1.96,62.93,lawyer
+1.89,90.54,scientist
+1.86,70.85,plumber
+1.71,70.41,economist
+1.53,70.71,electrician
+1.98,68.55,doctor
+1.64,84.11,data analyst
+1.62,76.81,lawyer
+1.91,59.37,journalist
+1.7,93.88,pilot
+1.81,85.69,chef
+1.9,90.61,psychologist
+1.75,93.02,electrician
+1.69,88.47,software developer
+1.58,58.48,teacher
+1.94,86.0,plumber
+1.84,50.62,electrician
+1.87,51.66,accountant
+1.84,84.56,electrician
+1.68,81.85,doctor
+1.91,68.14,physicist
+1.85,81.81,pilot
+1.79,99.17,economist
+1.61,76.06,biologist
+1.97,92.52,teacher
+1.76,60.47,economist
+1.95,84.81,lawyer
+1.97,61.61,software developer
+1.98,90.53,firefighter
+1.5,55.43,data analyst
+1.88,64.44,chemist
+1.87,70.58,accountant
+1.53,68.16,pilot
+1.91,57.37,nurse
+1.62,82.56,scientist
+1.91,66.21,dentist
+1.71,53.95,architect
+1.52,67.44,teacher
+1.55,61.57,musician
+1.56,89.5,physicist
+1.81,82.83,chef
+1.91,69.6,architect
+1.56,86.44,scientist
+1.54,61.01,lawyer
+1.89,52.3,electrician
+1.95,95.86,pilot
+1.83,55.25,firefighter
+1.53,64.93,teacher
+1.86,57.86,dentist
+1.72,74.17,scientist
+1.92,71.01,accountant
+1.69,51.57,physicist
+1.66,61.7,engineer
+1.68,63.11,psychologist
+1.68,80.96,graphic designer
+1.55,50.18,engineer
+1.67,91.82,electrician
+1.75,95.6,accountant
+1.86,51.8,pilot
+1.99,60.89,lawyer
+1.87,90.46,artist
+1.84,99.4,chef
+1.92,88.77,accountant
+1.92,73.38,lawyer
+1.81,77.86,teacher
+1.63,71.96,software developer
+1.58,82.95,salesperson
+1.88,94.83,salesperson
+1.8,58.99,accountant
+1.73,92.61,journalist
+1.88,88.3,architect
+1.74,78.42,physicist
+1.67,63.76,marketing manager
+1.62,63.15,doctor
+1.76,94.17,chemist
+1.64,65.19,nurse
+1.82,62.54,teacher
+1.77,50.96,pilot
+1.98,76.19,data analyst
+1.83,58.14,mechanic
+1.83,69.25,marketing manager
+1.76,71.05,psychologist
+1.72,72.24,nurse
+1.75,73.96,salesperson
+1.92,90.75,biologist
+1.52,79.21,doctor
+1.67,55.52,chemist
+1.71,50.43,journalist
+1.99,96.86,electrician
+1.96,67.7,physicist
+1.85,69.82,plumber
+1.75,83.99,psychologist
+1.63,70.48,police officer
+1.57,73.25,lawyer
+1.53,98.97,architect
+1.88,59.83,graphic designer
+1.6,62.68,chemist
+1.77,56.65,architect
+1.57,69.17,dentist
+1.55,94.17,mechanic
+1.53,83.22,doctor
+1.73,52.41,doctor
+2.0,97.57,chef
+1.57,92.12,psychologist
+1.57,83.91,teacher
+1.98,71.11,software developer
+1.98,64.28,chemist
+1.56,59.49,accountant
+1.67,94.4,mechanic
+1.63,85.31,scientist
+1.94,51.02,chef
+1.82,70.69,lawyer
+1.97,54.06,teacher
+1.81,59.9,artist
+1.82,86.83,lawyer
+1.67,92.58,scientist
+1.87,50.64,police officer
+1.54,54.19,software developer
+1.75,60.15,accountant
+1.86,91.85,biologist
+1.63,62.78,architect
+1.76,61.1,firefighter
+1.92,59.35,data analyst
+1.53,73.18,pharmacist
+1.66,89.49,economist
+1.98,52.02,psychologist
+1.84,51.25,psychologist
+1.77,68.74,police officer
+1.8,61.59,chef
+1.54,98.21,engineer
+1.89,95.13,dentist
+1.73,63.21,plumber
+1.57,51.74,electrician
+1.55,89.64,nurse
+1.65,94.08,chef
+1.56,79.81,teacher
+1.93,52.81,dentist
+1.86,88.79,musician
+1.67,94.33,chef
+1.72,83.1,psychologist
+1.72,66.83,psychologist
+1.84,98.38,physicist
+1.85,62.19,plumber
+1.56,52.81,lawyer
+1.8,62.13,doctor
+1.88,78.94,artist
+1.98,76.21,software developer
+1.57,99.04,firefighter
+1.54,80.3,biologist
+1.52,91.56,mechanic
+1.79,85.32,economist
+1.77,52.08,nurse
+1.76,71.67,chemist
+1.63,62.92,software developer
+1.95,70.08,physicist
+1.63,73.18,physicist
+1.93,90.55,accountant
+1.94,63.26,nurse
+1.78,86.59,scientist
+1.77,79.28,teacher
+1.58,64.25,firefighter
+1.62,79.28,marketing manager
+1.92,83.53,chemist
+1.89,96.58,pharmacist
+1.96,66.89,mechanic
+1.5,98.11,biologist
+1.82,95.5,psychologist
+1.57,95.56,software developer
+1.67,70.06,lawyer
+1.52,94.0,biologist
+1.97,78.68,mechanic
+1.67,64.44,economist
+1.61,75.45,firefighter
+1.82,55.06,architect
+1.76,60.24,musician
+1.63,70.97,firefighter
+1.86,92.79,graphic designer
+1.97,55.62,chef
+1.92,74.52,lawyer
+1.65,59.45,chemist
+1.95,99.44,mechanic
+1.66,61.61,engineer
+1.86,79.9,pilot
+1.52,87.33,journalist
+1.8,87.81,nurse
+1.83,79.96,pilot
+1.95,92.95,graphic designer
+1.84,75.07,data analyst
+1.95,97.13,doctor
+1.85,98.05,pharmacist
+1.94,78.12,firefighter
+1.88,90.04,police officer
+1.55,58.66,biologist
+1.66,75.12,software developer
+1.59,52.42,data analyst
+1.73,96.9,artist
+1.99,56.89,musician
+1.53,78.65,accountant
+1.51,73.13,pharmacist
+1.78,58.99,firefighter
+1.67,52.77,chef
+1.82,87.91,engineer
+1.75,67.91,journalist
+1.96,88.09,engineer
+1.75,79.25,biologist
+1.52,84.73,artist
+1.98,84.64,accountant
+1.56,70.37,accountant
+1.79,55.1,scientist
+1.67,93.43,scientist
+1.54,76.83,plumber
+1.78,56.96,electrician
+1.6,70.88,musician
+1.96,88.04,nurse
+1.74,75.67,physicist
+1.78,57.95,teacher
+1.8,63.09,pilot
+1.92,92.96,architect
+1.88,81.67,firefighter
+1.98,86.73,mechanic
+1.9,55.87,dentist
+1.8,95.65,scientist
+1.63,87.91,dentist
+1.54,83.92,salesperson
+1.62,75.48,teacher
+1.79,90.23,physicist
+1.82,55.22,psychologist
+1.8,80.95,electrician
+1.61,95.49,artist
+1.59,93.32,salesperson
+1.62,52.29,psychologist
+1.55,82.72,software developer
+1.5,62.21,pilot
+1.54,55.62,economist
+1.67,93.97,doctor
+1.5,55.92,musician
+1.71,73.49,accountant
+1.78,94.67,pilot
+1.83,65.74,chef
+1.53,94.01,journalist
+1.88,64.73,plumber
+1.65,74.94,scientist
+1.94,51.06,teacher
+1.54,90.16,pilot
+1.95,71.67,police officer
+1.78,61.56,musician
+1.73,95.54,firefighter
+1.8,96.23,architect
+1.65,90.03,firefighter
+1.53,54.17,police officer
+1.69,50.24,doctor
+1.66,51.13,pharmacist
+1.63,61.91,data analyst
+1.61,97.54,dentist
+1.85,87.42,economist
+1.55,65.81,journalist
+1.75,63.27,economist
+1.98,56.52,chemist
+1.85,70.84,engineer
+1.89,61.4,electrician
+1.66,72.69,journalist
+1.57,88.77,doctor
+1.56,71.41,mechanic
+1.67,94.9,graphic designer
+1.82,61.99,mechanic
+1.6,75.47,data analyst
+1.89,57.67,accountant
+1.75,87.65,pilot
+1.66,69.32,data analyst
+1.69,59.06,chef
+1.7,50.01,salesperson
+1.97,79.14,musician
+1.87,96.82,doctor
+1.79,81.79,physicist
+1.73,50.23,accountant
+1.76,79.18,nurse
+1.8,70.19,scientist
+1.94,74.93,marketing manager
+1.92,91.41,pharmacist
+1.86,84.33,physicist
+1.7,93.48,economist
+1.99,91.66,pharmacist
+1.69,88.65,salesperson
+1.64,94.86,journalist
+1.75,84.38,accountant
+1.85,56.83,dentist
+1.7,57.15,doctor
+1.52,97.78,police officer
+1.8,56.92,police officer
+1.79,66.14,physicist
+1.94,75.95,salesperson
+1.63,82.08,teacher
+1.73,66.6,dentist
+1.86,67.65,teacher
+1.73,59.83,police officer
+1.85,84.61,electrician
+1.55,70.91,artist
+1.68,66.77,police officer
+1.61,91.12,musician
+1.54,81.54,plumber
+1.55,83.18,nurse
+1.93,61.55,musician
+1.59,64.7,musician
+1.74,69.15,doctor
+1.6,99.25,plumber
+1.53,85.23,electrician
+1.86,92.26,architect
+1.78,58.05,accountant
+1.75,76.6,data analyst
+1.93,94.55,software developer
+1.83,77.57,architect
+1.83,88.75,chef
+1.91,93.89,physicist
+1.69,87.91,marketing manager
+1.74,66.29,musician
+1.77,92.4,firefighter
+1.8,85.36,chemist
+1.96,69.64,teacher
+1.93,51.75,electrician
+1.88,65.98,salesperson
+1.87,55.2,engineer
+1.77,55.86,economist
+1.85,50.1,chef
+2.0,61.23,nurse
+1.97,61.47,electrician
+1.77,73.09,doctor
+1.58,81.52,journalist
+1.54,92.31,police officer
+1.68,96.22,architect
+1.62,79.25,pharmacist
+1.54,79.57,architect
+1.78,63.19,biologist
+1.97,73.3,chef
+1.77,63.32,dentist
+1.57,99.1,electrician
+1.56,81.99,scientist
+1.7,99.8,salesperson
+1.81,68.85,data analyst
+1.64,95.05,artist
+1.99,82.26,pilot
+1.82,68.63,artist
+1.74,64.05,engineer
+1.51,59.3,teacher
+1.87,56.8,accountant
+1.56,92.55,accountant
+1.86,74.67,software developer
+1.89,64.59,journalist
+1.87,76.97,marketing manager
+1.71,88.62,plumber
+1.76,52.89,salesperson
+1.52,53.71,nurse
+1.68,70.79,plumber
+1.67,94.1,biologist
+1.71,83.53,chef
+1.57,84.52,psychologist
+1.73,97.13,lawyer
+1.9,81.33,teacher
+1.96,60.68,architect
+1.61,88.93,biologist
+1.99,66.41,lawyer
+1.89,67.77,journalist
+1.84,64.96,marketing manager
+1.53,79.35,salesperson
+1.63,97.72,marketing manager
+1.93,89.05,pharmacist
+1.9,52.12,nurse
+1.9,91.44,chemist
+1.99,52.9,plumber
+1.96,69.8,firefighter
+1.72,92.7,graphic designer
+1.85,58.61,pilot
+1.95,61.71,architect
+1.99,93.48,architect
+1.99,60.41,psychologist
+1.53,72.89,pilot
+1.76,74.61,pharmacist
+1.8,57.11,mechanic
+1.91,98.0,dentist
+1.54,98.24,psychologist
+1.92,58.8,chef
+1.81,80.48,economist
+1.86,58.51,pilot
+1.91,75.3,marketing manager
+1.76,86.39,engineer
+1.66,83.71,pharmacist
+1.87,90.9,mechanic
+1.73,82.73,mechanic
+1.86,63.21,economist
+1.91,97.35,doctor
+1.64,84.67,economist
+1.57,61.11,data analyst
+1.66,83.85,dentist
+1.8,56.8,accountant
+1.85,98.99,plumber
+1.66,83.58,salesperson
+1.74,92.35,data analyst
+1.77,60.48,chemist
+1.56,96.31,journalist
+1.6,83.87,software developer
+1.62,95.69,dentist
+1.94,82.97,pilot
+1.8,97.96,accountant
+1.87,66.36,biologist
+1.84,89.55,plumber
+1.78,99.69,police officer
+1.68,97.18,chef
+1.57,60.51,physicist
+1.68,86.86,biologist
+1.84,79.38,engineer
+1.57,52.08,salesperson
+1.82,90.42,scientist
+1.55,95.0,chef
+1.57,71.42,architect
+1.64,73.88,pilot
+1.62,63.9,pharmacist
+1.82,86.57,dentist
+1.53,85.47,graphic designer
+1.81,94.24,marketing manager
+1.92,66.33,teacher
+1.89,77.93,journalist
+1.87,65.29,engineer
+1.67,60.58,plumber
+1.51,65.66,dentist
+1.9,67.16,dentist
+1.59,83.81,lawyer
+2.0,74.74,plumber
+1.58,59.94,pilot
+1.68,74.5,pilot
+1.73,82.94,lawyer
+1.75,62.5,marketing manager
+1.88,58.14,musician
+1.94,83.54,accountant
+1.5,98.85,artist
+1.74,98.87,chef
+1.65,67.16,lawyer
+1.86,86.17,data analyst
+1.91,51.07,teacher
+1.86,54.82,salesperson
+1.62,56.61,plumber
+1.89,59.4,physicist
+1.83,89.34,marketing manager
+1.74,82.18,mechanic
+1.76,76.69,doctor
+2.0,58.54,chemist
+1.54,66.59,data analyst
+1.59,82.81,nurse
+1.66,57.63,firefighter
+1.97,76.47,engineer
+1.56,75.94,journalist
+1.57,78.26,software developer
+1.81,96.71,psychologist
+1.76,50.45,salesperson
+1.54,57.92,artist
+1.59,88.08,pharmacist
+1.89,84.68,chef
+1.89,52.52,accountant
+1.57,96.39,data analyst
+1.66,98.73,chef
+1.99,70.24,nurse
+1.99,74.58,marketing manager
+1.57,89.73,nurse
+1.84,76.27,accountant
+1.82,81.54,musician
+1.9,82.15,economist
+1.58,59.15,chef
+1.87,93.54,salesperson
+1.85,58.78,software developer
+1.96,85.92,artist
+1.69,69.82,biologist
+1.6,83.41,electrician
+1.81,99.01,plumber
+1.63,82.56,pilot
+1.65,90.08,musician
+1.96,89.83,lawyer
+1.72,98.56,teacher
+1.79,79.52,scientist
+1.8,73.24,nurse
+1.79,71.36,journalist
+1.86,72.62,pharmacist
+1.89,65.48,teacher
+1.58,71.13,chef
+1.99,80.04,doctor
+1.68,87.39,chef
+1.82,59.29,chemist
+1.9,94.9,doctor
+1.54,56.3,software developer
+1.61,60.25,journalist
+1.51,62.02,dentist
+1.91,86.59,accountant
+1.94,77.87,teacher
+1.98,67.91,scientist
+1.56,81.36,chef
+1.88,70.12,engineer
+1.68,60.27,electrician
+1.65,73.63,economist
+1.57,92.98,salesperson
+1.74,76.33,mechanic
+1.75,82.14,engineer
+1.64,55.5,electrician
+1.85,68.24,accountant
+1.98,91.85,scientist
+1.95,63.1,physicist
+1.78,68.73,artist
+1.72,76.6,mechanic
+1.58,73.59,biologist
+1.68,65.58,graphic designer
+1.95,54.45,software developer
+1.95,76.83,architect
+1.69,77.84,physicist
+1.64,85.87,scientist
+1.83,83.33,nurse
+1.62,77.83,salesperson
+1.62,68.92,graphic designer
+1.65,79.56,journalist
+1.88,62.23,pilot
+1.6,68.7,salesperson
+1.86,80.59,scientist
+1.81,50.67,nurse
+1.81,90.07,marketing manager
+1.79,69.19,biologist
+1.54,69.0,mechanic
+1.71,56.04,marketing manager
+1.71,91.45,engineer
+1.94,56.05,marketing manager
+1.86,97.25,artist
+1.82,57.52,dentist
+1.96,88.2,scientist
+1.58,69.27,salesperson
+1.79,89.99,software developer
+1.93,52.3,marketing manager
+1.8,51.82,graphic designer
+1.83,96.68,plumber
+1.99,90.06,artist
+1.72,67.12,psychologist
+1.51,51.96,psychologist
+1.95,79.16,artist
+1.85,99.27,electrician
+1.75,72.34,nurse
+1.78,88.87,scientist
+1.78,76.51,economist
+1.64,60.26,plumber
+1.85,85.58,nurse
+1.83,66.51,teacher
+1.57,75.41,pharmacist
+1.53,75.41,journalist
+1.67,66.3,engineer
+1.77,80.86,software developer
+1.89,69.31,engineer
+1.67,83.67,plumber
+1.55,93.8,lawyer
+1.86,97.64,doctor
+1.82,68.06,firefighter
+1.68,64.11,software developer
+1.77,99.96,scientist
+1.86,51.84,firefighter
+1.75,50.19,musician
+1.93,72.41,architect
+1.94,70.2,lawyer
+1.53,96.85,accountant
+1.92,79.35,engineer
+1.65,63.43,scientist
+1.73,84.7,salesperson
+1.51,76.5,police officer
+1.51,99.03,engineer
+1.79,61.08,mechanic
+1.96,65.27,nurse
+1.88,78.96,architect
+1.52,78.78,psychologist
+1.98,96.66,accountant
+1.79,77.12,lawyer
+1.85,73.65,engineer
+1.82,56.73,software developer
+1.83,59.92,salesperson
+1.67,70.05,chemist
+1.75,57.05,journalist
+1.97,51.34,teacher
+1.84,89.67,doctor
+1.96,85.15,physicist
+1.94,78.82,electrician
+1.71,50.17,scientist
+1.57,97.67,engineer
+1.71,73.33,pharmacist
+2.0,83.54,marketing manager
+1.87,58.65,physicist
+1.86,77.31,nurse
+1.99,88.67,pharmacist
+1.63,92.91,pharmacist
+1.69,81.21,physicist
+1.85,84.32,economist
+1.88,80.82,mechanic
+1.75,66.92,doctor
+1.92,88.98,salesperson
+1.71,60.74,salesperson
+1.67,93.62,journalist
+1.73,68.15,scientist
+1.83,87.92,nurse
+1.53,64.66,economist
+1.71,87.35,pharmacist
+1.8,88.15,pilot
+2.0,66.99,chef
+1.66,77.18,chef
+1.65,87.01,economist
+1.56,92.7,mechanic
+1.87,75.97,engineer
+1.71,60.5,accountant
+1.98,87.86,doctor
+1.7,62.87,physicist
+1.56,82.54,teacher
+1.8,77.22,police officer
+1.93,81.0,graphic designer
+1.83,51.67,pilot
+1.87,95.98,pharmacist
+1.58,53.98,graphic designer
+1.9,50.24,architect
+1.7,56.1,software developer
+2.0,56.96,dentist
+1.54,86.36,graphic designer
+1.85,74.03,engineer
+1.93,66.9,pharmacist
+1.71,64.63,psychologist
+1.8,81.81,pilot
+1.85,94.08,police officer
+1.61,73.27,accountant
+1.97,61.85,lawyer
+1.69,55.48,physicist
+1.53,90.03,chef
+1.86,55.04,pilot
+1.64,89.67,physicist
+1.58,76.42,dentist
+1.74,90.35,chef
+1.53,52.96,engineer
+1.71,56.02,scientist
+1.89,60.54,data analyst
+1.76,82.05,architect
+1.56,63.88,graphic designer
+1.81,84.71,physicist
+1.53,68.4,physicist
+1.73,59.42,dentist
+1.93,59.9,chemist
+1.68,70.4,nurse
+1.87,93.99,chef
+1.75,71.98,teacher
+1.9,76.07,plumber
+1.85,71.98,economist
+1.68,94.66,biologist
+1.6,90.99,scientist
+1.83,61.87,police officer
+1.85,88.02,salesperson
+1.96,94.13,electrician
+1.96,77.22,scientist
+1.96,67.46,marketing manager
+1.97,59.15,architect
+1.96,55.78,salesperson
+1.81,53.22,data analyst
+1.58,69.41,graphic designer
+1.79,87.77,teacher
+1.77,65.0,scientist
+1.81,88.58,data analyst
+1.82,52.45,dentist
+1.62,51.68,nurse
+1.88,51.48,doctor
+1.89,72.73,graphic designer
+1.93,90.97,pharmacist
+1.86,82.77,biologist
+1.66,93.13,engineer
+1.7,83.22,dentist
+1.71,72.39,pharmacist
+1.73,62.18,police officer
+1.98,92.56,doctor
+1.67,72.1,chef
+1.66,84.26,lawyer
+1.71,71.63,lawyer
+1.87,56.99,scientist
+1.86,55.85,pharmacist
+1.92,57.53,marketing manager
+1.71,51.84,pharmacist
+1.88,59.84,physicist
+1.65,59.29,chemist
+1.83,92.34,pilot
+1.55,50.21,data analyst
+1.71,62.95,doctor
+1.87,57.79,accountant
+1.79,64.38,biologist
+1.76,91.13,data analyst
+1.78,81.94,doctor
+1.74,55.94,data analyst
+1.71,86.69,nurse
+1.7,96.13,software developer
+1.53,96.31,data analyst
+1.54,69.19,plumber
+1.7,99.69,teacher
+1.71,65.72,chemist
+1.79,56.29,psychologist
+1.84,99.87,scientist
+1.61,60.59,chef
+1.72,65.56,pharmacist
+1.97,55.45,police officer
+1.67,65.66,pharmacist
+1.96,50.09,doctor
+1.94,52.63,salesperson
+1.59,70.63,scientist
+1.76,90.96,graphic designer
+1.73,87.77,mechanic
+1.66,89.76,graphic designer
+1.96,94.94,police officer
+1.64,63.27,dentist
+1.57,74.11,software developer
+1.76,96.3,teacher
+1.66,69.25,firefighter
+1.71,50.65,marketing manager
+1.85,57.9,mechanic
+1.88,82.99,musician
+1.81,75.2,teacher
+1.66,67.98,teacher
+1.64,66.78,chemist
+1.77,77.93,salesperson
+1.51,94.23,plumber
+1.52,50.79,architect
+1.87,78.65,mechanic
+1.98,92.85,journalist
+1.81,74.99,police officer
+1.86,79.4,mechanic
+1.83,78.34,teacher
+1.74,64.73,musician
+1.65,80.18,psychologist
+1.62,63.23,chef
+1.66,77.98,journalist
+1.57,73.97,police officer
+1.82,61.67,nurse
+1.55,65.0,dentist
+1.71,50.06,psychologist
+1.96,87.56,teacher
+1.97,65.23,biologist
+1.8,87.14,dentist
+1.93,56.3,graphic designer
+1.63,76.33,police officer
+1.64,52.19,chef
+1.83,68.66,plumber
+1.84,97.22,engineer
+1.81,86.08,dentist
+1.88,60.82,economist
+1.77,50.74,physicist
+1.91,59.01,doctor
+1.55,93.83,mechanic
+1.66,74.84,electrician
+1.62,64.95,engineer
+1.86,90.43,scientist
+1.61,50.05,architect
+1.6,72.41,software developer
+1.79,70.15,teacher
+1.71,74.9,software developer
+1.8,52.34,scientist
+1.65,82.3,electrician
+1.51,79.29,architect
+1.75,88.13,journalist
+1.94,91.51,teacher
+1.65,66.11,nurse
+1.75,79.44,pilot
+1.53,72.3,police officer
+1.65,92.96,scientist
+1.72,61.59,dentist
+1.56,77.5,psychologist
+1.71,80.41,nurse
+1.96,83.77,graphic designer
+1.8,76.78,marketing manager
+1.84,62.08,biologist
+1.64,75.56,police officer
+1.89,86.56,teacher
+1.55,62.21,salesperson
+1.95,75.88,accountant
+1.67,56.85,salesperson
+1.72,79.36,graphic designer
+1.64,54.76,pilot
+1.78,52.18,police officer
+1.81,56.49,chef
+1.84,72.32,firefighter
+1.9,98.44,scientist
+1.75,76.72,scientist
+1.88,94.43,accountant
+1.88,57.07,artist
+1.99,88.22,doctor
+1.98,54.43,data analyst
+1.99,79.06,dentist
+1.51,77.88,salesperson
+1.52,81.23,physicist
+1.74,54.05,graphic designer
+1.98,56.94,engineer
+1.77,93.63,doctor
+1.61,50.59,mechanic
+1.99,54.35,chemist
+1.9,81.67,teacher
+1.64,67.63,economist
+1.64,89.07,police officer
+2.0,72.38,engineer
+1.89,88.58,architect
+2.0,57.97,graphic designer
+1.71,88.1,graphic designer
+1.91,65.69,doctor
+1.67,88.14,biologist
+1.98,82.57,physicist
+1.95,93.14,chemist
+1.8,75.62,physicist
+1.59,50.75,police officer
+1.73,77.25,architect
+1.63,92.21,plumber
+1.7,50.28,dentist
+1.67,98.64,doctor
+1.72,83.06,engineer
+1.87,90.22,psychologist
+1.84,80.55,electrician
+1.77,70.53,teacher
+1.97,96.14,firefighter
+1.69,73.54,pilot
+1.98,89.32,data analyst
+1.58,57.69,data analyst
+1.7,82.96,graphic designer
+1.7,73.65,salesperson
+1.9,63.46,economist
+1.7,56.95,psychologist
+1.9,96.15,pilot
+1.75,74.46,economist
+1.94,89.96,artist
+1.92,79.93,pilot
+1.84,77.09,physicist
+1.76,94.24,engineer
+1.78,64.08,physicist
+1.72,67.96,pilot
+1.91,54.02,chemist
+1.61,60.78,accountant
+1.56,85.1,lawyer
+1.62,62.05,data analyst
+1.68,62.11,police officer
+1.58,55.78,biologist
+1.6,80.29,journalist
+1.78,71.77,journalist
+1.96,90.68,graphic designer
+1.86,93.8,economist
+1.57,79.39,pharmacist
+1.91,71.54,mechanic
+1.87,50.71,firefighter
+1.63,77.08,journalist
+1.52,61.67,nurse
+1.61,97.78,plumber
+1.92,98.58,doctor
+1.73,97.0,lawyer
+1.53,92.9,musician
+1.86,71.75,data analyst
+1.82,94.87,engineer
+1.81,69.16,mechanic
+1.86,98.74,police officer
+1.76,55.13,chef
+1.55,80.72,psychologist
+1.96,69.5,economist
+1.6,54.55,psychologist
+1.58,81.35,biologist
+1.57,96.68,police officer
+1.81,56.5,mechanic
+1.87,62.19,physicist
+1.58,63.29,marketing manager
+1.78,81.13,chemist
+1.96,87.49,lawyer
+1.73,97.43,chef
+1.65,63.94,dentist
+1.89,82.49,mechanic
+1.59,50.05,plumber
+1.84,67.22,salesperson
+1.67,71.65,psychologist
+1.78,56.45,software developer
+1.63,97.58,accountant
+1.7,64.99,chef
+1.63,84.38,mechanic
+1.59,50.44,nurse
+1.95,97.84,software developer
+1.51,64.52,accountant
+1.95,50.03,architect
+1.92,82.37,physicist
+1.72,76.83,pilot
+1.51,90.12,musician
+1.61,81.28,psychologist
+1.8,58.58,police officer
+1.91,56.48,scientist
+1.64,55.2,pilot
+1.99,57.72,marketing manager
+1.66,82.97,pharmacist
+1.64,71.47,artist
+1.67,65.45,firefighter
+1.61,84.86,physicist
+1.55,87.2,marketing manager
+1.74,62.76,mechanic
+1.62,50.23,chemist
+1.58,72.98,psychologist
+1.83,78.51,nurse
+1.62,71.15,salesperson
+1.58,76.58,pilot
+1.67,52.96,plumber
+1.64,89.36,dentist
+1.71,62.45,graphic designer
+1.59,50.76,dentist
+1.67,67.88,nurse
+1.87,66.36,accountant
+1.93,54.82,artist
+1.55,75.73,engineer
+1.7,55.04,marketing manager
+1.54,54.41,police officer
+1.63,89.33,scientist
+1.58,61.84,economist
+1.87,63.85,engineer
+1.88,59.27,scientist
+1.87,57.26,pilot
+1.9,60.88,musician
+1.6,63.85,graphic designer
+1.74,53.64,mechanic
+1.64,83.74,scientist
+1.76,77.14,firefighter
+1.75,70.88,dentist
+1.65,71.12,firefighter
+1.71,97.81,accountant
+1.56,53.22,musician
+1.96,84.48,teacher
+1.61,51.25,salesperson
+1.96,62.57,economist
+1.87,58.81,nurse
+1.78,78.96,salesperson
+1.7,74.94,mechanic
+1.77,97.04,salesperson
+2.0,66.82,engineer
+1.73,60.69,artist
+1.68,95.31,teacher
+1.99,96.89,engineer
+1.85,88.75,software developer
+1.81,53.85,chef
+1.6,51.51,mechanic
+1.81,91.09,doctor
+1.77,86.36,graphic designer
+1.74,68.95,pilot
+1.93,90.62,teacher
+1.72,68.58,biologist
+1.85,85.89,chef
+1.6,80.7,data analyst
+1.54,92.87,accountant
+1.61,50.1,electrician
+1.84,86.01,physicist
+1.91,68.17,software developer
+1.87,79.67,accountant
+1.88,89.53,pilot
+1.62,75.62,nurse
+1.87,99.41,physicist
+1.84,85.37,chef
+1.83,67.61,journalist
+1.8,77.25,pharmacist
+1.98,88.1,marketing manager
+1.85,98.52,architect
+1.73,51.35,data analyst
+1.99,57.4,nurse
+1.86,74.76,architect
+1.69,87.39,artist
+1.62,61.7,chemist
+1.93,55.4,architect
+1.71,68.81,teacher
+1.69,97.6,economist
+1.79,88.51,salesperson
+1.84,89.11,software developer
+1.97,98.21,mechanic
+1.54,96.8,marketing manager
+1.73,71.34,dentist
+1.7,62.99,biologist
+1.69,78.21,teacher
+1.84,72.91,teacher
+1.83,93.67,doctor
+2.0,57.16,artist
+1.88,75.53,marketing manager
+1.8,70.47,dentist
+1.95,53.97,economist
+1.66,61.84,artist
+1.7,55.58,artist
+1.72,87.4,journalist
+1.92,84.47,mechanic
+1.65,73.83,firefighter
+1.77,54.07,lawyer
+1.93,79.79,police officer
+1.75,89.61,data analyst
+1.56,70.1,plumber
+1.55,76.72,pharmacist
+1.8,97.42,firefighter
+1.81,88.07,teacher
+1.69,67.35,journalist
+1.63,92.76,marketing manager
+1.75,87.41,biologist
+1.55,56.59,data analyst
+1.6,75.65,salesperson
+1.64,52.54,firefighter
+1.71,89.06,journalist
+1.8,74.85,engineer
+1.66,55.43,salesperson
+1.89,91.77,biologist
+1.68,97.1,chemist
+1.66,65.88,pharmacist
+1.79,79.1,pharmacist
+1.76,85.21,teacher
+1.56,97.48,teacher
+1.97,58.48,plumber
+1.68,95.6,data analyst
+1.79,84.16,economist
+1.9,86.63,marketing manager
+1.58,81.79,marketing manager
+1.95,67.69,architect
+1.74,71.98,musician
+1.76,52.42,journalist
+1.95,83.27,scientist
+1.62,63.39,musician
+1.97,75.18,musician
+1.77,75.25,teacher
+1.92,68.67,software developer
+1.73,65.18,physicist
+1.91,56.33,biologist
+1.59,71.6,pilot
+1.84,51.92,architect
+1.58,83.24,mechanic
+1.64,91.12,journalist
+1.53,64.69,marketing manager
+1.56,69.0,journalist
+1.85,72.06,chemist
+1.7,52.17,nurse
+1.67,60.56,salesperson
+1.71,79.92,plumber
+1.51,60.72,teacher
+1.96,85.35,marketing manager
+1.62,63.81,nurse
+1.73,70.51,police officer
+1.63,85.82,graphic designer
+1.55,73.21,engineer
+1.72,73.48,firefighter
+1.53,60.31,software developer
+1.93,57.26,pilot
+1.81,59.48,lawyer
+1.66,91.98,salesperson
+1.56,67.77,physicist
+1.96,58.15,chef
+1.71,57.19,salesperson
+1.88,66.02,architect
+1.81,62.29,nurse
+1.62,88.91,salesperson

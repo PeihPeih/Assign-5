@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Weight</title>
+
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            score1: 80vh;
+            background-color: #640D5F;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            border-radius: 10px;
+            width: 20%;
+            padding: 30px;
+            background-color: #D91656;
+        }
+
+        form > input, form > select {
+            width: 100%;
+            margin-bottom: 30px;
+            padding: 5px 0 5px 10px;
+            outline: none;
+        }
+
+        form > button {
+            border: none;
+            border-radius: 5px;
+            background-color: #FFEB55;
+            cursor: pointer;
+            width: 50%;
+            color: #000;
+            font-weight: bold;
+            padding: 10px 0;
+        }
+        ul li{
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h3 style="color: #FFEB55">Predict Exam Score</h3>
+    <form action="" id="form">
+        <label for="" style="color: #fff; text-align: left;margin-bottom: 10px">Score 1</label>
+        <input style="width: 95%" type="text" name="score1" placeholder="Input your score 1 (m)">
+        <label for="" style="color: #fff; text-align: left;margin-bottom: 10px">Score 2</label>
+        <input style="width: 95%" type="text" name="score2" placeholder="Input your score 2 (m)">
+        <label for="" style="color: #fff; text-align: left;margin-bottom: 10px">Score 3</label>
+        <input style="width: 95%" type="text" name="score3" placeholder="Input your score 3 (m)">
+        <label for="" style="color: #fff; text-align: left;margin-bottom: 10px">Model</label>
+        <select name="model" id="model">
+            <option value="cnn">CNN</option>
+            <option value="rnn">RNN</option>
+            <option value="linear">Linear Regression</option>
+        </select>
+        <button type="submit" id="sub-btn" style="margin: auto">Predict</button>
+    </form>
+    <h4 id="result" style="color: #fff;margin-bottom: 15px;"></h4>
+</body>
+
+<script>
+
+    // Get all jobs from AP
+
+    // Predict weight using FormData
+    const predictScore = async () => {
+        document.querySelector('#form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const form = document.querySelector('#form');
+            const formData = new FormData(form);  // Lấy dữ liệu dạng FormData
+
+            // Convert FormData to a JSON object
+            const data = {};
+            formData.forEach((value, key) => {
+                data[key] = value;
+            });
+            console.log(data);
+
+            if (data.score1 && data.score2 && data.score3) {
+                try {
+                    const response = await fetch('http://localhost:8000/api/score/predict', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify(data),
+                    });
+
+                    const data_res = await response.json();
+                    document.querySelector('#result').textContent = `Exam score: ${data_res.exam_score}`;
+                } catch (error) {
+                    console.error('Error predicting score:', error);
+                }
+            } else {
+                alert('Please fill in all fields');
+            }
+        });
+    };
+
+    // Initialize
+    predictScore();  // Ensure that this is called to handle the form submission
+</script>
+</html>
