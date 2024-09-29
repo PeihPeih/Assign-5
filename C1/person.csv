@@ -1,0 +1,2001 @@
+Height_m,Weight_kg,Job,bmi,bmi_category,Job_encode
+1.63,96.58,biologist,36.35063419774926,Overweight,3
+1.51,89.81,engineer,39.38862330599535,Overweight,11
+1.5,72.78,nurse,32.346666666666664,Overweight,19
+1.86,76.33,architect,22.063244305700078,Normal weight,1
+1.51,68.9,musician,30.21797289592562,Overweight,18
+1.63,85.55,graphic designer,32.19917949490007,Overweight,13
+1.88,73.47,pilot,20.787120869171574,Normal weight,22
+1.72,56.32,police officer,19.03731746890211,Normal weight,24
+1.73,97.31,economist,32.513615556817804,Overweight,9
+1.63,78.95,firefighter,29.715081485942267,Overweight,12
+1.9,54.02,salesperson,14.96398891966759,Underweight,26
+1.72,92.52,chemist,31.27366143861547,Overweight,5
+1.59,97.29,chemist,38.483446066215734,Overweight,5
+1.69,88.24,architect,30.895276776023252,Overweight,1
+1.8,80.48,chemist,24.839506172839506,Normal weight,5
+1.67,66.09,marketing manager,23.697515149342035,Normal weight,16
+1.51,54.05,doctor,23.70510065348011,Normal weight,8
+1.89,51.41,pharmacist,14.39209428627418,Underweight,20
+1.59,51.23,firefighter,20.26423005419089,Normal weight,12
+1.86,74.11,architect,21.421551624465252,Normal weight,1
+1.67,69.65,teacher,24.97400408763312,Normal weight,29
+1.99,66.96,nurse,16.908663922628214,Underweight,19
+1.99,92.22,nurse,23.28729072498169,Normal weight,19
+1.78,85.14,chemist,26.87160712031309,Overweight,5
+1.56,94.9,doctor,38.995726495726494,Overweight,8
+1.78,92.93,journalist,29.33026133064007,Overweight,14
+1.7,76.54,biologist,26.48442906574395,Overweight,3
+1.95,52.04,teacher,13.685733070348455,Underweight,29
+1.92,56.93,firefighter,15.443250868055555,Underweight,12
+1.76,51.8,plumber,16.722623966942148,Underweight,23
+1.97,53.26,teacher,13.723620809606018,Underweight,29
+1.78,87.82,police officer,27.717459916677186,Overweight,24
+1.76,60.79,engineer,19.624870867768596,Normal weight,11
+1.75,71.8,graphic designer,23.444897959183674,Normal weight,13
+1.82,51.96,marketing manager,15.686511290906894,Underweight,16
+1.59,66.05,engineer,26.126339939084684,Overweight,11
+1.51,90.85,economist,39.84474365159423,Overweight,9
+1.63,59.59,chemist,22.428393992999364,Normal weight,5
+1.79,60.53,firefighter,18.891420367653943,Normal weight,12
+1.71,93.32,artist,31.914093225265894,Overweight,2
+1.9,61.18,data analyst,16.947368421052634,Underweight,6
+1.66,72.09,police officer,26.161271592393675,Overweight,24
+1.67,57.44,musician,20.595933880741512,Normal weight,18
+1.57,51.06,psychologist,20.714836301675525,Normal weight,25
+1.99,65.6,physicist,16.5652382515593,Underweight,21
+1.72,64.07,mechanic,21.656976744186046,Normal weight,17
+1.91,98.1,chef,26.890710232723883,Overweight,4
+1.89,79.77,mechanic,22.331401696481063,Normal weight,17
+1.59,53.28,graphic designer,21.0751156995372,Normal weight,13
+1.91,79.07,engineer,21.6742962089855,Normal weight,11
+1.96,79.1,graphic designer,20.590379008746357,Normal weight,13
+1.79,85.93,marketing manager,26.81876345931775,Overweight,16
+1.53,71.84,plumber,30.68905121961639,Overweight,23
+1.85,85.05,data analyst,24.85025566106647,Normal weight,6
+1.53,56.52,biologist,24.144559784698195,Normal weight,3
+1.6,93.56,teacher,36.54687499999999,Overweight,29
+1.72,85.24,scientist,28.812871822606816,Overweight,27
+1.61,92.42,artist,35.654488638555605,Overweight,2
+1.77,60.17,electrician,19.205847617223657,Normal weight,10
+1.59,79.77,salesperson,31.55334045330485,Overweight,26
+1.82,84.7,engineer,25.570583262890953,Overweight,11
+1.71,57.72,plumber,19.739406997024727,Normal weight,23
+1.6,51.49,data analyst,20.113281249999996,Normal weight,6
+1.97,54.92,lawyer,14.151356644077405,Underweight,15
+1.91,59.56,marketing manager,16.326306844658866,Underweight,16
+1.75,80.57,software developer,26.308571428571426,Overweight,28
+1.84,91.47,pharmacist,27.01736767485822,Overweight,20
+1.8,75.37,nurse,23.262345679012345,Normal weight,19
+1.68,70.86,musician,25.106292517006807,Overweight,18
+1.8,72.88,accountant,22.493827160493826,Normal weight,0
+1.79,52.39,journalist,16.350925376860896,Underweight,14
+1.6,86.2,firefighter,33.67187499999999,Overweight,12
+1.57,85.67,data analyst,34.755973873179435,Overweight,6
+1.65,88.56,lawyer,32.528925619834716,Overweight,15
+1.82,95.54,economist,28.84313488709093,Overweight,9
+1.58,91.35,physicist,36.59269347860919,Overweight,21
+1.98,51.57,electrician,13.154269972451791,Underweight,10
+1.9,86.15,economist,23.86426592797784,Normal weight,9
+1.69,66.37,plumber,23.23798186338014,Normal weight,23
+1.95,90.95,lawyer,23.91847468770546,Normal weight,15
+1.86,73.32,journalist,21.193201526187995,Normal weight,14
+1.98,53.47,lawyer,13.638914396490154,Underweight,15
+1.56,93.04,architect,38.23142669296515,Overweight,1
+1.58,88.54,chemist,35.46707258452171,Overweight,5
+1.75,58.34,biologist,19.049795918367348,Normal weight,3
+1.67,76.13,engineer,27.297500806769694,Overweight,11
+1.68,65.16,salesperson,23.086734693877553,Normal weight,26
+1.66,55.89,teacher,20.282334155900713,Normal weight,29
+1.87,81.86,graphic designer,23.409305384769365,Normal weight,13
+1.97,86.16,pilot,22.20103584220155,Normal weight,22
+1.99,75.9,marketing manager,19.166182672154743,Normal weight,16
+1.65,65.41,musician,24.0257116620753,Normal weight,18
+1.72,91.2,architect,30.827474310438078,Overweight,1
+1.91,57.69,pilot,15.813711246950467,Underweight,22
+1.84,74.25,chemist,21.931120037807183,Normal weight,5
+1.82,53.22,engineer,16.066900132834196,Underweight,11
+1.83,50.35,marketing manager,15.034787542178027,Underweight,16
+1.55,95.09,teacher,39.579604578563995,Overweight,29
+1.52,74.26,mechanic,32.14162049861496,Overweight,17
+1.67,92.63,graphic designer,33.21381189716376,Overweight,13
+1.65,51.97,nurse,19.089072543618,Normal weight,19
+1.75,98.16,plumber,32.052244897959184,Overweight,23
+1.59,92.97,artist,36.77465290138839,Overweight,2
+1.62,75.55,software developer,28.787532388355427,Overweight,28
+1.8,97.36,marketing manager,30.04938271604938,Overweight,16
+1.95,54.83,data analyst,14.419460880999344,Underweight,6
+1.6,77.45,marketing manager,30.253906249999996,Overweight,16
+1.57,69.34,physicist,28.13095865958051,Overweight,21
+1.71,66.99,firefighter,22.909613214322356,Normal weight,12
+1.53,79.23,psychologist,33.845956683326925,Overweight,25
+1.69,64.32,dentist,22.520219880256295,Normal weight,7
+1.91,63.4,pilot,17.378909569364875,Underweight,22
+1.84,71.25,scientist,21.045014177693762,Normal weight,27
+1.71,75.25,economist,25.734414007728876,Overweight,9
+1.68,67.14,chemist,23.788265306122454,Normal weight,5
+1.53,99.4,nurse,42.462300824469224,Overweight,19
+1.99,62.21,economist,15.709199262644882,Underweight,9
+1.72,63.55,physicist,21.481206057328286,Normal weight,21
+1.86,69.59,journalist,20.115042201410567,Normal weight,14
+1.87,64.53,dentist,18.453487374531726,Underweight,7
+1.66,88.7,accountant,32.18899695166207,Overweight,0
+1.6,82.23,lawyer,32.12109374999999,Overweight,15
+1.85,68.86,biologist,20.11979547114682,Normal weight,3
+1.72,65.52,doctor,22.147106544077882,Normal weight,8
+2.0,79.06,nurse,19.765,Normal weight,19
+1.96,80.1,salesperson,20.850687213660976,Normal weight,26
+1.58,58.76,chef,23.53789456817817,Normal weight,4
+1.69,73.6,accountant,25.769405833129092,Overweight,0
+1.74,89.95,police officer,29.710001321178492,Overweight,24
+1.78,80.02,graphic designer,25.255649539199595,Overweight,13
+1.79,55.82,lawyer,17.42142879435723,Underweight,15
+1.74,93.75,graphic designer,30.965120887831944,Overweight,13
+1.58,82.35,salesperson,32.98750200288415,Overweight,26
+1.69,52.21,psychologist,18.28017226287595,Underweight,25
+2.0,62.9,musician,15.725,Underweight,18
+1.94,62.23,data analyst,16.534700818365394,Underweight,6
+1.55,95.02,pharmacist,39.55046826222684,Overweight,20
+1.88,87.05,mechanic,24.629357175192396,Normal weight,17
+1.55,83.38,teacher,34.70551508844952,Overweight,29
+1.74,94.28,electrician,31.140177037917823,Overweight,10
+1.7,85.86,marketing manager,29.709342560553637,Overweight,16
+1.6,72.55,physicist,28.339843749999993,Overweight,21
+1.67,74.08,biologist,26.562443974326797,Overweight,3
+1.58,94.25,accountant,37.75436628745393,Overweight,0
+1.71,94.74,chemist,32.39971273212271,Overweight,5
+1.94,78.3,doctor,20.80454883622064,Normal weight,8
+1.65,98.68,journalist,36.24609733700643,Overweight,14
+1.71,78.32,plumber,26.78430970213057,Overweight,23
+1.5,66.52,accountant,29.564444444444444,Overweight,0
+1.52,80.91,police officer,35.01990997229917,Overweight,24
+1.84,71.95,musician,21.251772211720226,Normal weight,18
+1.64,82.85,plumber,30.803837001784654,Overweight,23
+1.82,91.82,nurse,27.72008211568651,Overweight,19
+1.54,79.9,scientist,33.69033563838759,Overweight,27
+1.65,63.41,pilot,23.291092745638203,Normal weight,22
+1.76,83.01,lawyer,26.798166322314053,Overweight,15
+1.82,98.67,chemist,29.788069073783358,Overweight,5
+1.83,92.59,teacher,27.64788437994565,Overweight,29
+1.79,94.05,lawyer,29.353016447676413,Overweight,15
+1.58,73.04,chef,29.25813170966191,Overweight,4
+1.65,79.8,pilot,29.311294765840223,Overweight,22
+1.71,50.16,electrician,17.153996101364523,Underweight,10
+1.93,98.3,journalist,26.389970200542297,Overweight,14
+1.97,52.38,musician,13.496869282898297,Underweight,18
+1.88,86.87,scientist,24.57842915346311,Normal weight,27
+1.65,59.65,accountant,21.910009182736456,Normal weight,0
+1.6,95.04,journalist,37.12499999999999,Overweight,14
+1.88,73.29,police officer,20.736192847442286,Normal weight,24
+1.96,76.62,artist,19.944814660558105,Normal weight,2
+1.74,81.27,firefighter,26.843043995243754,Overweight,12
+1.55,58.81,teacher,24.4786680541103,Normal weight,29
+1.74,66.95,firefighter,22.113224996697053,Normal weight,12
+1.8,94.62,mechanic,29.203703703703702,Overweight,17
+1.69,84.36,graphic designer,29.536780925037643,Overweight,13
+1.73,58.69,police officer,19.60974305857195,Normal weight,24
+1.67,89.13,police officer,31.958836817383197,Overweight,24
+1.9,67.77,doctor,18.77285318559557,Normal weight,8
+1.61,57.02,firefighter,21.997608116970795,Normal weight,12
+1.64,82.09,police officer,30.521267102914937,Overweight,24
+1.66,99.23,chef,36.0103062853825,Overweight,4
+1.68,80.45,pilot,28.50410997732427,Overweight,22
+1.86,97.76,nurse,28.25760203491733,Overweight,19
+1.67,99.07,artist,35.52296604395998,Overweight,2
+1.78,70.93,architect,22.38669359929302,Normal weight,1
+1.73,68.71,pilot,22.957666477329678,Normal weight,22
+1.64,96.58,accountant,35.908685306365264,Overweight,0
+1.88,96.37,police officer,27.266296966953377,Overweight,24
+1.65,99.9,mechanic,36.694214876033065,Overweight,17
+1.89,92.76,artist,25.967918031410097,Overweight,2
+1.55,92.37,salesperson,38.4474505723205,Overweight,26
+1.67,65.87,pharmacist,23.618631001470117,Normal weight,20
+1.85,61.75,scientist,18.04236669101534,Underweight,27
+1.99,57.98,doctor,14.64104441807025,Underweight,8
+1.89,58.54,doctor,16.38811903362168,Underweight,8
+1.56,70.78,psychologist,29.0844838921762,Overweight,25
+1.76,50.68,mechanic,16.361053719008265,Underweight,17
+1.54,62.29,chef,26.26496879743633,Overweight,4
+1.68,74.4,electrician,26.36054421768708,Overweight,10
+1.59,77.78,journalist,30.766188046358923,Overweight,14
+1.77,92.23,architect,29.43917775862619,Overweight,1
+1.55,75.34,software developer,31.359001040582722,Overweight,28
+1.5,67.02,journalist,29.786666666666665,Overweight,14
+1.83,83.1,physicist,24.814118068619543,Normal weight,21
+1.54,99.97,doctor,42.152976893236634,Overweight,8
+1.51,63.87,software developer,28.01192930134643,Overweight,28
+1.77,87.73,chef,28.002808899103066,Overweight,4
+1.81,68.72,dentist,20.976160678855955,Normal weight,7
+1.97,60.64,artist,15.6252415676776,Underweight,2
+1.92,53.11,police officer,14.40700954861111,Underweight,24
+1.59,60.4,plumber,23.891459989715592,Normal weight,23
+1.76,77.39,architect,24.98385847107438,Normal weight,1
+1.73,52.16,electrician,17.427912726786726,Underweight,10
+1.94,92.38,nurse,24.54564778403656,Normal weight,19
+1.64,97.16,biologist,36.12433075550268,Overweight,3
+1.51,96.42,nurse,42.28761896408052,Overweight,19
+1.51,52.18,pharmacist,22.8849611859129,Normal weight,20
+1.84,55.63,lawyer,16.431356332703213,Underweight,15
+1.69,67.3,salesperson,23.56360071426071,Normal weight,26
+1.6,51.01,electrician,19.925781249999996,Normal weight,10
+1.82,96.8,chef,29.223523729018233,Overweight,4
+1.91,67.41,biologist,18.478111893862557,Underweight,3
+1.55,66.1,accountant,27.513007284079077,Overweight,0
+1.6,57.74,lawyer,22.554687499999996,Normal weight,15
+1.99,97.8,plumber,24.696346051867376,Normal weight,23
+1.72,91.57,marketing manager,30.952541914548405,Overweight,16
+1.96,76.01,software developer,19.786026655560185,Normal weight,28
+1.63,92.55,engineer,34.83382889834017,Overweight,11
+1.83,73.5,electrician,21.947505150945084,Normal weight,10
+1.99,70.65,artist,17.84045857427843,Underweight,2
+1.86,59.93,biologist,17.322811885767138,Underweight,3
+1.87,62.97,chemist,18.007377963338953,Underweight,5
+1.58,99.04,plumber,39.67312930620093,Overweight,23
+1.94,79.77,data analyst,21.195132320119036,Normal weight,6
+1.77,78.52,artist,25.063040633279066,Overweight,2
+1.64,86.01,data analyst,31.978732897085077,Overweight,6
+1.63,51.77,teacher,19.485114230870565,Normal weight,29
+1.73,65.92,biologist,22.025460255939056,Normal weight,3
+1.98,85.08,architect,21.70186715641261,Normal weight,1
+1.97,50.47,accountant,13.004715401066763,Underweight,0
+1.53,60.62,nurse,25.896022897176298,Overweight,19
+1.6,56.57,chef,22.097656249999996,Normal weight,4
+1.7,54.95,biologist,19.01384083044983,Normal weight,3
+1.82,72.6,architect,21.917642796763673,Normal weight,1
+1.98,82.38,accountant,21.01316192225283,Normal weight,0
+1.54,66.03,physicist,27.841963231573622,Overweight,21
+1.83,83.0,scientist,24.78425751739377,Normal weight,27
+1.75,52.1,architect,17.012244897959185,Underweight,1
+1.97,96.04,teacher,24.74683707387462,Normal weight,29
+1.57,77.29,journalist,31.35624163252059,Overweight,14
+1.71,88.67,pharmacist,30.323860333093947,Overweight,20
+1.87,70.49,chef,20.15785409934513,Normal weight,4
+1.85,61.32,marketing manager,17.916727538349157,Underweight,16
+1.75,65.28,doctor,21.31591836734694,Normal weight,8
+1.7,97.99,teacher,33.90657439446367,Overweight,29
+1.59,91.69,software developer,36.268343815513624,Overweight,28
+1.71,77.0,mechanic,26.332888752094664,Overweight,17
+1.79,94.89,chemist,29.615180549920414,Overweight,5
+1.75,58.53,data analyst,19.111836734693878,Normal weight,6
+1.91,94.76,economist,25.97516515446397,Overweight,9
+1.59,99.29,software developer,39.27455401289506,Overweight,28
+1.89,63.8,marketing manager,17.86064219926654,Underweight,16
+1.76,62.16,psychologist,20.06714876033058,Normal weight,25
+1.96,93.27,mechanic,24.278946272386506,Normal weight,17
+1.94,93.85,artist,24.936231267934957,Normal weight,2
+1.83,83.59,scientist,24.960434769625845,Normal weight,27
+1.58,95.64,journalist,38.31116808203813,Overweight,14
+1.5,60.93,lawyer,27.08,Overweight,15
+1.61,93.22,nurse,35.96311870684001,Overweight,19
+1.63,82.07,engineer,30.889382362904136,Overweight,11
+1.61,99.11,police officer,38.235407584583925,Overweight,24
+1.72,67.79,software developer,22.91441319632234,Normal weight,28
+1.55,94.94,data analyst,39.51716961498438,Overweight,6
+1.86,81.27,doctor,23.49115504682622,Normal weight,8
+1.59,68.11,biologist,26.94118112416439,Overweight,3
+1.94,88.78,data analyst,23.5891168030609,Normal weight,6
+1.82,77.0,plumber,23.24598478444632,Normal weight,23
+1.51,97.32,electrician,42.6823384939257,Overweight,10
+1.51,84.74,electrician,37.16503662120082,Overweight,10
+1.78,96.48,pharmacist,30.450700669107437,Overweight,20
+1.78,59.03,electrician,18.630854690064385,Normal weight,10
+1.7,68.63,chemist,23.74740484429066,Normal weight,5
+1.56,59.63,pilot,24.502794214332674,Normal weight,22
+1.92,53.88,pharmacist,14.615885416666668,Underweight,20
+1.86,51.66,physicist,14.932362122788758,Underweight,21
+1.76,98.31,physicist,31.73747417355372,Overweight,21
+1.98,87.68,journalist,22.365064789307215,Normal weight,14
+1.58,97.72,electrician,39.14436788976125,Overweight,10
+1.87,66.51,physicist,19.019703165661014,Normal weight,21
+1.98,75.86,dentist,19.35006631976329,Normal weight,7
+1.84,71.98,marketing manager,21.26063327032136,Normal weight,16
+1.82,74.92,graphic designer,22.61804129935998,Normal weight,13
+1.57,98.22,pilot,39.84745831473893,Overweight,22
+1.65,68.69,electrician,25.23048668503214,Overweight,10
+1.92,54.46,dentist,14.773220486111112,Underweight,7
+1.84,73.89,psychologist,21.824787334593573,Normal weight,25
+1.59,64.84,police officer,25.647719631343694,Overweight,24
+1.53,53.82,software developer,22.991157247212612,Normal weight,28
+1.86,95.45,software developer,27.589894785524336,Overweight,28
+1.77,91.42,electrician,29.180631363912028,Overweight,10
+1.99,81.53,pharmacist,20.587863942829728,Normal weight,20
+1.69,69.56,firefighter,24.35488953468016,Normal weight,12
+1.81,78.11,pharmacist,23.84237355392082,Normal weight,20
+1.56,77.84,police officer,31.985535831689678,Overweight,24
+1.73,96.47,graphic designer,32.23295131811955,Overweight,13
+1.86,56.58,marketing manager,16.354491848768642,Underweight,16
+1.73,98.49,dentist,32.907881987370104,Overweight,7
+1.68,51.08,teacher,18.09807256235828,Underweight,29
+1.51,57.66,scientist,25.288364545414673,Overweight,27
+1.62,54.49,chef,20.76284103033074,Normal weight,4
+1.87,62.03,architect,17.73856844633818,Underweight,1
+1.6,58.15,plumber,22.714843749999996,Normal weight,23
+1.65,54.49,chemist,20.014692378328746,Normal weight,5
+1.85,84.88,dentist,24.80058436815193,Normal weight,7
+1.86,95.41,electrician,27.578332755231813,Overweight,10
+1.92,80.36,graphic designer,21.79904513888889,Normal weight,13
+1.72,76.57,electrician,25.8822336398053,Overweight,10
+1.6,95.82,artist,37.42968749999999,Overweight,2
+1.93,51.38,pilot,13.79365889017155,Underweight,22
+1.61,90.6,electrician,34.95235523320859,Overweight,10
+1.76,69.41,marketing manager,22.407670454545453,Normal weight,16
+1.86,51.84,pharmacist,14.984391259105099,Underweight,20
+1.92,97.12,accountant,26.345486111111114,Overweight,0
+1.86,95.02,journalist,27.46560295987975,Overweight,14
+1.7,73.78,accountant,25.529411764705884,Overweight,0
+1.88,76.67,teacher,21.692507922136716,Normal weight,29
+1.82,79.28,biologist,23.934307450790968,Normal weight,3
+1.64,94.13,police officer,34.99776918500893,Overweight,24
+1.65,56.72,artist,20.83379247015611,Normal weight,2
+1.87,53.46,economist,15.287826360490719,Underweight,9
+1.97,53.08,graphic designer,13.677239815506711,Underweight,13
+1.88,74.47,chef,21.07005432322318,Normal weight,4
+1.73,89.11,musician,29.773797988572955,Overweight,18
+1.55,83.36,pilot,34.69719042663891,Overweight,22
+1.87,84.91,dentist,24.281506477165486,Normal weight,7
+1.82,99.52,electrician,30.04468059413114,Overweight,10
+1.78,94.99,police officer,29.9804317636662,Overweight,24
+1.74,96.63,chef,31.91636940150614,Overweight,4
+1.74,71.96,musician,23.76800105694279,Normal weight,18
+1.78,67.34,plumber,21.253629592223206,Normal weight,23
+1.96,92.74,chef,24.14098292378176,Normal weight,4
+1.63,81.96,artist,30.847980729421504,Overweight,2
+1.93,81.66,salesperson,21.92273618083707,Normal weight,26
+1.97,72.55,accountant,18.69411734391507,Normal weight,0
+1.94,59.43,police officer,15.790732277606548,Underweight,24
+1.76,54.87,teacher,17.713713842975206,Underweight,29
+1.73,90.72,chef,30.31173777941127,Overweight,4
+1.51,61.64,pharmacist,27.033902021841147,Overweight,20
+1.85,78.0,artist,22.79035792549306,Normal weight,2
+1.76,76.6,doctor,24.728822314049587,Normal weight,8
+1.54,78.41,nurse,33.06206780232754,Overweight,19
+1.98,72.83,physicist,18.577186001428426,Normal weight,21
+1.55,54.08,architect,22.5098855359001,Normal weight,1
+1.5,54.05,scientist,24.022222222222222,Normal weight,27
+1.53,92.23,plumber,39.39937630825751,Overweight,23
+1.65,90.06,lawyer,33.07988980716254,Overweight,15
+1.83,74.02,software developer,22.102780017319116,Normal weight,28
+1.76,97.57,marketing manager,31.498579545454543,Overweight,16
+1.94,80.94,software developer,21.506004888936125,Normal weight,28
+1.68,61.59,teacher,21.821853741496604,Normal weight,29
+1.5,78.47,mechanic,34.87555555555556,Overweight,17
+1.76,79.16,police officer,25.555268595041323,Overweight,24
+1.72,67.07,psychologist,22.671038399134666,Normal weight,25
+1.96,89.49,teacher,23.294981257809248,Normal weight,29
+1.58,58.96,chemist,23.618009934305395,Normal weight,5
+1.86,82.75,musician,23.918950167649434,Normal weight,18
+1.52,90.59,marketing manager,39.20966066481994,Overweight,16
+1.51,67.9,pilot,29.779395640542084,Overweight,22
+1.73,80.85,plumber,27.013932974706805,Overweight,23
+1.84,68.42,economist,20.209120982986768,Normal weight,9
+1.57,61.18,chef,24.820479532638238,Normal weight,4
+1.68,77.25,dentist,27.370323129251705,Overweight,7
+1.81,83.72,nurse,25.5547754952535,Overweight,19
+1.98,81.69,pharmacist,20.83715947352311,Normal weight,20
+1.95,82.71,scientist,21.75147928994083,Normal weight,27
+1.66,66.62,electrician,24.176222964145744,Normal weight,10
+1.95,94.18,physicist,24.767915844838924,Normal weight,21
+1.52,69.01,dentist,29.86928670360111,Overweight,7
+1.75,71.31,software developer,23.284897959183674,Normal weight,28
+1.8,74.92,journalist,23.123456790123456,Normal weight,14
+1.88,54.44,economist,15.402897238569489,Underweight,9
+1.6,76.44,doctor,29.859374999999993,Overweight,8
+1.92,60.7,doctor,16.465928819444446,Underweight,8
+1.7,66.96,journalist,23.169550173010382,Normal weight,14
+1.88,85.15,biologist,24.091783612494346,Normal weight,3
+1.79,89.37,pharmacist,27.892387878031276,Overweight,20
+1.8,76.81,firefighter,23.706790123456788,Normal weight,12
+1.99,86.41,police officer,21.820156056665233,Normal weight,24
+1.84,51.16,musician,15.111058601134214,Underweight,18
+1.83,94.68,software developer,28.27196990056436,Overweight,28
+1.93,79.39,dentist,21.313323847620072,Normal weight,7
+1.89,74.45,musician,20.842081688642537,Normal weight,18
+1.55,74.75,doctor,31.11342351716961,Overweight,8
+1.62,87.84,dentist,33.470507544581615,Overweight,7
+1.55,77.92,accountant,32.43288241415192,Overweight,0
+1.8,63.9,accountant,19.72222222222222,Normal weight,0
+1.6,90.46,economist,35.33593749999999,Overweight,9
+1.62,94.05,chef,35.836762688614535,Overweight,4
+1.87,71.48,plumber,20.440961994909774,Normal weight,23
+1.95,72.74,chemist,19.129520052596977,Normal weight,5
+1.79,73.98,graphic designer,23.089167004775135,Normal weight,13
+1.95,90.44,salesperson,23.784352399737017,Normal weight,26
+1.56,78.18,data analyst,32.125246548323474,Overweight,6
+1.52,62.66,mechanic,27.120844875346258,Overweight,17
+1.61,57.44,chemist,22.159638902820102,Normal weight,5
+1.74,86.01,musician,28.408640507332542,Overweight,18
+1.71,85.55,chef,29.256865360281797,Overweight,4
+1.71,83.2,marketing manager,28.4531992749906,Overweight,16
+1.69,67.83,doctor,23.74916844648297,Normal weight,8
+1.99,89.74,chemist,22.661043913032497,Normal weight,5
+1.97,60.06,journalist,15.475791697802057,Underweight,14
+1.51,80.28,musician,35.20898206219025,Overweight,18
+1.82,58.45,economist,17.6458157227388,Underweight,9
+1.68,97.94,pilot,34.700963718820866,Overweight,22
+1.52,99.3,police officer,42.97957063711911,Overweight,24
+1.8,97.15,pilot,29.984567901234566,Overweight,22
+1.91,91.09,teacher,24.96916202954963,Normal weight,29
+1.99,78.48,data analyst,19.817681371682532,Normal weight,6
+1.91,55.68,musician,15.262739508237164,Underweight,18
+1.79,64.27,chef,20.05867482288318,Normal weight,4
+1.6,86.42,teacher,33.75781249999999,Overweight,29
+1.78,79.89,plumber,25.214619366241635,Overweight,23
+1.7,60.12,lawyer,20.802768166089965,Normal weight,15
+1.52,83.14,nurse,35.9851108033241,Overweight,19
+1.87,71.83,data analyst,20.54105064485687,Normal weight,6
+1.52,50.48,architect,21.849030470914126,Normal weight,1
+1.93,66.48,economist,17.84745899218771,Underweight,9
+1.88,62.52,software developer,17.688999547306477,Underweight,28
+1.7,75.3,firefighter,26.05536332179931,Overweight,12
+1.83,73.51,chef,21.950491206067664,Normal weight,4
+1.51,86.77,journalist,38.0553484496294,Overweight,14
+1.92,55.36,software developer,15.01736111111111,Underweight,28
+1.73,90.71,firefighter,30.308396538474387,Overweight,12
+1.82,88.58,salesperson,26.741939379302014,Overweight,26
+1.6,95.0,scientist,37.10937499999999,Overweight,27
+1.89,98.2,nurse,27.49083172363596,Overweight,19
+1.9,64.04,physicist,17.739612188365655,Underweight,21
+1.78,68.49,pilot,21.616588814543615,Normal weight,22
+1.94,72.68,chef,19.311297693697526,Normal weight,4
+1.97,96.43,mechanic,24.84732922775645,Normal weight,17
+1.76,67.42,engineer,21.765237603305785,Normal weight,11
+1.63,77.84,accountant,29.297301366253908,Overweight,0
+1.84,97.39,lawyer,28.76594990548204,Overweight,15
+1.64,86.19,economist,32.04565734681738,Overweight,9
+1.54,58.93,chemist,24.84820374430764,Normal weight,5
+1.85,54.42,psychologist,15.900657414170926,Underweight,25
+1.53,62.04,graphic designer,26.502627194668715,Overweight,13
+1.78,59.24,software developer,18.697134200227243,Normal weight,28
+1.69,80.19,mechanic,28.07674801302476,Overweight,17
+1.9,63.61,data analyst,17.62049861495845,Underweight,6
+1.54,82.5,teacher,34.786641929499076,Overweight,29
+1.77,62.7,software developer,20.01340610935555,Normal weight,28
+1.77,83.0,pharmacist,26.493025631204315,Overweight,20
+1.8,54.22,artist,16.734567901234566,Underweight,2
+1.5,62.05,data analyst,27.577777777777776,Overweight,6
+1.79,83.24,salesperson,25.97921413189351,Overweight,26
+1.77,85.75,plumber,27.37080660091289,Overweight,23
+1.9,72.09,data analyst,19.969529085872576,Normal weight,6
+1.84,77.34,graphic designer,22.843809073724007,Normal weight,13
+1.91,70.29,police officer,19.26756393739207,Normal weight,24
+1.89,65.92,doctor,18.454130623442794,Underweight,8
+1.8,67.97,marketing manager,20.978395061728392,Normal weight,16
+1.53,58.3,nurse,24.90495108718869,Normal weight,19
+1.87,78.9,biologist,22.56284137378821,Normal weight,3
+1.54,75.05,graphic designer,31.64530274919885,Overweight,13
+1.91,67.96,firefighter,18.62887530495326,Normal weight,12
+1.81,62.82,lawyer,19.175238851072923,Normal weight,15
+1.89,75.54,psychologist,21.147224321827498,Normal weight,25
+1.94,88.86,musician,23.610373047082582,Normal weight,18
+1.68,79.27,musician,28.086026077097507,Overweight,18
+1.5,61.38,nurse,27.28,Overweight,19
+1.64,97.1,firefighter,36.10202260559191,Overweight,12
+1.96,74.98,data analyst,19.517909204498128,Normal weight,6
+1.55,95.65,salesperson,39.812695109261185,Overweight,26
+1.78,64.39,mechanic,20.322560282792576,Normal weight,17
+1.68,95.56,engineer,33.8577097505669,Overweight,11
+1.58,86.37,marketing manager,34.59782086204134,Overweight,16
+1.95,75.8,software developer,19.934253780407627,Normal weight,28
+1.99,91.22,graphic designer,23.034771849195725,Normal weight,13
+1.69,80.75,nurse,28.272819579146393,Overweight,19
+1.83,51.09,physicist,15.255755621248767,Underweight,21
+1.8,52.9,chef,16.327160493827158,Underweight,4
+1.76,96.53,plumber,31.162835743801654,Overweight,23
+1.51,50.59,salesperson,22.187623349853077,Normal weight,26
+1.54,52.64,electrician,22.195985832349468,Normal weight,10
+1.6,88.02,doctor,34.38281249999999,Overweight,8
+1.84,69.93,pilot,20.65512759924386,Normal weight,22
+1.66,60.88,accountant,22.093192045289594,Normal weight,0
+1.68,79.37,electrician,28.121456916099778,Overweight,10
+1.82,95.0,artist,28.680111097693512,Overweight,2
+1.96,84.0,software developer,21.86588921282799,Normal weight,28
+1.66,99.63,doctor,36.1554652344317,Overweight,8
+1.51,64.51,doctor,28.2926187447919,Overweight,8
+1.74,90.66,accountant,29.944510503369003,Overweight,0
+1.86,61.87,accountant,17.883570354954326,Underweight,0
+1.57,57.01,journalist,23.128727331737593,Normal weight,14
+1.58,63.93,biologist,25.60887678256689,Overweight,3
+1.51,58.91,chemist,25.836586114644092,Overweight,5
+1.94,76.3,journalist,20.273142735678604,Normal weight,14
+1.73,97.17,musician,32.46683818370143,Overweight,18
+1.99,94.63,artist,23.895861215625867,Normal weight,2
+1.71,50.3,pilot,17.201874080913786,Underweight,22
+1.6,88.09,plumber,34.41015624999999,Overweight,23
+1.52,55.09,scientist,23.844355955678672,Normal weight,27
+1.51,77.84,police officer,34.13885355905443,Overweight,24
+1.83,56.31,lawyer,16.814476395234255,Underweight,15
+1.71,89.58,physicist,30.635067200164155,Overweight,21
+1.88,54.07,salesperson,15.298211860570396,Underweight,26
+1.51,69.48,journalist,30.47234770404807,Overweight,14
+1.92,84.52,dentist,22.92751736111111,Normal weight,7
+1.78,99.92,pilot,31.536422168918065,Overweight,22
+1.85,67.08,police officer,19.59970781592403,Normal weight,24
+1.68,74.56,firefighter,26.417233560090708,Overweight,12
+1.63,91.4,nurse,34.40099363920359,Overweight,19
+1.86,64.36,journalist,18.60330674066366,Normal weight,14
+1.8,97.69,journalist,30.15123456790123,Overweight,14
+1.56,86.89,pharmacist,35.7043063773833,Overweight,20
+1.94,54.73,data analyst,14.541927941332766,Underweight,6
+1.66,89.96,artist,32.64624764116708,Overweight,2
+1.74,91.84,journalist,30.334258158277184,Overweight,14
+1.57,80.68,architect,32.731550975698816,Overweight,1
+1.78,86.98,economist,27.452341876025756,Overweight,9
+1.79,56.98,biologist,17.783464935551326,Underweight,3
+1.77,74.28,firefighter,23.70966197452839,Normal weight,12
+1.59,92.84,graphic designer,36.72323088485424,Overweight,13
+1.98,94.85,artist,24.193959800020405,Normal weight,2
+1.88,90.51,graphic designer,25.608306926210957,Overweight,13
+1.64,93.8,dentist,34.87507436049971,Overweight,7
+1.92,75.78,musician,20.556640625,Normal weight,18
+1.78,83.92,chef,26.48655472793839,Overweight,4
+1.98,52.65,firefighter,13.429752066115702,Underweight,12
+1.62,73.88,journalist,28.15119646395366,Overweight,14
+1.91,89.77,pharmacist,24.607329842931936,Normal weight,20
+1.69,62.17,pilot,21.76744511746788,Normal weight,22
+1.83,84.96,artist,25.369524321418968,Overweight,2
+1.57,53.12,scientist,21.55057000283987,Normal weight,27
+1.63,76.79,salesperson,28.902103955737893,Overweight,26
+1.66,73.44,chemist,26.651183045434752,Overweight,5
+1.56,53.05,accountant,21.798980933596315,Normal weight,0
+1.69,94.4,data analyst,33.05206400336123,Overweight,6
+1.81,85.9,nurse,26.22020084856995,Overweight,19
+1.74,82.52,musician,27.25591227374818,Overweight,18
+1.82,64.33,journalist,19.42096365173288,Normal weight,14
+1.87,98.64,plumber,28.207841230804423,Overweight,23
+1.96,79.49,architect,20.691899208663056,Normal weight,1
+1.69,51.52,software developer,18.03858408319037,Underweight,28
+1.83,90.98,biologist,27.167129505210664,Overweight,3
+1.51,71.91,dentist,31.538090434630057,Overweight,7
+1.88,59.96,marketing manager,16.96468990493436,Underweight,16
+1.85,66.76,architect,19.506208911614316,Normal weight,1
+1.77,61.05,graphic designer,19.4867375275304,Normal weight,13
+1.78,71.72,pharmacist,22.63603080419139,Normal weight,20
+1.6,89.67,pilot,35.02734374999999,Overweight,22
+1.67,50.83,firefighter,18.225823801498798,Underweight,12
+1.73,73.17,lawyer,24.447859935179924,Normal weight,15
+1.75,59.95,teacher,19.575510204081635,Normal weight,29
+1.53,52.75,chef,22.534068093468324,Normal weight,4
+1.57,64.61,graphic designer,26.21201671467402,Overweight,13
+1.69,93.83,pharmacist,32.852491159273136,Overweight,20
+1.65,61.42,data analyst,22.56014692378329,Normal weight,6
+1.62,85.77,marketing manager,32.68175582990397,Overweight,16
+1.71,64.95,dentist,22.211962655175956,Normal weight,7
+1.61,87.44,police officer,33.7332664634852,Overweight,24
+1.63,73.34,salesperson,27.60359817832813,Overweight,26
+1.7,61.96,salesperson,21.43944636678201,Normal weight,26
+1.75,87.38,electrician,28.53224489795918,Overweight,10
+1.71,79.52,biologist,27.194692383981398,Overweight,3
+1.96,57.1,economist,14.863598500624741,Underweight,9
+1.65,96.0,scientist,35.26170798898072,Overweight,27
+2.0,63.99,engineer,15.9975,Underweight,11
+1.59,85.3,psychologist,33.74075392587318,Overweight,25
+1.62,90.01,firefighter,34.29736320682822,Overweight,12
+1.83,62.82,musician,18.758398280032246,Normal weight,18
+1.57,73.71,firefighter,29.903850054768952,Overweight,12
+1.96,55.96,accountant,14.566847147022076,Underweight,0
+1.54,93.32,graphic designer,39.3489627255861,Overweight,13
+1.85,60.15,dentist,17.57487216946676,Underweight,7
+1.96,69.17,nurse,18.00551853394419,Underweight,19
+1.84,84.74,software developer,25.029536862003777,Overweight,28
+1.66,73.74,mechanic,26.76005225722166,Overweight,17
+1.77,83.5,architect,26.65262217115133,Overweight,1
+1.5,76.97,engineer,34.208888888888886,Overweight,11
+1.7,77.68,electrician,26.87889273356402,Overweight,10
+1.58,97.56,dentist,39.08027559685947,Overweight,7
+1.51,89.96,physicist,39.45440989430288,Overweight,21
+1.71,56.25,physicist,19.236688211757468,Normal weight,21
+1.61,86.83,dentist,33.497936036418345,Overweight,7
+1.92,70.72,biologist,19.18402777777778,Normal weight,3
+1.99,66.28,chef,16.73695108709376,Underweight,4
+1.68,85.24,physicist,30.201247165532884,Overweight,21
+1.91,95.64,dentist,26.216386612209096,Overweight,7
+1.58,70.07,architect,28.06841852267264,Overweight,1
+1.76,95.52,journalist,30.83677685950413,Overweight,14
+1.78,98.02,pilot,30.936750410301727,Overweight,22
+1.51,75.25,engineer,33.00293846761107,Overweight,11
+1.61,54.46,chemist,21.009991898460704,Normal weight,5
+1.77,98.58,psychologist,31.466053815953266,Overweight,25
+1.57,76.43,accountant,31.007343097083048,Overweight,0
+1.66,68.92,salesperson,25.01088692117869,Overweight,26
+1.97,76.95,pharmacist,19.827874977453686,Normal weight,20
+1.5,71.19,pilot,31.64,Overweight,22
+1.54,99.89,musician,42.11924439197167,Overweight,18
+1.81,75.32,pharmacist,22.990751198070875,Normal weight,20
+1.9,97.73,electrician,27.072022160664822,Overweight,10
+1.58,57.91,biologist,23.19740426213747,Normal weight,3
+1.56,51.57,electrician,21.19082840236686,Normal weight,10
+1.68,78.59,doctor,27.845096371882093,Overweight,8
+1.56,66.65,biologist,27.38740959894806,Overweight,3
+1.57,65.56,chemist,26.597427887541077,Overweight,5
+1.98,69.39,electrician,17.699724517906336,Underweight,10
+1.9,97.17,dentist,26.91689750692521,Overweight,7
+1.54,75.46,marketing manager,31.818181818181817,Overweight,16
+1.72,53.61,biologist,18.121281773931855,Underweight,3
+1.81,70.2,architect,21.427917340740514,Normal weight,1
+1.83,80.09,architect,23.9153154767237,Normal weight,1
+1.68,50.26,dentist,17.807539682539684,Underweight,7
+1.97,55.51,musician,14.303383235847354,Underweight,18
+1.73,86.29,accountant,28.831568044371682,Overweight,0
+1.97,89.6,accountant,23.087428173877193,Normal weight,0
+1.84,66.76,musician,19.718809073724007,Normal weight,18
+1.56,90.77,musician,37.29865220249835,Overweight,18
+1.98,92.06,salesperson,23.482297724721967,Normal weight,26
+1.91,96.78,biologist,26.528878046106193,Overweight,3
+1.94,87.45,chemist,23.235731746200447,Normal weight,5
+1.92,72.01,electrician,19.533962673611114,Normal weight,10
+1.86,77.89,chef,22.514163487108334,Normal weight,4
+1.73,73.18,dentist,24.45120117611681,Normal weight,7
+1.7,67.0,musician,23.18339100346021,Normal weight,18
+1.58,61.95,engineer,24.815734657907385,Normal weight,11
+1.54,50.15,engineer,21.146061730477314,Normal weight,11
+1.96,58.27,data analyst,15.168159100374845,Underweight,6
+1.79,53.77,pilot,16.781623544833185,Underweight,22
+1.93,67.88,firefighter,18.223308008268678,Underweight,12
+1.87,98.24,marketing manager,28.093454202293454,Overweight,16
+1.82,79.2,police officer,23.910155778287645,Normal weight,24
+1.84,52.62,police officer,15.542296786389413,Underweight,24
+1.53,72.59,doctor,31.009440813362385,Overweight,8
+1.96,84.92,electrician,22.10537276134944,Normal weight,10
+1.66,61.23,accountant,22.22020612570765,Normal weight,0
+1.98,62.53,police officer,15.949903071115193,Underweight,24
+1.65,64.37,mechanic,23.643709825528013,Normal weight,17
+1.51,83.37,pilot,36.564185781325385,Overweight,22
+1.65,57.63,mechanic,21.16804407713499,Normal weight,17
+1.77,59.39,musician,18.956877014906315,Normal weight,18
+1.68,80.39,chef,28.482851473922906,Overweight,4
+1.76,99.21,software developer,32.02802169421488,Overweight,28
+1.74,64.51,marketing manager,21.307306117056417,Normal weight,16
+1.89,69.7,teacher,19.512331681643854,Normal weight,29
+1.83,60.53,pilot,18.074591656961985,Underweight,22
+1.98,64.5,pharmacist,16.45240281603918,Underweight,20
+1.71,67.15,doctor,22.964330905235805,Normal weight,8
+1.98,60.38,journalist,15.401489643913887,Underweight,14
+1.87,66.42,chemist,18.993966084246043,Normal weight,5
+1.55,59.14,graphic designer,24.61602497398543,Normal weight,13
+1.83,76.27,salesperson,22.774642419899067,Normal weight,26
+1.54,66.42,plumber,28.006409175240346,Overweight,23
+1.51,61.43,architect,26.941800798210604,Overweight,1
+1.52,94.9,teacher,41.07513850415513,Overweight,29
+1.59,62.93,musician,24.89221154226494,Normal weight,18
+1.8,80.01,chemist,24.694444444444443,Normal weight,5
+1.5,54.91,economist,24.404444444444444,Normal weight,9
+1.55,51.61,accountant,21.481789802289278,Normal weight,0
+1.95,50.22,lawyer,13.207100591715976,Underweight,15
+1.92,92.94,lawyer,25.211588541666668,Overweight,15
+1.5,70.8,dentist,31.466666666666665,Overweight,7
+1.6,95.43,nurse,37.27734374999999,Overweight,19
+1.53,58.14,physicist,24.836601307189543,Normal weight,21
+1.91,83.17,economist,22.798168909843483,Normal weight,9
+1.93,68.33,teacher,18.34411662058042,Underweight,29
+1.57,62.71,marketing manager,25.441194368939914,Overweight,16
+1.76,80.31,doctor,25.92652376033058,Overweight,8
+1.82,96.19,teacher,29.03936722618041,Overweight,29
+1.66,60.79,graphic designer,22.060531281753523,Normal weight,13
+1.77,60.41,software developer,19.28245395639822,Normal weight,28
+1.88,69.73,pilot,19.72894975101856,Normal weight,22
+1.57,89.04,police officer,36.123169296928886,Overweight,24
+1.79,75.8,journalist,23.6571892263038,Normal weight,14
+1.66,90.06,lawyer,32.68253737842938,Overweight,15
+1.61,94.41,lawyer,36.42220593341306,Overweight,15
+1.76,78.5,plumber,25.342200413223143,Overweight,23
+1.88,82.63,chef,23.378791308284292,Normal weight,4
+1.53,91.74,chemist,39.190055107010124,Overweight,5
+1.6,71.74,doctor,28.023437499999993,Overweight,8
+1.75,65.37,lawyer,21.34530612244898,Normal weight,15
+1.72,86.93,biologist,29.384126554894543,Overweight,3
+1.66,66.69,dentist,24.201625780229353,Normal weight,7
+1.88,65.13,pharmacist,18.42745586238117,Underweight,20
+1.93,68.1,plumber,18.282369996509974,Underweight,23
+1.74,77.02,software developer,25.439291848328708,Overweight,28
+1.59,81.29,lawyer,32.15458249278114,Overweight,15
+1.93,55.11,lawyer,14.795028054444415,Underweight,15
+1.82,66.81,economist,20.169665499335828,Normal weight,9
+1.58,55.47,physicist,22.219996795385352,Normal weight,21
+1.6,76.33,architect,29.816406249999993,Overweight,1
+1.55,52.94,salesperson,22.035379812695105,Normal weight,26
+1.56,67.61,psychologist,27.781886916502298,Overweight,25
+1.69,60.77,marketing manager,21.277266202163794,Normal weight,16
+1.92,75.38,salesperson,20.448133680555554,Normal weight,26
+1.62,61.22,dentist,23.327236701722292,Normal weight,7
+1.8,79.12,journalist,24.419753086419753,Normal weight,14
+1.95,97.45,biologist,25.62787639710717,Overweight,3
+1.86,85.14,pharmacist,24.609781477627468,Normal weight,20
+1.54,95.33,teacher,40.19649181986844,Overweight,29
+1.58,94.5,lawyer,37.854510495112955,Overweight,15
+1.97,98.29,lawyer,25.326599500115954,Overweight,15
+1.51,78.43,chef,34.39761413973071,Overweight,4
+1.99,53.16,salesperson,13.423903436781899,Underweight,26
+1.86,69.26,economist,20.019655451497282,Normal weight,9
+1.6,59.07,salesperson,23.074218749999996,Normal weight,26
+1.97,68.72,physicist,17.707232858357596,Underweight,21
+1.86,83.45,software developer,24.121285697768524,Normal weight,28
+1.72,67.56,accountant,22.836668469442944,Normal weight,0
+1.66,97.24,software developer,35.28814051386268,Overweight,28
+1.83,50.42,dentist,15.05568992803607,Underweight,7
+1.75,87.96,physicist,28.72163265306122,Overweight,21
+1.98,85.96,nurse,21.926334047546167,Normal weight,19
+1.65,70.53,nurse,25.906336088154273,Overweight,19
+1.75,94.33,physicist,30.801632653061223,Overweight,21
+1.65,87.91,biologist,32.29017447199266,Overweight,3
+1.93,62.02,nurse,16.65011141238691,Underweight,19
+1.9,68.01,software developer,18.839335180055404,Normal weight,28
+1.82,59.08,nurse,17.83601014370245,Underweight,19
+1.76,85.27,architect,27.527763429752067,Overweight,1
+1.73,86.67,plumber,28.95853519997327,Overweight,23
+1.83,96.79,musician,28.902027531428228,Overweight,18
+1.98,82.19,economist,20.964697479848994,Normal weight,9
+1.8,86.59,economist,26.725308641975307,Overweight,9
+1.55,84.13,lawyer,35.01768990634755,Overweight,15
+1.67,88.72,doctor,31.811825450894617,Overweight,8
+1.7,78.19,electrician,27.05536332179931,Overweight,10
+1.65,53.21,dentist,19.544536271809,Normal weight,7
+1.75,51.57,electrician,16.83918367346939,Underweight,10
+1.97,58.89,nurse,15.174315236156561,Underweight,19
+1.79,94.1,pilot,29.368621453762366,Overweight,22
+1.69,50.27,chef,17.600924337383148,Underweight,4
+1.62,52.87,journalist,20.145557079713452,Normal weight,14
+1.67,75.16,musician,26.949693427516223,Overweight,18
+1.99,74.53,chemist,18.82023181232797,Normal weight,5
+1.57,85.92,scientist,34.85739786603919,Overweight,27
+1.76,77.83,pharmacist,25.125903925619834,Overweight,20
+1.9,70.64,pharmacist,19.56786703601108,Normal weight,20
+1.92,79.46,accountant,21.55490451388889,Normal weight,0
+1.94,66.76,chemist,17.738335636093105,Underweight,5
+1.87,78.37,chef,22.41127856101118,Normal weight,4
+1.54,84.34,pilot,35.562489458593355,Overweight,22
+1.75,98.57,chemist,32.18612244897959,Overweight,5
+1.85,60.31,police officer,17.62162162162162,Underweight,24
+1.53,91.77,artist,39.202870690759966,Overweight,2
+1.95,61.89,architect,16.27613412228797,Underweight,1
+1.9,68.26,musician,18.908587257617732,Normal weight,18
+1.84,75.89,biologist,22.415524574669185,Normal weight,3
+1.83,78.25,police officer,23.365881334169426,Normal weight,24
+1.71,89.33,firefighter,30.549570808111902,Overweight,12
+1.68,97.1,chemist,34.403344671201815,Overweight,5
+1.51,86.09,police officer,37.7571159159686,Overweight,24
+1.64,86.25,software developer,32.06796549672814,Overweight,28
+1.76,65.07,teacher,21.00658574380165,Normal weight,29
+1.61,64.52,accountant,24.891015007137067,Normal weight,0
+1.58,89.76,electrician,35.95577631789777,Overweight,10
+1.78,65.86,physicist,20.786516853932582,Normal weight,21
+1.62,70.06,teacher,26.69562566681908,Overweight,29
+1.58,54.32,doctor,21.759333440153817,Normal weight,8
+1.91,78.02,graphic designer,21.3864751514487,Normal weight,13
+1.97,76.24,salesperson,19.64492772295086,Normal weight,26
+1.87,88.75,data analyst,25.379621950870767,Overweight,6
+1.94,50.81,marketing manager,13.50037198427038,Underweight,16
+1.51,95.81,software developer,42.020086838296564,Overweight,28
+1.78,90.72,scientist,28.632748390354752,Overweight,27
+1.76,86.51,marketing manager,27.92807334710744,Overweight,16
+1.64,76.27,dentist,28.357376561570497,Overweight,7
+1.95,76.52,mechanic,20.123602892833663,Normal weight,17
+1.68,73.52,journalist,26.048752834467123,Overweight,14
+1.74,61.86,marketing manager,20.43202536662703,Normal weight,16
+1.5,63.48,psychologist,28.21333333333333,Overweight,25
+1.68,97.23,doctor,34.449404761904766,Overweight,8
+1.65,57.18,biologist,21.00275482093664,Normal weight,3
+1.73,54.16,physicist,18.09616091416352,Underweight,21
+1.85,78.96,lawyer,23.0708546384222,Normal weight,15
+1.88,57.55,dentist,16.282820280669988,Underweight,7
+1.56,87.06,salesperson,35.7741617357002,Overweight,26
+1.53,53.57,plumber,22.884360715963947,Normal weight,23
+2.0,73.59,pilot,18.3975,Underweight,22
+1.89,96.33,architect,26.967330141933317,Overweight,1
+1.83,94.29,mechanic,28.155513750783836,Overweight,17
+1.77,82.16,teacher,26.22490344409333,Overweight,29
+1.68,91.59,chef,32.451105442176875,Overweight,4
+1.56,60.76,data analyst,24.96712689020381,Normal weight,6
+1.72,52.56,nurse,17.76636019469984,Underweight,19
+1.85,78.58,mechanic,22.959824689554416,Normal weight,17
+1.52,71.09,data analyst,30.76956371191136,Overweight,6
+1.91,55.39,pilot,15.18324607329843,Underweight,22
+1.89,68.91,physicist,19.29117325942723,Normal weight,21
+1.68,95.45,pharmacist,33.818735827664405,Overweight,20
+1.74,60.17,marketing manager,19.873827454089046,Normal weight,16
+1.99,93.25,nurse,23.547385167041234,Normal weight,19
+1.85,79.81,nurse,23.319211102994885,Normal weight,19
+1.98,64.34,pilot,16.411590654014898,Underweight,22
+1.79,60.71,electrician,18.94759838956337,Normal weight,10
+1.53,57.75,nurse,24.669998718441626,Normal weight,19
+1.84,83.58,software developer,24.686909262759922,Normal weight,28
+1.6,98.63,lawyer,38.52734374999999,Overweight,15
+1.63,77.26,pilot,29.079001844254588,Overweight,22
+1.8,76.39,biologist,23.577160493827158,Normal weight,3
+1.53,53.95,accountant,23.046691443461917,Normal weight,0
+1.69,53.82,doctor,18.84387801547565,Normal weight,8
+1.7,53.42,musician,18.484429065743946,Underweight,18
+1.71,71.97,journalist,24.612701344003284,Normal weight,14
+1.94,64.28,chemist,17.07939207142098,Underweight,5
+1.57,51.72,economist,20.982595642825267,Normal weight,9
+1.95,96.7,plumber,25.43063773833005,Overweight,23
+1.8,52.43,engineer,16.182098765432098,Underweight,11
+1.84,88.99,musician,26.28485349716446,Overweight,18
+1.52,80.66,lawyer,34.91170360110803,Overweight,15
+1.91,68.02,data analyst,18.645322222526794,Normal weight,6
+1.93,68.35,teacher,18.349485892238718,Underweight,29
+1.66,82.2,engineer,29.83016402961243,Overweight,11
+1.98,94.1,lawyer,24.002652790531577,Normal weight,15
+1.68,99.65,musician,35.306831065759646,Overweight,18
+1.8,70.38,electrician,21.722222222222218,Normal weight,10
+1.87,58.87,doctor,16.834910921101542,Underweight,8
+1.63,82.82,nurse,31.171666227558433,Overweight,19
+1.86,61.47,architect,17.767950052029132,Underweight,1
+1.91,62.6,marketing manager,17.159617335051124,Underweight,16
+1.94,50.83,doctor,13.5056860452758,Underweight,8
+1.87,66.0,plumber,18.873859704309528,Normal weight,23
+1.7,67.38,musician,23.314878892733564,Normal weight,18
+1.75,63.43,nurse,20.71183673469388,Normal weight,19
+1.88,93.78,artist,26.533499320959713,Overweight,2
+1.76,90.13,software developer,29.096720041322314,Overweight,28
+1.96,94.15,lawyer,24.508017492711375,Normal weight,15
+1.8,63.24,nurse,19.51851851851852,Normal weight,19
+1.77,62.55,physicist,19.965527147371443,Normal weight,21
+1.97,94.42,salesperson,24.329408126980855,Normal weight,26
+1.9,61.11,graphic designer,16.92797783933518,Underweight,13
+1.54,59.49,firefighter,25.084331253162425,Overweight,12
+1.73,79.87,doctor,26.686491362892177,Overweight,8
+1.67,78.93,chemist,28.301480870594144,Overweight,5
+1.69,88.01,nurse,30.814747382794724,Overweight,19
+1.5,84.99,teacher,37.77333333333333,Overweight,29
+1.63,65.09,dentist,24.49847566713087,Normal weight,7
+1.63,53.45,scientist,20.11743008769619,Normal weight,27
+1.71,94.2,teacher,32.21504052528984,Overweight,29
+1.78,62.86,musician,19.839666708748894,Normal weight,18
+1.96,51.2,physicist,13.32778009162849,Underweight,21
+1.76,88.28,psychologist,28.49948347107438,Overweight,25
+1.8,66.8,graphic designer,20.61728395061728,Normal weight,13
+1.62,88.11,journalist,33.57338820301783,Overweight,14
+1.62,90.27,biologist,34.39643347050754,Overweight,3
+1.76,63.46,pilot,20.486828512396695,Normal weight,22
+1.92,86.64,chemist,23.502604166666668,Normal weight,5
+1.85,89.89,biologist,26.26442658875091,Overweight,3
+1.56,78.09,salesperson,32.08826429980276,Overweight,26
+1.65,91.95,police officer,33.774104683195596,Overweight,24
+1.69,50.95,marketing manager,17.839011239102277,Underweight,16
+1.53,99.69,graphic designer,42.586184800717675,Overweight,13
+1.52,90.67,engineer,39.244286703601105,Overweight,11
+1.59,62.42,police officer,24.690479015861712,Normal weight,24
+1.64,75.51,architect,28.07480666270078,Overweight,1
+1.7,89.96,chef,31.1280276816609,Overweight,4
+1.9,90.93,psychologist,25.188365650969534,Overweight,25
+1.62,59.51,chemist,22.675659198292937,Normal weight,5
+1.73,91.45,nurse,30.5556483678038,Overweight,19
+1.79,56.34,data analyst,17.583720857651137,Underweight,6
+1.51,93.95,architect,41.20433314328319,Overweight,1
+1.56,74.11,musician,30.45282708744247,Overweight,18
+1.63,65.49,plumber,24.649027061613157,Normal weight,23
+1.63,86.32,lawyer,32.48899092927848,Overweight,15
+1.72,52.98,nurse,17.908328826392644,Underweight,19
+1.87,67.4,pilot,19.274214304097914,Normal weight,22
+1.87,96.62,teacher,27.63018673682404,Overweight,29
+1.74,99.52,dentist,32.87092086140837,Overweight,7
+1.87,87.49,scientist,25.01930281106122,Overweight,27
+1.65,59.58,doctor,21.88429752066116,Normal weight,8
+1.72,95.29,biologist,32.2099783666847,Overweight,3
+1.74,59.66,scientist,19.70537719645924,Normal weight,27
+1.75,54.87,chef,17.91673469387755,Underweight,4
+1.52,78.42,marketing manager,33.94217451523546,Overweight,16
+1.81,90.06,marketing manager,27.490003357650867,Overweight,16
+1.59,96.74,psychologist,38.26589138087891,Overweight,25
+1.9,80.6,firefighter,22.326869806094184,Normal weight,12
+1.73,77.42,doctor,25.867887333355608,Overweight,8
+1.78,68.58,mechanic,21.644994318899126,Normal weight,17
+1.75,89.86,accountant,29.34204081632653,Overweight,0
+1.76,50.78,physicist,16.393336776859506,Underweight,21
+1.99,56.61,police officer,14.295093558243478,Underweight,24
+1.87,71.98,police officer,20.583945780548483,Normal weight,24
+1.52,68.21,plumber,29.523026315789473,Overweight,23
+1.85,62.92,marketing manager,18.384222059897734,Underweight,16
+1.83,66.02,physicist,19.713935919257064,Normal weight,21
+1.96,55.97,nurse,14.56945022907122,Underweight,19
+1.58,83.04,graphic designer,33.26390001602307,Overweight,13
+1.87,59.26,lawyer,16.946438273899737,Underweight,15
+2.0,80.04,lawyer,20.01,Normal weight,15
+1.61,76.49,accountant,29.508892403842438,Overweight,0
+1.8,53.12,accountant,16.39506172839506,Underweight,0
+1.81,69.45,accountant,21.198986599920637,Normal weight,0
+1.63,55.15,engineer,20.757273514245927,Normal weight,11
+1.65,58.47,architect,21.47658402203857,Normal weight,1
+1.81,69.09,graphic designer,21.089099844327098,Normal weight,13
+1.97,82.25,scientist,21.19353758148883,Normal weight,27
+1.58,70.49,architect,28.236660791539812,Overweight,1
+1.53,95.73,pharmacist,40.89452774573882,Overweight,20
+1.52,80.76,marketing manager,34.95498614958449,Overweight,16
+1.52,60.63,physicist,26.242209141274238,Overweight,21
+1.71,62.88,chef,21.50405252898328,Normal weight,4
+1.95,53.7,teacher,14.122287968441816,Underweight,29
+1.69,95.7,electrician,33.50723013900074,Overweight,10
+1.8,65.62,musician,20.253086419753085,Normal weight,18
+1.7,92.88,data analyst,32.13840830449827,Overweight,6
+1.91,81.34,physicist,22.296537923850774,Normal weight,21
+1.5,84.31,police officer,37.471111111111114,Overweight,24
+1.88,51.22,physicist,14.491851516523313,Underweight,21
+1.57,89.03,salesperson,36.11911233721449,Overweight,26
+1.54,94.07,dentist,39.665204924945186,Overweight,7
+1.92,88.38,scientist,23.974609375,Normal weight,27
+1.6,65.44,scientist,25.562499999999993,Overweight,27
+1.52,63.55,scientist,27.506059556786703,Overweight,27
+1.75,95.24,musician,31.09877551020408,Overweight,18
+1.86,65.98,electrician,19.071568967510693,Normal weight,10
+1.81,95.83,plumber,29.25124385702512,Overweight,23
+1.57,90.42,pilot,36.68302973751471,Overweight,22
+1.74,69.61,accountant,22.99180869335447,Normal weight,0
+1.55,79.0,dentist,32.882414151925076,Overweight,7
+1.98,58.76,plumber,14.988266503418018,Underweight,23
+1.69,82.51,plumber,28.88904450124296,Overweight,23
+1.69,53.57,doctor,18.756346066314208,Normal weight,8
+1.97,59.74,dentist,15.393336597181067,Underweight,7
+1.57,91.8,psychologist,37.24289017810053,Overweight,25
+1.9,53.68,musician,14.869806094182826,Underweight,18
+1.54,81.3,dentist,34.28065441052454,Overweight,7
+1.83,91.52,teacher,27.32837648182985,Overweight,29
+1.57,60.8,chemist,24.666315063491417,Normal weight,5
+1.8,95.46,firefighter,29.46296296296296,Overweight,12
+1.61,53.12,scientist,20.49303653408433,Normal weight,27
+1.93,58.11,doctor,15.600418803189347,Underweight,8
+1.56,97.02,salesperson,39.86686390532544,Overweight,26
+1.57,93.96,dentist,38.119193476408775,Overweight,7
+1.93,74.36,chemist,19.962952025557733,Normal weight,5
+1.8,64.72,journalist,19.975308641975307,Normal weight,14
+1.65,92.42,data analyst,33.94674012855832,Overweight,6
+1.76,81.82,teacher,26.413997933884296,Overweight,29
+1.51,69.07,software developer,30.292531029340815,Overweight,28
+1.95,88.76,chef,23.34253780407627,Normal weight,4
+1.53,79.96,architect,34.157802554573024,Overweight,1
+1.77,87.58,musician,27.954929937118962,Overweight,18
+1.6,81.34,nurse,31.773437499999996,Overweight,19
+1.98,68.18,artist,17.391082542597697,Underweight,2
+1.77,66.98,scientist,21.37955249130199,Normal weight,27
+1.64,50.54,doctor,18.790898274836408,Normal weight,8
+1.66,65.25,software developer,23.6790535636522,Normal weight,28
+1.55,51.53,scientist,21.448491155046824,Normal weight,27
+1.71,75.2,engineer,25.717314729318428,Overweight,11
+1.7,97.11,physicist,33.602076124567475,Overweight,21
+2.0,98.47,scientist,24.6175,Normal weight,27
+1.97,99.66,engineer,25.679610399649565,Overweight,11
+1.67,87.72,chemist,31.453261142385887,Overweight,5
+1.6,82.37,software developer,32.17578124999999,Overweight,28
+1.57,51.11,architect,20.735121100247472,Normal weight,1
+1.96,73.48,doctor,19.1274468971262,Normal weight,8
+1.53,79.66,artist,34.02964671707463,Overweight,2
+1.9,68.27,scientist,18.911357340720222,Normal weight,27
+1.85,96.53,marketing manager,28.2045288531775,Overweight,16
+1.76,52.91,salesperson,17.08096590909091,Underweight,26
+1.99,67.25,firefighter,16.981894396606144,Underweight,12
+1.74,64.15,economist,21.18840005284714,Normal weight,9
+1.68,99.47,economist,35.24305555555556,Overweight,9
+1.62,96.75,police officer,36.86556927297667,Overweight,24
+1.56,79.34,plumber,32.60190664036818,Overweight,23
+1.91,69.23,lawyer,18.977001726926346,Normal weight,15
+1.91,50.84,mechanic,13.936021490638964,Underweight,17
+1.89,68.91,dentist,19.29117325942723,Normal weight,7
+1.96,57.05,mechanic,14.85058309037901,Underweight,17
+1.56,64.93,graphic designer,26.680637738330045,Overweight,13
+1.5,80.64,architect,35.84,Overweight,1
+1.52,79.73,lawyer,34.50917590027701,Overweight,15
+1.59,95.65,graphic designer,37.83473754993869,Overweight,13
+1.85,83.88,scientist,24.50840029218407,Normal weight,27
+1.81,56.23,pharmacist,17.1637007417356,Underweight,20
+1.97,78.92,accountant,20.335489190651654,Normal weight,0
+1.75,60.02,accountant,19.598367346938776,Normal weight,0
+1.59,65.94,physicist,26.082829002017323,Overweight,21
+1.72,70.31,physicist,23.76622498647918,Normal weight,21
+1.9,59.98,doctor,16.614958448753463,Underweight,8
+1.64,83.83,chef,31.16820345032719,Overweight,4
+1.61,74.43,physicist,28.71416997801011,Overweight,21
+1.59,90.21,nurse,35.68292393497092,Overweight,19
+1.68,56.23,plumber,19.92276077097506,Normal weight,23
+1.79,50.91,doctor,15.889017196716706,Underweight,8
+1.61,96.76,police officer,37.328806758998496,Overweight,24
+2.0,93.74,psychologist,23.435,Normal weight,25
+1.69,82.47,nurse,28.875039389377125,Overweight,19
+1.83,81.48,lawyer,24.33037713876198,Normal weight,15
+1.7,52.08,artist,18.02076124567474,Underweight,2
+1.88,61.98,engineer,17.536215482118607,Underweight,11
+1.88,79.06,data analyst,22.368718877320056,Normal weight,6
+1.61,62.24,scientist,24.01141931252652,Normal weight,27
+1.72,91.41,chef,30.89845862628448,Overweight,4
+1.99,68.83,plumber,17.38087422034797,Underweight,23
+1.56,88.4,data analyst,36.324786324786324,Overweight,6
+1.78,89.99,chemist,28.402348188360055,Overweight,5
+1.81,94.19,chef,28.75064863709899,Overweight,4
+1.97,99.21,biologist,25.563657914401297,Overweight,3
+1.65,96.76,accountant,35.54086317722682,Overweight,0
+1.67,81.65,teacher,29.276775789737894,Overweight,29
+1.89,69.03,journalist,19.324766943814563,Normal weight,14
+1.72,92.76,lawyer,31.35478637101136,Overweight,15
+1.97,89.39,dentist,23.03331701409467,Normal weight,7
+1.78,92.64,biologist,29.23873248327231,Overweight,3
+1.54,74.85,biologist,31.56097149603643,Overweight,3
+1.83,68.82,artist,20.55003135357878,Normal weight,2
+1.64,52.83,accountant,19.6423259964307,Normal weight,0
+1.54,99.82,pharmacist,42.08972845336481,Overweight,20
+1.55,50.93,journalist,21.198751300728404,Normal weight,14
+1.62,75.5,firefighter,28.768480414570945,Overweight,12
+1.89,69.03,engineer,19.324766943814563,Normal weight,11
+1.52,93.98,graphic designer,40.67693905817175,Overweight,13
+1.86,53.76,mechanic,15.539368713146025,Underweight,17
+1.88,64.33,pilot,18.201109099139885,Underweight,22
+1.9,75.39,chef,20.883656509695292,Normal weight,4
+1.58,53.44,pilot,21.406825829194034,Normal weight,22
+1.61,97.48,artist,37.60657382045446,Overweight,2
+1.59,94.3,salesperson,37.30073968593014,Overweight,26
+1.78,56.23,scientist,17.74712788789294,Underweight,27
+1.66,56.97,accountant,20.674263318333576,Normal weight,0
+1.63,58.25,firefighter,21.924046821483685,Normal weight,12
+1.91,69.89,graphic designer,19.15791782023519,Normal weight,13
+1.98,53.14,software developer,13.554739312315071,Underweight,28
+1.53,87.78,pharmacist,37.49839805203127,Overweight,20
+1.5,86.0,nurse,38.22222222222222,Overweight,19
+1.96,77.67,mechanic,20.218138275718452,Normal weight,17
+1.65,55.95,plumber,20.55096418732783,Normal weight,23
+1.83,67.27,teacher,20.08719280957926,Normal weight,29
+1.58,95.56,police officer,38.27912193558724,Overweight,24
+1.62,75.73,electrician,28.856119493979573,Overweight,10
+1.56,64.9,electrician,26.668310322156476,Overweight,10
+1.55,55.17,engineer,22.963579604578563,Normal weight,11
+1.53,63.29,firefighter,27.036609850912043,Overweight,12
+1.68,66.8,physicist,23.66780045351474,Normal weight,21
+1.55,95.51,physicist,39.75442247658689,Overweight,21
+1.92,91.29,chef,24.763997395833336,Normal weight,4
+1.98,74.81,teacher,19.08223650647893,Normal weight,29
+1.83,76.21,artist,22.7567260891636,Normal weight,2
+1.64,93.83,plumber,34.88622843545509,Overweight,23
+1.89,95.73,data analyst,26.799361719996643,Overweight,6
+1.55,73.87,data analyst,30.7471383975026,Overweight,6
+1.57,66.91,architect,27.14511744898373,Overweight,1
+1.52,82.63,chef,35.76436980609418,Overweight,4
+1.92,53.06,scientist,14.393446180555557,Underweight,27
+1.51,95.0,journalist,41.6648392614359,Overweight,14
+1.54,97.88,data analyst,41.271715297689326,Overweight,6
+1.55,82.81,lawyer,34.46826222684703,Overweight,15
+1.52,65.62,electrician,28.40200831024931,Overweight,10
+1.94,83.54,artist,22.196832819640772,Normal weight,2
+1.8,99.93,engineer,30.84259259259259,Overweight,11
+1.91,53.62,architect,14.698062004879253,Underweight,1
+1.71,73.58,scientist,25.16329810881981,Overweight,27
+1.79,67.65,graphic designer,21.113573234293565,Normal weight,13
+1.89,87.44,marketing manager,24.478598023571568,Normal weight,16
+1.58,94.16,dentist,37.718314372696675,Overweight,7
+1.8,82.93,marketing manager,25.59567901234568,Overweight,16
+1.74,68.91,graphic designer,22.760602457391993,Normal weight,13
+1.59,76.64,chef,30.31525651675171,Overweight,4
+1.81,98.89,salesperson,30.18528127957022,Overweight,26
+1.95,74.23,accountant,19.521367521367523,Normal weight,0
+1.67,87.16,graphic designer,31.252465129620997,Overweight,13
+1.83,60.53,police officer,18.074591656961985,Underweight,24
+1.73,95.23,accountant,31.81863744194594,Overweight,0
+1.71,56.85,musician,19.44187955268288,Normal weight,18
+1.91,61.93,nurse,16.975960088813355,Underweight,19
+1.57,77.63,plumber,31.494178262809847,Overweight,23
+1.9,98.03,salesperson,27.155124653739612,Overweight,26
+1.84,76.45,mechanic,22.58093100189036,Normal weight,17
+1.56,67.53,dentist,27.749013806706113,Overweight,7
+1.99,69.84,physicist,17.635918284891797,Underweight,21
+1.7,90.27,scientist,31.23529411764706,Overweight,27
+1.5,84.04,software developer,37.351111111111116,Overweight,28
+1.65,88.31,doctor,32.43709825528008,Overweight,8
+1.83,76.65,accountant,22.88811251455702,Normal weight,0
+1.76,65.59,chemist,21.174457644628102,Normal weight,5
+1.78,92.23,electrician,29.10932963009721,Overweight,10
+1.53,78.06,economist,33.34614891708318,Overweight,9
+1.98,98.27,nurse,25.06631976328946,Overweight,19
+1.93,54.78,nurse,14.706435072082472,Underweight,19
+1.91,69.61,economist,19.081165538225378,Normal weight,9
+1.84,59.18,physicist,17.479914933837428,Underweight,21
+1.96,91.8,software developer,23.896293211162018,Normal weight,28
+1.82,69.1,firefighter,20.861007124743384,Normal weight,12
+1.96,89.64,biologist,23.33402748854644,Normal weight,3
+1.6,75.89,architect,29.644531249999993,Overweight,1
+1.98,99.29,plumber,25.32649729619427,Overweight,23
+1.86,76.09,psychologist,21.993872123944964,Normal weight,25
+1.76,69.57,pilot,22.459323347107436,Normal weight,22
+1.98,89.77,accountant,22.898173655749414,Normal weight,0
+1.96,60.36,physicist,15.712203248646398,Underweight,21
+1.58,76.58,journalist,30.676173690113757,Overweight,14
+1.77,62.67,musician,20.003830316958727,Normal weight,18
+1.55,53.11,marketing manager,22.106139438085325,Normal weight,16
+1.96,83.59,pilot,21.759162848813,Normal weight,22
+1.56,71.54,economist,29.396778435239973,Overweight,9
+1.71,92.8,biologist,31.736260729797205,Overweight,3
+1.88,84.01,pilot,23.769239474875512,Normal weight,22
+1.55,84.78,musician,35.2882414151925,Overweight,18
+1.55,97.61,marketing manager,40.628511966701346,Overweight,16
+1.54,75.11,teacher,31.67060212514758,Overweight,29
+1.72,72.94,electrician,24.65521903731747,Normal weight,10
+1.79,52.57,architect,16.407103398770325,Underweight,1
+1.88,73.39,nurse,20.764486192847443,Normal weight,19
+1.72,99.38,physicist,33.59248242293132,Overweight,21
+1.51,96.74,data analyst,42.42796368580325,Overweight,6
+1.73,83.05,pharmacist,27.749005980821273,Overweight,20
+1.87,97.46,data analyst,27.87039949669707,Overweight,6
+1.81,60.64,graphic designer,18.50981349775648,Normal weight,13
+1.72,59.63,chemist,20.15616549486209,Normal weight,5
+1.52,81.7,teacher,35.36184210526316,Overweight,29
+1.96,94.83,chef,24.685027072053312,Normal weight,4
+1.64,96.37,physicist,35.83060678167758,Overweight,21
+1.71,91.44,artist,31.271160357032937,Overweight,2
+1.62,65.51,scientist,24.96189605243103,Normal weight,27
+1.79,74.29,physicist,23.18591804250804,Normal weight,21
+1.66,82.84,psychologist,30.062418348091164,Overweight,25
+1.85,50.31,chef,14.699780861943024,Underweight,4
+1.81,55.33,plumber,16.888983852751746,Underweight,23
+1.57,60.47,mechanic,24.532435392916547,Normal weight,17
+1.55,77.59,musician,32.295525494276795,Overweight,18
+1.64,70.86,architect,26.345925044616305,Overweight,1
+1.87,99.74,plumber,28.52240555920958,Overweight,23
+1.51,70.73,plumber,31.020569273277488,Overweight,23
+1.76,75.8,musician,24.47055785123967,Normal weight,18
+1.98,58.83,economist,15.006121824303642,Underweight,9
+1.68,68.71,teacher,24.34452947845805,Normal weight,29
+1.9,54.82,psychologist,15.185595567867036,Underweight,25
+1.75,88.9,journalist,29.028571428571432,Overweight,14
+1.71,90.24,doctor,30.86077767518211,Overweight,8
+1.61,73.43,chef,28.328382392654603,Overweight,4
+1.84,68.12,doctor,20.120510396975426,Normal weight,8
+1.82,70.5,dentist,21.2836613935515,Normal weight,7
+1.67,51.1,musician,18.322636164796158,Underweight,18
+1.91,53.18,mechanic,14.57745127600669,Underweight,17
+1.59,59.16,musician,23.400973062774412,Normal weight,18
+1.55,52.86,accountant,22.00208116545265,Normal weight,0
+1.58,84.19,chef,33.724563371254604,Overweight,4
+1.84,55.55,lawyer,16.40772684310019,Underweight,15
+1.56,67.84,chemist,27.876397107166337,Overweight,5
+1.87,69.88,software developer,19.983413880865907,Normal weight,28
+1.76,97.34,salesperson,31.424328512396695,Overweight,26
+1.57,64.26,psychologist,26.070023124670374,Overweight,25
+1.61,54.92,musician,21.18745418772424,Normal weight,18
+1.65,57.18,salesperson,21.00275482093664,Normal weight,26
+1.7,97.13,teacher,33.608996539792386,Overweight,29
+1.63,53.15,physicist,20.00451654183447,Normal weight,21
+1.57,65.68,dentist,26.64611140411376,Overweight,7
+1.68,96.43,architect,34.165958049886626,Overweight,1
+1.51,89.51,plumber,39.25705012938029,Overweight,23
+1.89,58.2,firefighter,16.292936927857564,Underweight,12
+1.95,95.46,teacher,25.104536489151872,Overweight,29
+1.64,54.51,graphic designer,20.266954193932186,Normal weight,13
+1.66,92.22,marketing manager,33.46639570329511,Overweight,16
+1.58,81.28,economist,32.558884794103506,Overweight,9
+1.97,66.66,salesperson,17.176428148109974,Underweight,26
+1.77,70.21,scientist,22.410546139359695,Normal weight,27
+1.97,82.76,teacher,21.324950398103535,Normal weight,29
+1.67,99.56,chemist,35.69866255512927,Overweight,5
+1.55,74.91,mechanic,31.180020811654522,Overweight,17
+1.71,78.55,lawyer,26.862966382818648,Overweight,15
+1.64,73.96,dentist,27.49851279000595,Overweight,7
+1.84,61.59,psychologist,18.191753308128543,Underweight,25
+1.79,83.98,architect,26.21016822196561,Overweight,1
+1.56,80.51,physicist,33.08267587113741,Overweight,21
+1.84,88.13,data analyst,26.030836483931946,Overweight,6
+1.91,72.47,musician,19.865135275897043,Normal weight,18
+1.96,75.33,plumber,19.609017076218244,Normal weight,23
+1.53,96.1,teacher,41.05258661198684,Overweight,29
+1.79,88.34,marketing manager,27.570924752660655,Overweight,16
+1.92,50.74,teacher,13.764105902777779,Underweight,29
+1.88,74.71,lawyer,21.137958352195565,Normal weight,15
+1.62,76.8,musician,29.263831732967528,Overweight,18
+1.74,59.42,police officer,19.62610648698639,Normal weight,24
+1.89,76.38,chemist,21.382380112538844,Normal weight,5
+1.77,53.64,journalist,17.121516805515654,Underweight,14
+1.51,83.74,economist,36.726459365817284,Overweight,9
+1.97,53.89,chef,13.885954288953593,Underweight,4
+1.75,85.46,firefighter,27.905306122448977,Overweight,12
+1.65,71.01,teacher,26.082644628099178,Overweight,29
+1.96,51.41,psychologist,13.382444814660559,Underweight,25
+1.89,70.14,software developer,19.635508524397416,Normal weight,28
+1.61,66.95,musician,25.828478839550943,Overweight,18
+1.95,79.02,scientist,20.781065088757398,Normal weight,27
+1.62,72.09,chef,27.469135802469133,Overweight,4
+1.7,59.57,firefighter,20.612456747404845,Normal weight,12
+1.59,54.14,artist,21.415292116609308,Normal weight,2
+1.98,56.5,graphic designer,14.411794714825017,Underweight,13
+1.61,77.78,physicist,30.006558388951042,Overweight,21
+1.67,65.13,salesperson,23.353293413173652,Normal weight,26
+1.62,61.0,chemist,23.243408017070564,Normal weight,5
+1.59,91.25,physicist,36.09430006724417,Overweight,21
+1.55,67.13,software developer,27.941727367325697,Overweight,28
+1.52,67.49,pharmacist,29.211391966759,Overweight,20
+1.74,99.01,physicist,32.70247060377857,Overweight,21
+1.56,58.76,teacher,24.14529914529914,Normal weight,29
+1.89,74.41,teacher,20.830883793846755,Normal weight,29
+1.65,74.47,physicist,27.353535353535356,Overweight,21
+1.69,93.74,doctor,32.820979657575016,Overweight,8
+1.96,72.28,pharmacist,18.815077051228656,Normal weight,20
+1.73,92.31,psychologist,30.842995088375822,Overweight,25
+1.85,70.53,dentist,20.60774287801315,Normal weight,7
+1.84,75.67,pharmacist,22.350543478260867,Normal weight,20
+1.81,72.6,psychologist,22.16049571136412,Normal weight,25
+1.76,86.68,accountant,27.982954545454547,Overweight,0
+1.72,60.04,mechanic,20.2947539210384,Normal weight,17
+1.97,63.6,physicist,16.387951248421757,Underweight,21
+1.93,93.58,musician,25.122822089183604,Overweight,18
+1.93,55.14,musician,14.803081961931865,Underweight,18
+1.74,50.74,data analyst,16.75914916105166,Underweight,6
+1.52,68.4,psychologist,29.60526315789474,Overweight,25
+1.54,73.17,firefighter,30.852588969472087,Overweight,12
+1.76,95.42,biologist,30.804493801652892,Overweight,3
+1.92,57.01,marketing manager,15.464952256944445,Underweight,16
+1.92,75.51,chef,20.483398437500004,Normal weight,4
+1.69,81.05,journalist,28.377857918140123,Overweight,14
+1.89,80.57,artist,22.555359592396627,Normal weight,2
+1.82,59.55,journalist,17.977901219659458,Underweight,14
+1.81,61.79,salesperson,18.86084063368029,Normal weight,26
+1.94,84.29,plumber,22.396110107344036,Normal weight,23
+1.62,57.86,biologist,22.046944063404965,Normal weight,3
+1.54,96.56,electrician,40.715129026817344,Overweight,10
+1.54,84.46,police officer,35.61308821049081,Overweight,24
+1.64,64.92,artist,24.13741820345033,Normal weight,2
+1.58,98.48,salesperson,39.448806281044696,Overweight,26
+1.97,94.47,architect,24.342291736452886,Normal weight,1
+1.62,87.72,pilot,33.42478280749885,Overweight,22
+1.99,55.09,electrician,13.911264867048812,Underweight,10
+1.59,91.81,architect,36.31581029231438,Overweight,1
+1.61,97.35,salesperson,37.556421434358235,Overweight,26
+1.79,66.98,mechanic,20.9044661527418,Normal weight,17
+1.97,89.49,accountant,23.05908423303873,Normal weight,0
+1.57,72.6,chef,29.45352752647166,Overweight,4
+1.67,91.22,police officer,32.70823622216645,Overweight,24
+1.74,51.38,chemist,16.970537719645925,Underweight,5
+1.6,92.68,architect,36.20312499999999,Overweight,1
+1.97,63.21,graphic designer,16.287459094539926,Underweight,13
+1.83,86.37,psychologist,25.79055809370241,Overweight,25
+1.81,86.07,pharmacist,26.272091816489116,Overweight,20
+1.72,60.36,salesperson,20.402920497566253,Normal weight,26
+1.97,81.69,mechanic,21.049241155402097,Normal weight,17
+1.8,68.35,police officer,21.095679012345677,Normal weight,24
+2.0,62.93,dentist,15.7325,Underweight,7
+1.91,64.83,teacher,17.770894438200706,Underweight,29
+1.9,57.03,musician,15.797783933518007,Underweight,18
+1.64,52.37,electrician,19.471296847114814,Normal weight,10
+1.79,94.13,electrician,29.377984457413937,Overweight,10
+1.8,75.75,musician,23.37962962962963,Normal weight,18
+1.58,54.09,teacher,21.667200769107513,Normal weight,29
+1.85,75.44,mechanic,22.04236669101534,Normal weight,17
+1.9,69.6,physicist,19.2797783933518,Normal weight,21
+1.67,99.38,scientist,35.63412097959769,Overweight,27
+1.53,70.02,accountant,29.911572472126103,Overweight,0
+1.67,91.1,doctor,32.665208505145394,Overweight,8
+1.73,53.31,teacher,17.812155434528385,Underweight,29
+1.78,61.54,chef,19.423052644868072,Normal weight,4
+1.79,53.68,economist,16.75353453387847,Underweight,9
+1.62,70.19,dentist,26.745160798658734,Overweight,7
+1.65,65.89,marketing manager,24.202020202020204,Normal weight,16
+1.94,60.51,software developer,16.077691571899244,Underweight,28
+1.76,76.45,dentist,24.68039772727273,Normal weight,7
+1.91,79.95,pilot,21.91551766673063,Normal weight,22
+1.84,60.63,plumber,17.90819943289225,Underweight,23
+1.61,67.64,musician,26.09467227344624,Overweight,18
+1.72,80.87,musician,27.335722011898326,Overweight,18
+1.96,81.43,dentist,21.19689712619742,Normal weight,7
+1.75,65.83,teacher,21.495510204081633,Normal weight,29
+1.6,84.73,marketing manager,33.09765624999999,Overweight,16
+1.59,79.96,biologist,31.628495708239384,Overweight,3
+1.81,68.04,nurse,20.76859680717927,Normal weight,19
+1.52,95.58,architect,41.36945983379501,Overweight,1
+1.78,80.7,electrician,25.470268905441234,Overweight,10
+1.88,72.74,mechanic,20.580579447713898,Normal weight,17
+1.51,83.01,plumber,36.40629796938731,Overweight,23
+1.92,55.53,nurse,15.0634765625,Underweight,19
+1.62,87.84,scientist,33.470507544581615,Overweight,27
+1.79,82.59,marketing manager,25.776349052776133,Overweight,16
+1.79,56.56,marketing manager,17.652382884429326,Underweight,16
+1.74,72.8,teacher,24.045448540097766,Normal weight,29
+1.82,56.75,salesperson,17.13259268204323,Underweight,26
+1.63,50.67,electrician,19.071097896044265,Normal weight,10
+1.98,90.32,engineer,23.038465462707887,Normal weight,11
+1.61,81.78,psychologist,31.549708730373055,Overweight,25
+1.65,86.81,chemist,31.886134067952256,Overweight,5
+1.89,70.41,doctor,19.711094314268916,Normal weight,8
+1.61,58.06,chemist,22.398827205740517,Normal weight,5
+1.89,66.4,marketing manager,18.588505360992137,Normal weight,16
+1.78,79.72,nurse,25.160964524681226,Overweight,19
+1.68,87.01,firefighter,30.828373015873023,Overweight,12
+1.78,74.98,artist,23.664941295290998,Normal weight,2
+1.89,78.41,artist,21.950673273424595,Normal weight,2
+1.62,52.84,journalist,20.134125895442764,Normal weight,14
+1.99,58.74,dentist,14.832958763667584,Underweight,7
+1.76,90.85,electrician,29.329158057851238,Overweight,10
+1.85,75.31,accountant,22.004382761139517,Normal weight,0
+1.84,97.01,firefighter,28.653709829867676,Overweight,12
+1.68,83.73,teacher,29.666241496598644,Overweight,29
+1.99,97.64,musician,24.65594303174162,Normal weight,18
+1.95,94.27,teacher,24.791584483892176,Normal weight,29
+1.72,69.38,biologist,23.451865873445108,Normal weight,3
+1.87,75.45,artist,21.57625325288112,Normal weight,2
+1.91,50.48,chef,13.837339985197774,Underweight,4
+1.77,61.8,psychologist,19.72613233745092,Normal weight,25
+1.6,50.6,graphic designer,19.765624999999996,Normal weight,13
+1.73,88.22,scientist,29.476427545190283,Overweight,27
+1.82,75.61,chemist,22.82634947470112,Normal weight,5
+1.64,77.17,software developer,28.69199881023201,Overweight,28
+1.75,83.92,firefighter,27.40244897959184,Overweight,12
+1.85,73.96,dentist,21.609934258582904,Normal weight,7
+1.82,96.56,salesperson,29.15106871150827,Overweight,26
+1.74,80.94,journalist,26.73404676971859,Overweight,14
+1.74,56.41,electrician,18.63191967234773,Normal weight,10
+1.59,63.09,dentist,24.955500177999287,Normal weight,7
+1.93,70.06,electrician,18.80855861902333,Normal weight,10
+1.79,60.26,psychologist,18.8071533347898,Normal weight,25
+1.71,80.49,marketing manager,27.526418385144147,Overweight,16
+1.77,82.97,nurse,26.48344983880749,Overweight,19
+1.7,84.33,firefighter,29.179930795847753,Overweight,12
+1.62,81.58,psychologist,31.085200426764207,Overweight,25
+1.62,59.93,chef,22.835695778082606,Normal weight,4
+1.93,84.63,marketing manager,22.720073022094553,Normal weight,16
+1.77,56.03,electrician,17.88438826646238,Underweight,10
+1.69,59.55,artist,20.850110290255945,Normal weight,2
+1.72,97.07,journalist,32.81165494862088,Overweight,14
+1.89,55.98,musician,15.671453766691862,Underweight,18
+1.52,58.28,pharmacist,25.225069252077564,Overweight,20
+1.94,69.92,salesperson,18.57795727494952,Normal weight,26
+1.55,89.38,software developer,37.202913631633706,Overweight,28
+1.9,52.04,teacher,14.415512465373961,Underweight,29
+1.74,60.18,police officer,19.877130400317082,Normal weight,24
+1.59,95.33,mechanic,37.70816027846999,Overweight,17
+1.71,83.79,firefighter,28.654970760233923,Overweight,12
+1.98,77.22,economist,19.6969696969697,Normal weight,9
+1.52,60.25,economist,26.07773545706371,Overweight,9
+1.84,74.94,musician,22.13492438563327,Normal weight,18
+1.65,99.7,lawyer,36.620752984389355,Overweight,15
+1.75,57.56,police officer,18.795102040816328,Normal weight,24
+1.77,87.96,psychologist,28.07622330747869,Overweight,25
+1.92,83.16,artist,22.55859375,Normal weight,2
+1.73,94.41,pilot,31.54465568512145,Overweight,22
+1.61,74.02,graphic designer,28.555997068014346,Overweight,13
+1.61,67.68,data analyst,26.11010377686046,Overweight,6
+1.59,88.68,nurse,35.07772635576124,Overweight,19
+1.51,75.0,firefighter,32.89329415376518,Overweight,12
+1.56,90.26,economist,37.08908612754767,Overweight,9
+1.95,60.37,pilot,15.876397107166339,Underweight,22
+1.7,57.05,firefighter,19.740484429065745,Normal weight,12
+1.55,91.89,musician,38.24765868886576,Overweight,18
+1.85,79.15,mechanic,23.1263696128561,Normal weight,17
+1.71,98.65,psychologist,33.73687630381998,Overweight,25
+1.97,99.88,nurse,25.736298281326494,Overweight,19
+1.67,65.07,artist,23.331779554663125,Normal weight,2
+1.58,88.01,pharmacist,35.25476686428457,Overweight,20
+1.84,62.59,biologist,18.487121928166353,Underweight,3
+1.66,80.48,biologist,29.20598054870083,Overweight,3
+1.59,58.97,pilot,23.325817807839876,Normal weight,22
+1.56,74.89,artist,30.77333990795529,Overweight,2
+1.73,77.19,architect,25.791038791807274,Overweight,1
+1.79,73.05,accountant,22.79891389157642,Normal weight,0
+1.59,82.4,engineer,32.593647403188164,Overweight,11
+1.53,70.41,doctor,30.07817506087402,Overweight,8
+1.51,93.0,scientist,40.78768475066883,Overweight,27
+1.86,91.6,lawyer,26.477049369869345,Overweight,15
+2.0,80.8,firefighter,20.2,Normal weight,12
+1.58,85.7,nurse,34.329434385515135,Overweight,19
+1.57,72.01,musician,29.214166903322653,Overweight,18
+1.58,70.55,doctor,28.26069540137798,Overweight,8
+1.59,61.2,data analyst,24.207903168387325,Normal weight,6
+1.82,80.33,accountant,24.25129815239705,Normal weight,0
+1.56,87.23,data analyst,35.84401709401709,Overweight,6
+1.9,87.01,plumber,24.102493074792246,Normal weight,23
+1.58,76.61,architect,30.68819099503284,Overweight,1
+1.7,79.12,artist,27.37716262975779,Overweight,2
+1.96,69.63,software developer,18.125260308204915,Underweight,28
+1.96,63.39,biologist,16.500937109537695,Underweight,3
+1.54,96.58,artist,40.72356215213358,Overweight,2
+1.87,82.76,doctor,23.666676198919042,Normal weight,8
+1.84,52.01,graphic designer,15.362121928166351,Underweight,13
+1.52,71.56,engineer,30.972991689750693,Overweight,11
+1.95,51.4,salesperson,13.51742274819198,Underweight,26
+1.87,77.77,plumber,22.239698018244727,Normal weight,23
+1.98,62.49,architect,15.939700030609123,Underweight,1
+1.86,73.51,lawyer,21.248121170077464,Normal weight,15
+1.8,98.97,chef,30.546296296296294,Overweight,4
+2.0,53.84,police officer,13.46,Underweight,24
+1.79,63.27,accountant,19.746574701164135,Normal weight,0
+1.93,87.18,police officer,23.40465515852775,Normal weight,24
+1.54,96.98,firefighter,40.892224658458424,Overweight,12
+1.65,91.06,doctor,33.44719926538109,Overweight,8
+1.65,89.06,scientist,32.71258034894399,Overweight,27
+1.91,52.48,plumber,14.385570570982155,Underweight,23
+1.98,99.94,dentist,25.492296704417917,Overweight,7
+1.82,53.1,biologist,16.030672624079216,Underweight,3
+1.68,89.59,economist,31.742488662131525,Overweight,9
+1.8,98.95,graphic designer,30.540123456790123,Overweight,13
+1.64,50.89,architect,18.92102914931589,Normal weight,1
+1.55,90.74,chef,37.768990634755454,Overweight,4
+1.76,61.74,accountant,19.931559917355372,Normal weight,0
+1.56,99.19,architect,40.758547008547005,Overweight,1
+1.78,70.87,engineer,22.367756596389345,Normal weight,11
+1.56,53.25,journalist,21.881163708086785,Normal weight,14
+1.57,67.74,biologist,27.4818451052781,Overweight,3
+1.59,90.94,physicist,35.97167833550888,Overweight,21
+1.78,94.32,teacher,29.768968564575175,Overweight,29
+1.52,80.21,dentist,34.71693213296398,Overweight,7
+1.73,68.89,nurse,23.01780881419359,Normal weight,19
+1.76,80.95,journalist,26.133135330578515,Overweight,14
+1.82,80.24,police officer,24.224127520830816,Normal weight,24
+1.53,90.29,architect,38.57063522576787,Overweight,1
+1.82,80.89,chemist,24.420359859920296,Normal weight,5
+1.55,67.47,firefighter,28.083246618106134,Overweight,12
+1.74,70.92,physicist,23.42449464922711,Normal weight,21
+1.75,69.86,architect,22.81142857142857,Normal weight,1
+1.61,64.05,electrician,24.70969484201998,Normal weight,10
+1.74,62.12,mechanic,20.51790196855595,Normal weight,17
+1.98,94.05,marketing manager,23.98989898989899,Normal weight,16
+1.66,86.51,software developer,31.394251705617656,Overweight,28
+1.65,95.84,artist,35.20293847566575,Overweight,2
+1.72,70.01,biologist,23.66481882098432,Normal weight,3
+1.71,90.47,architect,30.939434355870183,Overweight,1
+1.61,68.72,graphic designer,26.51132286563018,Overweight,13
+1.53,67.67,dentist,28.907685078388656,Overweight,7
+1.58,50.8,musician,20.349302996314687,Normal weight,18
+1.9,89.23,musician,24.71745152354571,Normal weight,18
+1.5,99.06,lawyer,44.02666666666667,Overweight,15
+1.56,97.59,chef,40.10108481262327,Overweight,4
+1.51,76.78,plumber,33.67396166834788,Overweight,23
+1.77,77.54,lawyer,24.750231414982924,Normal weight,15
+1.65,67.27,physicist,24.7089072543618,Normal weight,21
+1.6,57.02,marketing manager,22.273437499999996,Normal weight,16
+1.67,50.28,firefighter,18.028613431818997,Underweight,12
+1.66,50.29,nurse,18.250108869211786,Underweight,19
+1.89,78.92,pharmacist,22.093446432070774,Normal weight,20
+1.7,68.24,pharmacist,23.612456747404845,Normal weight,20
+1.62,69.51,doctor,26.486053955189753,Overweight,8
+1.57,95.11,lawyer,38.585743843563634,Overweight,15
+1.68,62.63,architect,22.190334467120184,Normal weight,1
+1.77,86.43,economist,27.58785789524083,Overweight,9
+1.83,78.78,nurse,23.524142255666035,Normal weight,19
+1.8,96.19,pharmacist,29.68827160493827,Overweight,20
+1.9,63.05,salesperson,17.465373961218837,Underweight,26
+1.84,60.51,scientist,17.87275519848771,Underweight,27
+1.82,70.83,nurse,21.3832870426277,Normal weight,19
+1.79,55.81,salesperson,17.41830779314004,Underweight,26
+1.54,71.16,accountant,30.005059875189744,Overweight,0
+1.64,82.92,firefighter,30.829863176680554,Overweight,12
+1.8,89.17,journalist,27.521604938271604,Overweight,14
+1.87,71.43,economist,20.426663616345905,Normal weight,9
+1.95,51.56,pilot,13.5595003287311,Underweight,22
+1.93,88.94,teacher,23.877151064458108,Normal weight,29
+1.55,72.18,musician,30.043704474505724,Overweight,18
+1.93,53.23,nurse,14.290316518564257,Underweight,19
+1.93,87.77,chemist,23.563048672447582,Normal weight,5
+1.87,79.62,chef,22.76873802510795,Normal weight,4
+1.55,69.81,teacher,29.057232049947967,Overweight,29
+1.86,70.63,chemist,20.41565498901607,Normal weight,5
+1.71,88.79,nurse,30.36489860127903,Overweight,19
+1.84,60.8,doctor,17.958412098298677,Underweight,8
+1.53,60.46,electrician,25.827673117177156,Overweight,10
+1.88,98.3,scientist,27.812358533272974,Overweight,27
+1.81,66.59,doctor,20.325997374927507,Normal weight,8
+1.71,78.48,mechanic,26.839027393044017,Overweight,17
+1.85,90.48,architect,26.43681519357195,Overweight,1
+1.79,66.96,mechanic,20.898224150307417,Normal weight,17
+1.96,54.73,salesperson,14.246668054977093,Underweight,26
+1.59,63.69,pharmacist,25.192832562003083,Overweight,20
+1.82,95.88,marketing manager,28.945779495230042,Overweight,16
+1.99,52.97,psychologist,13.375924850382566,Underweight,25
+1.64,66.68,police officer,24.791790600832844,Normal weight,24
+1.85,52.31,architect,15.284149013878743,Underweight,1
+1.7,51.58,biologist,17.847750865051903,Underweight,3
+1.51,78.31,marketing manager,34.34498486908469,Overweight,16
+1.76,81.37,architect,26.26872417355372,Overweight,1
+1.53,85.66,pilot,36.59276346704259,Overweight,22
+1.6,81.43,firefighter,31.808593749999996,Overweight,12
+1.72,55.19,engineer,18.65535424553813,Normal weight,11
+1.62,98.8,pharmacist,37.64670019814052,Overweight,20
+1.87,63.03,doctor,18.0245360176156,Underweight,8
+1.71,80.6,accountant,27.56403679764714,Overweight,0
+1.62,89.47,graphic designer,34.09160188995579,Overweight,13
+1.74,87.69,firefighter,28.963535473642487,Overweight,12
+1.63,60.4,mechanic,22.733260566826,Normal weight,17
+1.58,75.49,lawyer,30.23954494472039,Overweight,15
+1.84,85.1,economist,25.135869565217387,Overweight,9
+1.66,78.01,dentist,28.309624038321967,Overweight,7
+1.74,76.6,lawyer,25.30056810675122,Overweight,15
+1.71,87.66,chemist,29.978454909202835,Overweight,5
+2.0,70.89,engineer,17.7225,Underweight,11
+1.98,71.23,doctor,18.169064381185596,Underweight,8
+1.79,94.66,physicist,29.543397521925034,Overweight,21
+1.68,68.55,biologist,24.287840136054424,Normal weight,3
+1.91,81.04,salesperson,22.214303335983118,Normal weight,26
+1.65,73.71,software developer,27.074380165289256,Overweight,28
+1.94,98.17,biologist,26.08406844510575,Overweight,3
+1.82,73.86,engineer,22.29803163869098,Normal weight,11
+1.99,67.12,chemist,16.949066942753973,Underweight,5
+1.96,89.65,architect,23.336630570595588,Normal weight,1
+1.95,91.24,salesperson,23.99474030243261,Normal weight,26
+1.87,89.05,chemist,25.465412222253992,Overweight,5
+1.96,87.19,engineer,22.696272386505623,Normal weight,11
+1.63,93.62,data analyst,35.2365538785803,Overweight,6
+1.83,56.91,salesperson,16.993639702588908,Underweight,26
+1.65,71.63,psychologist,26.310376492194674,Overweight,25
+1.62,68.14,lawyer,25.96402987349489,Overweight,15
+1.67,95.31,scientist,34.174764243967154,Overweight,27
+1.53,74.62,accountant,31.876628647101544,Overweight,0
+1.71,56.83,journalist,19.435039841318698,Normal weight,14
+1.93,58.23,electrician,15.632634433139144,Underweight,10
+1.7,88.98,pilot,30.788927335640143,Overweight,22
+1.75,58.3,chemist,19.03673469387755,Normal weight,5
+1.64,61.64,doctor,22.91790600832838,Normal weight,8
+1.65,64.65,mechanic,23.746556473829205,Normal weight,17
+1.67,74.65,pharmacist,26.766825630176776,Overweight,20
+1.5,74.19,dentist,32.97333333333333,Overweight,7
+1.73,81.39,accountant,27.19435998529854,Overweight,0
+1.89,58.28,doctor,16.31533271744912,Underweight,8
+1.67,98.16,physicist,35.19667252321704,Overweight,21
+1.74,51.15,marketing manager,16.89456995640111,Underweight,16
+1.62,61.28,electrician,23.350099070263674,Normal weight,10
+1.93,78.0,teacher,20.940159467368254,Normal weight,29
+1.58,50.04,electrician,20.04486460503124,Normal weight,10
+1.51,84.98,electrician,37.27029516249287,Overweight,10
+1.68,92.04,doctor,32.610544217687085,Overweight,8
+1.83,67.26,physicist,20.084206754456687,Normal weight,21
+1.94,67.42,plumber,17.913699649271976,Underweight,23
+1.88,99.35,chemist,28.109438660027163,Overweight,5
+1.93,69.92,firefighter,18.770973717415234,Normal weight,12
+1.57,81.4,lawyer,33.0236520751349,Overweight,15
+1.85,69.81,scientist,20.39737034331629,Normal weight,27
+1.78,74.89,nurse,23.636535790935486,Normal weight,19
+1.89,85.81,marketing manager,24.0222838106436,Normal weight,16
+1.53,58.81,data analyst,25.122816010935967,Overweight,6
+1.73,94.47,marketing manager,31.564703130742757,Overweight,16
+1.74,84.17,psychologist,27.800898401374024,Overweight,25
+1.88,94.99,chef,26.875848800362157,Overweight,4
+1.68,81.16,biologist,28.755668934240365,Overweight,3
+1.68,91.54,scientist,32.433390022675745,Overweight,27
+1.55,75.34,salesperson,31.359001040582722,Overweight,26
+1.57,77.95,data analyst,31.62400097367033,Overweight,6
+1.63,87.75,nurse,33.02721216455268,Overweight,19
+1.91,80.82,biologist,22.153997971546833,Normal weight,3
+1.59,63.34,architect,25.054388671334202,Overweight,1
+1.84,54.39,architect,16.06509924385633,Underweight,1
+1.58,56.41,police officer,22.5965390161833,Normal weight,24
+1.92,94.81,accountant,25.718858506944446,Overweight,0
+1.57,73.88,scientist,29.972818369913583,Overweight,27
+1.94,86.75,accountant,23.049739611010736,Normal weight,0
+1.54,91.25,marketing manager,38.476134255355035,Overweight,16
+1.7,56.93,graphic designer,19.698961937716266,Normal weight,13
+1.64,96.74,lawyer,35.96817370612731,Overweight,15
+1.7,72.13,software developer,24.95847750865052,Normal weight,28
+1.62,96.52,architect,36.77793019356805,Overweight,1
+1.71,91.02,pharmacist,31.127526418385145,Overweight,20
+1.51,75.17,pharmacist,32.967852287180385,Overweight,20
+1.77,92.03,teacher,29.375339142647384,Overweight,29
+1.81,88.6,marketing manager,27.0443515155215,Overweight,16
+1.65,75.22,data analyst,27.629017447199267,Overweight,6
+1.82,56.03,mechanic,16.915227629513343,Underweight,17
+1.81,54.1,lawyer,16.513537437807148,Underweight,15
+1.65,64.53,biologist,23.702479338842977,Normal weight,3
+1.81,68.87,doctor,21.021946827019935,Normal weight,8
+1.54,84.25,musician,35.52454039467027,Overweight,18
+1.84,52.25,electrician,15.433010396975424,Underweight,10
+1.87,73.99,scientist,21.158740598816088,Normal weight,27
+1.54,97.01,accountant,40.90487434643279,Overweight,0
+1.61,56.08,artist,21.63496778673662,Normal weight,2
+1.86,61.01,artist,17.63498670366516,Underweight,2
+1.98,71.19,software developer,18.158861340679522,Underweight,28
+1.9,64.73,software developer,17.930747922437675,Underweight,28
+1.93,93.42,marketing manager,25.07986791591721,Overweight,16
+1.72,67.76,biologist,22.904272579772854,Normal weight,3
+1.97,75.46,doctor,19.443943415187196,Normal weight,8
+1.74,90.78,nurse,29.98414585810543,Overweight,19
+1.97,90.75,engineer,23.383751191733875,Normal weight,11
+1.57,52.82,musician,21.42886121140817,Normal weight,18
+1.52,95.41,software developer,41.29587950138504,Overweight,28
+1.97,75.29,pharmacist,19.4001391429823,Normal weight,20
+1.87,53.9,journalist,15.41365209185278,Underweight,14
+1.58,81.02,graphic designer,32.454734818138114,Overweight,13
+1.85,73.76,salesperson,21.551497443389334,Normal weight,26
+1.71,79.87,teacher,27.314387332854558,Overweight,29
+1.52,85.12,pharmacist,36.8421052631579,Overweight,20
+2.0,81.45,pharmacist,20.3625,Normal weight,20
+1.85,58.68,police officer,17.14536157779401,Underweight,24
+1.68,61.82,chemist,21.90334467120182,Normal weight,5
+1.72,98.02,doctor,33.13277447268794,Overweight,8
+1.9,87.68,nurse,24.288088642659282,Normal weight,19
+1.55,55.29,journalist,23.013527575442243,Normal weight,14
+1.56,78.87,data analyst,32.408777120315584,Overweight,6
+1.65,62.39,teacher,22.916437098255283,Normal weight,29
+1.72,55.99,marketing manager,18.925770686857764,Normal weight,16
+1.57,91.27,doctor,37.02787131323786,Overweight,8
+1.91,51.92,engineer,14.23206600696253,Underweight,11
+1.83,84.97,teacher,25.37251037654155,Overweight,29
+1.53,97.7,biologist,41.736084411978304,Overweight,3
+1.54,78.06,pilot,32.91448810929331,Overweight,22
+1.64,96.67,psychologist,35.94214753123142,Overweight,25
+1.76,88.4,pilot,28.53822314049587,Overweight,22
+1.67,71.09,firefighter,25.49033669188569,Overweight,12
+1.7,82.28,economist,28.47058823529412,Overweight,9
+1.52,54.89,scientist,23.757790858725762,Normal weight,27
+1.58,51.76,lawyer,20.73385675372536,Normal weight,15
+1.7,81.04,salesperson,28.041522491349486,Overweight,26
+1.69,55.46,salesperson,19.418087601974722,Normal weight,26
+1.71,92.94,graphic designer,31.78413870934647,Overweight,13
+1.88,96.5,teacher,27.303078315980084,Overweight,29
+1.68,51.65,pharmacist,18.300028344671205,Underweight,20
+1.82,72.8,economist,21.978021978021975,Normal weight,9
+1.75,94.62,economist,30.896326530612246,Overweight,9
+1.62,80.59,police officer,30.707971345831425,Overweight,24
+1.89,79.61,data analyst,22.28661011729795,Normal weight,6
+1.88,55.35,mechanic,15.660366681756452,Underweight,17
+1.7,91.68,marketing manager,31.723183391003467,Overweight,16
+1.51,90.24,salesperson,39.57721152581027,Overweight,26
+1.61,81.89,architect,31.592145364762157,Overweight,1
+1.92,66.83,pilot,18.128797743055557,Underweight,22
+1.97,80.0,pharmacist,20.613775155247495,Normal weight,20
+1.65,87.6,accountant,32.176308539944905,Overweight,0
+1.64,99.42,artist,36.96460440214159,Overweight,2
+1.6,86.53,firefighter,33.80078124999999,Overweight,12
+1.66,63.87,plumber,23.17825518943243,Normal weight,23
+1.78,74.11,journalist,23.39035475318773,Normal weight,14
+1.86,77.97,scientist,22.53728754769337,Normal weight,27
+1.83,52.41,biologist,15.649914897429003,Underweight,3
+1.55,89.15,dentist,37.107180020811654,Overweight,7
+1.84,97.74,teacher,28.86932892249527,Overweight,29
+1.7,95.13,chef,32.91695501730104,Overweight,4
+1.92,95.67,pilot,25.9521484375,Overweight,22
+1.54,93.22,chef,39.30679709900489,Overweight,4
+1.5,54.93,accountant,24.413333333333334,Normal weight,0
+1.53,90.76,architect,38.77141270451536,Overweight,1
+1.84,58.96,chemist,17.41493383742911,Underweight,5
+1.69,94.16,journalist,32.96803333216624,Overweight,14
+1.62,89.35,marketing manager,34.04587715287303,Overweight,16
+1.7,54.74,psychologist,18.94117647058824,Normal weight,25
+1.51,54.1,graphic designer,23.72702951624929,Normal weight,13
+1.59,68.97,psychologist,27.2813575412365,Overweight,25
+1.59,70.28,engineer,27.79953324631146,Overweight,11
+1.95,72.14,scientist,18.97172912557528,Normal weight,27
+1.97,61.97,physicist,15.96794557963359,Underweight,21
+1.57,59.69,firefighter,24.215992535194125,Normal weight,12
+1.93,97.21,journalist,26.09734489516497,Overweight,14
+1.88,78.33,economist,22.16217745586238,Normal weight,9
+1.59,58.08,mechanic,22.973774771567577,Normal weight,17
+1.84,65.29,doctor,19.284617202268432,Normal weight,8
+1.68,61.78,scientist,21.88917233560091,Normal weight,27
+1.63,83.53,doctor,31.438894952764503,Overweight,8
+1.74,81.6,data analyst,26.952041220768923,Overweight,6
+1.77,84.67,physicist,27.02607807462734,Overweight,21
+1.78,68.53,data analyst,21.629213483146067,Normal weight,6
+1.73,62.08,pilot,20.742423736175613,Normal weight,22
+1.61,87.53,nurse,33.767987346167196,Overweight,19
+1.72,57.65,nurse,19.486884802596,Normal weight,19
+1.78,67.04,pharmacist,21.158944577704837,Normal weight,20
+1.89,74.54,engineer,20.86727695193304,Normal weight,11
+1.99,54.69,physicist,13.810257316734425,Underweight,21
+1.86,91.53,engineer,26.456815816857436,Overweight,11
+1.99,77.11,economist,19.47173051185576,Normal weight,9
+1.7,74.22,data analyst,25.68166089965398,Overweight,6
+1.57,80.58,salesperson,32.69098137855491,Overweight,26
+1.71,73.31,plumber,25.070962005403377,Overweight,23
+1.87,79.21,marketing manager,22.651491320884205,Normal weight,16
+1.74,80.07,economist,26.446690447879504,Overweight,9
+1.59,77.4,mechanic,30.615877536489855,Overweight,17
+1.67,70.01,data analyst,25.10308723869626,Overweight,6
+1.82,60.05,graphic designer,18.128849172805214,Underweight,13
+1.94,97.82,nurse,25.991072377510893,Overweight,19
+1.97,67.0,lawyer,17.264036692519777,Underweight,15
+1.93,74.82,chef,20.086445273698622,Normal weight,4
+1.83,83.26,architect,24.861894950580787,Normal weight,1
+1.75,97.81,economist,31.93795918367347,Overweight,9
+1.87,70.93,scientist,20.283679830707197,Normal weight,27
+1.91,81.3,data analyst,22.285573312135085,Normal weight,6
+1.55,69.7,electrician,29.011446409989592,Overweight,10
+1.86,77.57,economist,22.421667244768177,Normal weight,9
+1.79,52.93,marketing manager,16.519459442589184,Underweight,16
+1.55,89.73,accountant,37.348595213319456,Overweight,0
+1.82,71.26,data analyst,21.51310228233305,Normal weight,6
+1.81,64.61,scientist,19.72162021916303,Normal weight,27
+1.66,63.72,salesperson,23.123820583538976,Normal weight,26
+1.56,54.03,engineer,22.201676528599606,Normal weight,11
+1.72,97.65,salesperson,33.007706868577614,Overweight,26
+2.0,89.02,firefighter,22.255,Normal weight,12
+1.59,50.02,pilot,19.785609746449904,Normal weight,22
+1.99,80.48,teacher,20.322719123254462,Normal weight,29
+1.9,58.52,salesperson,16.210526315789476,Underweight,26
+1.75,81.39,chef,26.576326530612246,Overweight,4
+1.9,59.32,graphic designer,16.43213296398892,Underweight,13
+1.87,67.32,data analyst,19.251336898395717,Normal weight,6
+1.67,54.24,police officer,19.448528093513573,Normal weight,24
+2.0,74.07,mechanic,18.5175,Normal weight,17
+1.81,73.29,plumber,22.37111199291841,Normal weight,23
+1.51,91.11,chemist,39.958773737993944,Overweight,5
+1.99,70.31,engineer,17.7546021565112,Underweight,11
+1.51,73.05,mechanic,32.03806850576729,Overweight,17
+1.95,74.32,pharmacist,19.545036160420775,Normal weight,20
+1.71,54.66,electrician,18.69293115830512,Normal weight,10
+1.68,88.01,psychologist,31.1826814058957,Overweight,25
+1.95,67.2,musician,17.67258382642998,Underweight,18
+1.72,67.23,engineer,22.725121687398598,Normal weight,11
+2.0,65.59,accountant,16.3975,Underweight,0
+1.91,73.24,dentist,20.07620405142403,Normal weight,7
+1.57,67.72,marketing manager,27.473731185849324,Overweight,16
+1.76,77.5,architect,25.019369834710744,Overweight,1
+1.88,98.3,chemist,27.812358533272974,Overweight,5
+1.74,97.99,mechanic,32.36557008851896,Overweight,17
+1.77,62.99,pharmacist,20.105972102524817,Normal weight,20
+1.82,88.24,lawyer,26.6392947711629,Overweight,15
+1.5,92.82,chemist,41.25333333333333,Overweight,5
+1.53,77.13,police officer,32.94886582083814,Overweight,24
+1.69,84.61,graphic designer,29.624312874199088,Overweight,13
+1.94,76.27,marketing manager,20.265171644170476,Normal weight,16
+1.72,94.91,pilot,32.081530557057874,Overweight,22
+1.77,94.87,physicist,30.281847489546426,Overweight,21
+1.84,52.56,teacher,15.524574669187146,Underweight,29
+1.5,92.48,police officer,41.102222222222224,Overweight,24
+1.97,64.72,lawyer,16.676544100595223,Underweight,15
+1.59,82.74,lawyer,32.72813575412364,Overweight,15
+1.72,74.06,mechanic,25.03380205516496,Overweight,17
+1.52,61.14,musician,26.462950138504155,Overweight,18
+1.55,80.49,journalist,33.50260145681581,Overweight,14
+1.69,80.13,firefighter,28.05574034522601,Overweight,12
+1.98,80.79,accountant,20.607591062136517,Normal weight,0
+1.97,90.23,plumber,23.24976165322477,Normal weight,23
+1.62,56.68,psychologist,21.59731748209114,Normal weight,25
+1.94,80.3,nurse,21.335954936762676,Normal weight,19
+1.6,97.61,musician,38.12890624999999,Overweight,18
+1.65,80.57,dentist,29.594123048668504,Overweight,7
+1.88,54.81,salesperson,15.507582616568584,Underweight,26
+1.68,66.72,psychologist,23.63945578231293,Normal weight,25
+1.61,76.22,architect,29.404729755796456,Overweight,1
+1.98,76.05,artist,19.398530762167127,Normal weight,2
+1.97,75.71,economist,19.508361462547345,Normal weight,9
+1.6,87.94,pharmacist,34.35156249999999,Overweight,20
+1.94,71.89,pharmacist,19.101392283983422,Normal weight,20
+1.58,77.63,salesperson,31.09677936228168,Overweight,26
+1.98,54.36,firefighter,13.86593204775023,Underweight,12
+1.69,95.46,biologist,33.42319946780575,Overweight,3
+1.68,85.14,teacher,30.165816326530617,Overweight,29
+1.79,57.92,doctor,18.07683904996723,Underweight,8
+1.56,63.44,architect,26.068376068376065,Overweight,1
+1.99,85.18,pilot,21.5095578394485,Normal weight,22
+1.52,93.15,chemist,40.31769390581718,Overweight,5
+1.98,57.02,mechanic,14.54443424140394,Underweight,17
+1.92,75.23,police officer,20.40744357638889,Normal weight,24
+1.9,63.6,doctor,17.617728531855956,Underweight,8
+1.93,58.7,graphic designer,15.758812317109186,Underweight,13
+1.6,99.39,journalist,38.82421874999999,Overweight,14
+1.5,70.08,physicist,31.146666666666665,Overweight,21
+1.79,90.25,pilot,28.167035985144036,Overweight,22
+1.53,69.34,lawyer,29.62108590712974,Overweight,15
+1.67,82.27,architect,29.499085661013304,Overweight,1
+1.54,67.37,marketing manager,28.406982627761852,Overweight,16
+1.72,78.28,artist,26.460248783126016,Overweight,2
+1.73,60.47,police officer,20.204483945337298,Normal weight,24
+1.77,95.02,architect,30.329726451530526,Overweight,1
+1.81,51.29,nurse,15.655810262202008,Underweight,19
+1.77,63.18,nurse,20.16661878770468,Normal weight,19
+1.93,83.85,architect,22.51067142742087,Normal weight,1
+1.62,87.79,firefighter,33.45145557079713,Overweight,12
+1.69,58.24,data analyst,20.39144287664998,Normal weight,6
+1.97,73.69,dentist,18.987863639877347,Normal weight,7
+1.74,79.18,doctor,26.15272823358436,Overweight,8
+1.66,89.52,software developer,32.48657279721295,Overweight,28
+1.65,97.46,firefighter,35.7979797979798,Overweight,12
+1.66,87.19,graphic designer,31.641021919001307,Overweight,13
+1.56,50.94,accountant,20.93195266272189,Normal weight,0
+1.85,74.38,plumber,21.732651570489406,Normal weight,23
+1.55,94.06,graphic designer,39.15088449531737,Overweight,13
+1.94,86.58,teacher,23.00457009246466,Normal weight,29
+1.73,94.17,salesperson,31.46446590263624,Overweight,26
+1.64,94.35,scientist,35.07956573468174,Overweight,27
+1.67,75.96,physicist,27.236544874323208,Overweight,21
+1.72,53.42,chef,18.057057869118445,Underweight,4
+1.95,73.62,graphic designer,19.36094674556213,Normal weight,13
+1.97,65.47,engineer,16.869798242675667,Underweight,11
+1.55,68.12,lawyer,28.35379812695109,Overweight,15
+1.77,80.35,artist,25.64716396948514,Overweight,2
+1.87,53.92,software developer,15.41937144327833,Underweight,28
+1.57,53.8,electrician,21.826443263418394,Normal weight,10
+1.68,54.82,economist,19.423185941043087,Normal weight,9
+1.63,60.91,mechanic,22.92521359479092,Normal weight,17
+1.76,50.76,psychologist,16.386880165289256,Underweight,25
+1.92,98.86,nurse,26.817491319444446,Overweight,19
+1.55,55.01,dentist,22.896982310093648,Normal weight,7
+1.76,57.3,salesperson,18.49819214876033,Underweight,26
+1.91,77.34,accountant,21.200076752282012,Normal weight,0
+1.63,73.9,mechanic,27.81437013060334,Overweight,17
+1.72,72.14,software developer,24.38480259599784,Normal weight,28
+1.58,85.19,doctor,34.125140201890716,Overweight,8
+1.53,72.91,firefighter,31.146140373360673,Overweight,12
+1.52,99.96,marketing manager,43.26523545706371,Overweight,16
+1.82,96.39,firefighter,29.09974640743871,Overweight,12
+1.6,84.74,pharmacist,33.10156249999999,Overweight,20
+1.71,69.91,accountant,23.9082110734927,Normal weight,0
+1.73,83.88,chemist,28.026328978582644,Overweight,5
+1.69,56.26,chef,19.69818983929134,Normal weight,4
+1.54,84.38,psychologist,35.57935570922584,Overweight,25
+1.53,54.51,teacher,23.285915673458927,Normal weight,29
+1.68,63.37,musician,22.452522675736965,Normal weight,18
+1.89,94.04,chef,26.326250664875005,Overweight,4
+1.72,69.98,musician,23.654678204434834,Normal weight,18
+1.88,63.77,electrician,18.042666364870986,Underweight,10
+1.61,85.24,engineer,32.88453377570309,Overweight,11
+1.55,69.98,musician,29.127991675338187,Overweight,18
+1.74,92.55,plumber,30.568767340467694,Overweight,23
+1.63,96.03,marketing manager,36.14362603033611,Overweight,16
+1.93,94.66,software developer,25.412762758731777,Overweight,28
+1.55,63.41,pharmacist,26.393340270551505,Overweight,20
+1.88,72.92,psychologist,20.63150746944319,Normal weight,25
+1.59,65.23,electrician,25.801985680946164,Overweight,10
+1.7,94.16,engineer,32.581314878892734,Overweight,11
+1.72,78.88,salesperson,26.663061114115738,Overweight,26
+1.68,65.06,musician,23.051303854875286,Normal weight,18
+1.94,65.07,biologist,17.289297481135083,Underweight,3
+1.78,64.41,data analyst,20.3288726170938,Normal weight,6
+1.85,75.38,software developer,22.024835646457266,Normal weight,28
+1.65,79.59,physicist,29.23415977961433,Overweight,21
+1.54,72.45,data analyst,30.54899645808737,Overweight,6
+1.71,67.2,electrician,22.981430183646253,Normal weight,10
+1.79,57.27,firefighter,17.87397397084985,Underweight,12
+1.85,94.53,nurse,27.62016070124178,Overweight,19
+1.99,60.54,accountant,15.287492740082321,Underweight,0
+1.8,98.02,economist,30.25308641975308,Overweight,9
+1.57,96.79,physicist,39.26731307558116,Overweight,21
+1.61,85.85,electrician,33.119864202769946,Overweight,10
+1.8,94.97,nurse,29.311728395061728,Overweight,19
+1.93,52.48,graphic designer,14.088968831378024,Underweight,13
+1.84,97.16,software developer,28.698015122873343,Overweight,28
+1.55,65.92,teacher,27.438085327783558,Overweight,29
+1.84,61.91,chemist,18.28627126654064,Underweight,5
+1.92,64.81,salesperson,17.58083767361111,Underweight,26
+1.58,94.62,doctor,37.90257971478929,Overweight,8
+1.65,56.0,teacher,20.569329660238754,Normal weight,29
+1.64,97.84,teacher,36.377156454491384,Overweight,29
+1.81,93.4,musician,28.509508256768722,Overweight,18
+1.76,80.37,accountant,25.945893595041326,Overweight,0
+1.82,82.44,chef,24.88829851467214,Normal weight,4
+1.8,89.67,psychologist,27.675925925925924,Overweight,25
+1.88,67.7,lawyer,19.1545948392938,Normal weight,15
+1.86,64.16,mechanic,18.54549658920106,Normal weight,17
+1.73,73.45,accountant,24.541414681412675,Normal weight,0
+1.81,86.23,engineer,26.320930374530693,Overweight,11
+1.95,55.91,accountant,14.703484549638397,Underweight,0
+1.94,83.92,scientist,22.297799978743758,Normal weight,27
+1.53,93.74,musician,40.04442735699944,Overweight,18
+1.56,51.21,software developer,21.042899408284022,Normal weight,28
+1.96,67.0,lawyer,17.440649729279468,Underweight,15
+1.8,89.25,graphic designer,27.546296296296294,Overweight,13
+1.6,98.15,electrician,38.33984374999999,Overweight,10
+1.92,71.22,lawyer,19.319661458333332,Normal weight,15
+1.7,63.82,graphic designer,22.083044982698965,Normal weight,13
+1.68,85.04,dentist,30.13038548752835,Overweight,7
+1.78,53.71,teacher,16.951773765938643,Underweight,29
+1.79,91.02,accountant,28.4073530788677,Overweight,0
+1.73,91.33,scientist,30.515553476561195,Overweight,27
+1.96,89.75,salesperson,23.362661391087048,Normal weight,26
+1.92,64.48,artist,17.491319444444446,Underweight,2
+1.99,90.25,police officer,22.78982853968334,Normal weight,24
+1.86,91.56,marketing manager,26.46548733957683,Overweight,16
+1.81,77.97,marketing manager,23.799639815634443,Normal weight,16
+1.85,62.38,graphic designer,18.22644265887509,Underweight,13
+1.55,70.84,mechanic,29.485952133194587,Overweight,17
+1.75,79.79,architect,26.05387755102041,Overweight,1
+1.73,92.09,artist,30.769487787764376,Overweight,2
+1.58,83.51,plumber,33.452171126422044,Overweight,23
+1.83,53.31,pilot,15.918659858460986,Underweight,22
+1.62,96.37,journalist,36.7207742722146,Overweight,14
+1.67,65.06,electrician,23.328193911578044,Normal weight,10
+1.92,71.47,architect,19.38747829861111,Normal weight,1
+1.72,82.92,mechanic,28.028664142779885,Overweight,17
+1.51,75.99,marketing manager,33.327485636594886,Overweight,16
+1.76,61.25,doctor,19.7733729338843,Normal weight,8
+1.5,58.07,plumber,25.808888888888887,Overweight,23
+1.61,93.41,police officer,36.03641834805755,Overweight,24
+1.51,79.44,dentist,34.84057716766808,Overweight,7
+1.85,98.8,software developer,28.86778670562454,Overweight,28
+1.64,76.71,chef,28.520969660916123,Overweight,4
+1.73,56.57,graphic designer,18.901399979952554,Normal weight,13
+1.97,62.91,chef,16.210157437707746,Underweight,4
+1.71,76.36,economist,26.11401798844089,Overweight,9
+1.58,64.49,doctor,25.833199807723116,Overweight,8
+1.94,88.02,lawyer,23.387182484854925,Normal weight,15
+1.84,52.07,biologist,15.37984404536862,Underweight,3
+1.53,71.02,pilot,30.338758597120766,Overweight,22
+1.76,65.81,marketing manager,21.24548037190083,Normal weight,16
+1.59,94.19,journalist,37.25722874886278,Overweight,14
+1.78,97.46,chef,30.760005049867438,Overweight,4
+1.59,55.28,musician,21.866223646216525,Normal weight,18
+1.63,62.25,nurse,23.4295607663066,Normal weight,19
+1.8,93.08,teacher,28.728395061728392,Overweight,29
+1.71,93.21,biologist,31.876474812762904,Overweight,3
+1.87,93.94,plumber,26.863793645800563,Overweight,23
+1.94,65.7,engineer,17.456690402805826,Underweight,11
+1.96,71.71,police officer,18.666701374427323,Normal weight,24
+1.62,86.15,firefighter,32.82655083066605,Overweight,12
+1.74,75.85,engineer,25.052847139648563,Overweight,11
+1.52,72.59,teacher,31.418801939058174,Overweight,29
+1.7,58.19,psychologist,20.134948096885815,Normal weight,25
+1.59,82.11,pharmacist,32.47893675091966,Overweight,20
+1.56,84.28,electrician,34.631821170282706,Overweight,10
+1.9,96.09,software developer,26.617728531855956,Overweight,28
+1.62,77.34,teacher,29.469593049839958,Overweight,29
+1.6,79.11,engineer,30.902343749999993,Overweight,11
+1.78,54.45,data analyst,17.185330135083955,Underweight,6
+1.84,80.23,lawyer,23.69742438563327,Normal weight,15
+1.81,50.31,salesperson,15.35667409419737,Underweight,26
+1.89,80.23,doctor,22.460177486632514,Normal weight,8
+1.66,53.84,chemist,19.538394542023518,Normal weight,5
+1.57,99.96,doctor,40.5533693050428,Overweight,8
+1.84,88.45,pharmacist,26.125354442344044,Overweight,20
+1.55,84.62,dentist,35.221644120707595,Overweight,7
+1.6,91.76,economist,35.84374999999999,Overweight,9
+1.94,82.31,teacher,21.87001806780742,Normal weight,29
+1.88,98.09,engineer,27.75294250792214,Overweight,11
+1.66,60.2,chemist,21.84642183190594,Normal weight,5
+1.57,83.6,chemist,33.9161832123007,Overweight,5
+1.98,69.11,biologist,17.62830323436384,Underweight,3
+1.51,72.6,lawyer,31.840708740844697,Overweight,15
+1.94,88.47,artist,23.506748857476886,Normal weight,2
+1.82,62.78,psychologist,18.95302499698104,Normal weight,25
+1.82,92.33,salesperson,27.87404902789518,Overweight,26
+1.97,60.87,marketing manager,15.684506171248936,Underweight,16
+1.85,59.54,artist,17.39663988312637,Underweight,2
+1.92,70.44,marketing manager,19.108072916666668,Normal weight,16
+1.84,72.67,teacher,21.464437618147446,Normal weight,29
+1.56,55.11,psychologist,22.645463510848124,Normal weight,25
+1.96,99.42,musician,25.879841732611414,Overweight,18
+1.7,54.99,chemist,19.027681660899656,Normal weight,5
+1.76,68.96,nurse,22.262396694214875,Normal weight,19
+1.79,70.55,psychologist,22.018663587278798,Normal weight,25
+1.98,88.0,mechanic,22.44668911335578,Normal weight,17
+1.58,98.95,economist,39.637077391443675,Overweight,9
+1.86,99.37,firefighter,28.722973754191234,Overweight,12
+1.68,70.94,biologist,25.134637188208618,Overweight,3
+1.91,91.98,police officer,25.21312464022368,Overweight,24
+1.75,55.96,pharmacist,18.27265306122449,Underweight,20
+1.97,58.23,artist,15.004251591125769,Underweight,2
+1.64,82.07,journalist,30.513831052944678,Overweight,14
+1.81,50.69,marketing manager,15.472665669546107,Underweight,16
+1.87,98.55,architect,28.182104149389453,Overweight,1
+2.0,68.2,electrician,17.05,Underweight,10
+1.83,54.09,dentist,16.151572158022034,Underweight,7
+1.84,81.59,doctor,24.09912570888469,Normal weight,8
+1.83,71.17,electrician,21.251754307384513,Normal weight,10
+1.89,94.75,chemist,26.52501329750007,Overweight,5
+1.91,65.11,pharmacist,17.84764672021052,Underweight,20
+1.66,63.57,economist,23.069385977645524,Normal weight,9
+1.53,58.95,accountant,25.18262206843522,Overweight,0
+1.98,99.35,graphic designer,25.34180185695337,Overweight,13
+1.85,63.47,chef,18.544923301680058,Normal weight,4
+1.69,51.97,pharmacist,18.196141591680966,Underweight,20
+1.5,77.73,artist,34.54666666666667,Overweight,2
+1.83,97.23,software developer,29.03341395682164,Overweight,28
+1.81,84.37,nurse,25.753182137297397,Overweight,19
+1.81,64.13,software developer,19.575104545038307,Normal weight,28
+1.74,60.35,physicist,19.933280486193684,Normal weight,21
+1.69,87.22,accountant,30.538146423444562,Overweight,0
+1.94,55.59,chef,14.770432564565843,Underweight,4
+1.93,66.36,pilot,17.81524336223791,Underweight,22
+1.54,96.86,electrician,40.84162590656097,Overweight,10
+1.77,93.88,teacher,29.965846340451336,Overweight,29
+1.67,79.71,mechanic,28.58116103123095,Overweight,17
+1.74,98.67,police officer,32.59017043202537,Overweight,24
+1.81,68.25,artist,20.832697414608834,Normal weight,2
+1.68,87.33,mechanic,30.941751700680275,Overweight,17
+1.83,77.41,chef,23.11505270387291,Normal weight,4
+1.66,84.34,police officer,30.606764407025697,Overweight,24
+1.72,79.47,salesperson,26.862493239588968,Overweight,26
+1.69,52.19,engineer,18.273169706943037,Underweight,11
+1.68,69.99,police officer,24.798044217687078,Normal weight,24
+1.74,54.81,chemist,18.103448275862068,Underweight,5
+1.85,65.93,salesperson,19.263696128560994,Normal weight,26
+1.79,74.13,accountant,23.135982023032987,Normal weight,0
+1.83,74.56,electrician,22.264026993938305,Normal weight,10
+1.56,52.68,mechanic,21.646942800788953,Normal weight,17
+1.84,76.85,software developer,22.69907844990548,Normal weight,28
+1.57,86.73,marketing manager,35.186011602904784,Overweight,16
+1.95,75.34,psychologist,19.81328073635766,Normal weight,25
+1.71,55.3,firefighter,18.911801921958894,Normal weight,12
+1.66,97.36,biologist,35.331688198577446,Overweight,3
+1.57,58.15,musician,23.59122073917806,Normal weight,18
+1.66,84.58,marketing manager,30.69385977645522,Overweight,16
+1.56,58.56,graphic designer,24.06311637080868,Normal weight,13
+1.7,70.11,plumber,24.25951557093426,Normal weight,23
+1.6,52.67,architect,20.574218749999996,Normal weight,1
+1.6,50.59,musician,19.761718749999996,Normal weight,18
+1.93,59.48,dentist,15.968213911782867,Underweight,7
+1.92,71.05,dentist,19.273546006944443,Normal weight,7
+1.68,51.96,graphic designer,18.409863945578234,Underweight,13
+1.72,50.71,plumber,17.14102217414819,Underweight,23
+1.92,99.23,police officer,26.917860243055557,Overweight,24
+1.62,92.78,journalist,35.35284255448864,Overweight,14
+1.56,61.8,chemist,25.394477317554237,Overweight,5
+1.91,82.61,software developer,22.644664345823855,Normal weight,28
+1.6,78.06,police officer,30.492187499999996,Overweight,24
+1.91,59.49,plumber,16.30711877415641,Underweight,23
+1.97,66.78,teacher,17.207348810842845,Underweight,29

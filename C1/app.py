@@ -1,9 +1,10 @@
 from fastapi import FastAPI, Body
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
 from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
 import tensorflow as tf
+import pandas as pd
 
 app = FastAPI()
 
@@ -29,6 +30,12 @@ async def predict_weight(height: float = Body(...), job: str = Body(...), model:
     lb.fit(jobs)
     job_encode = lb.transform([job])[0]
     weight_predict = 0
+    init_height = height
+    df = pd.read_csv('./person.csv')
+    X = df[['Height_m', 'Job_encode']]
+    scaler = MinMaxScaler()
+    scaler.fit(X)
+    height, job_encode = scaler.transform([[height, job_encode]])[0]
     if model == "cnn":
         class CNNModel(tf.Module):
             def __init__(self):
@@ -90,10 +97,16 @@ async def predict_weight(height: float = Body(...), job: str = Body(...), model:
         model.by.assign(np.load('./rnn/by.npy').astype(np.float32))
 
         weight_predict = model.forward(np.array([[height, job_encode]], dtype=np.float32).reshape(-1,1,2)).numpy()[0][0]
+    elif model == "cnn-keras":
+        model = tf.keras.models.load_model('./cnn_model.h5')
+        weight_predict = model.predict(np.array([[height, job_encode]], dtype=np.float32))[0][0]
+    elif model == "rnn-keras":
+        model = tf.keras.models.load_model('./rnn.h5')
+        weight_predict = model.predict(np.array([[height, job_encode]], dtype=np.float32))[0][0]
     else:
         with open("./model.pkl", "rb") as f:
             model = pickle.load(f)
         weight_predict = model.predict([[height, job_encode]])[0]
-    bmi = weight_predict / (height ** 2)
+    bmi = weight_predict / (init_height ** 2)
     return {"weight": '{:.2f}'.format(weight_predict),
             "bmi": '{:.2f}'.format(bmi)}
