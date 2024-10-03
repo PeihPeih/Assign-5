@@ -1,9 +1,10 @@
 from fastapi import FastAPI, Body
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
 from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
 import tensorflow as tf
+import pandas as pd
 
 app = FastAPI()
 
@@ -17,7 +18,13 @@ async def root():
 
 @app.post("/api/score/predict")
 async def predict_weight(score1: int = Body(...), score2: int = Body(...), score3: int = Body(...),model: str = Body(...)):
-
+    scaler = MinMaxScaler()
+    df = pd.read_csv('./sinh_vien_data.csv')
+    x = df[['Điểm 1', 'Điểm 2', 'Điểm 3']]
+    scaler.fit(x)
+    score_scaler = scaler.transform([[score1, score2, score3]])
+    score1, score2, score3 = score_scaler[0]
+    
     exam_score = 0
     if model == "cnn":
         class CNNModel(tf.Module):
@@ -83,6 +90,12 @@ async def predict_weight(score1: int = Body(...), score2: int = Body(...), score
         model.by.assign(np.load('./rnn/by.npy'))
 
         exam_score = model.forward(np.array([score1, score2, score3], dtype=np.float32).reshape(-1,1,3)).numpy()[0][0]
+    elif model == "cnn-keras":
+        model = tf.keras.models.load_model('./cnn.h5')
+        exam_score = model.predict(np.array([[score1, score2, score3]], dtype=np.float32))[0][0]
+    elif model == "rnn-keras":
+        model = tf.keras.models.load_model('./rnn.h5')
+        exam_score = model.predict(np.array([[score1, score2, score3]], dtype=np.float32))[0][0]
     else:
         with open("./model.pkl", "rb") as f:
             model = pickle.load(f)
